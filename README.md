@@ -1,5 +1,7 @@
 # ⏳ Loading Companion
 
+**🔗 Live demo: https://xshiroenguyenx.github.io/loading-companion/**
+
 A **library + demo gallery of loading animations**, designed to be **read by AI agents**.
 **2443 loaders** across **17 categories** (197 distinct designs × 12 theme colors) — and growing.
 

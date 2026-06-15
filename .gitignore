@@ -1,6 +1,7 @@
 node_modules/
 dist/
-public/
+# public/ holds committed static assets (favicon) + the generated registry copy.
+public/registry.json
 .DS_Store
 *.log
 .vite/
