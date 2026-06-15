@@ -129,11 +129,19 @@ The gallery is a static site (Vite, `base: './'`), so it works on any static hos
 
 ```bash
 npm run build          # outputs to dist/ (prebuild regenerates the registry)
-# then serve dist/ anywhere, e.g.:
-npx serve dist
+npx serve dist         # or serve dist/ anywhere
 ```
 
-For **GitHub Pages**: push the repo, build, and publish `dist/` (e.g. via an action or the `gh-pages` branch). Because `base` is relative, it also works from a project sub-path.
+### GitHub Pages (CI/CD — automatic)
+
+A workflow at [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) builds and
+deploys the gallery on every push to `main`. One-time setup:
+
+1. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. Push to `main` (or run the workflow manually from the Actions tab).
+
+The site publishes to `https://<user>.github.io/<repo>/`. Because `base` is relative, it
+works from that project sub-path with no config changes.
 
 ## License
 
