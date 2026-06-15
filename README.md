@@ -18,7 +18,35 @@ It is two things at once:
 - Honest counts — the build reports `original` vs `generated`; nothing is silently padded.
 - Clean licensing — originals are MIT (this project); the 22 imported loaders keep their upstream MIT notice (`LICENSES/`, `ATTRIBUTION.md`).
 
-## Quick start
+## Use it in your app (npm)
+
+```bash
+npm i loading-companion
+```
+
+```js
+import { searchLoaders, getLoader, snippet, registry } from 'loading-companion'
+
+registry.count                                   // 2443
+searchLoaders({ category: 'spinner', originalOnly: true })
+getLoader('spinner-classic')                     // full record incl. html/css/js
+snippet('spinner-classic')                       // paste-ready <style> + markup
+```
+
+Raw catalog: `import registry from 'loading-companion/registry.json'`.
+
+Run the bundled **MCP server** (no install needed):
+
+```bash
+npx loading-companion-mcp
+# add to Claude Code:
+claude mcp add loading-companion -- npx -y loading-companion-mcp
+```
+
+> The npm package ships the registry + MCP server only — not the per-loader source
+> folders or the gallery (those live in this repo and on the live demo).
+
+## Quick start (develop this repo)
 
 ```bash
 npm install          # installs Vite + the MCP server deps (npm workspaces)
@@ -144,6 +172,25 @@ deploys the gallery on every push to `main`. One-time setup:
 
 The site publishes to `https://<user>.github.io/<repo>/`. Because `base` is relative, it
 works from that project sub-path with no config changes.
+
+### npm (CI/CD — on a version tag)
+
+[`.github/workflows/publish.yml`](.github/workflows/publish.yml) publishes the package to
+npm whenever you push a `v*.*.*` tag (or run it manually from the Actions tab).
+
+One-time setup:
+
+1. Create an **npm automation token** — npmjs.com → *Access Tokens* → *Generate New Token* → **Automation**.
+2. Add it to the repo — **Settings → Secrets and variables → Actions → New repository secret**, name `NPM_TOKEN`.
+
+Cut a release:
+
+```bash
+npm version patch          # bumps package.json + creates the git tag
+git push --follow-tags     # pushing the tag triggers the publish workflow
+```
+
+The workflow runs `prepublishOnly` (rebuild + validate) and publishes with npm provenance.
 
 ## License
 

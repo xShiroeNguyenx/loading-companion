@@ -1,12 +1,43 @@
 {
   "name": "loading-companion",
   "version": "0.1.0",
-  "description": "A machine-readable library + demo gallery aiming for 1000 loading animations, designed for AI agents to read, pick, and reuse.",
+  "description": "A library of 2400+ loading animations as a machine-readable registry, plus an MCP server for AI agents. Import the catalog, or run the MCP.",
   "type": "module",
-  "private": true,
-  "workspaces": [
-    "mcp"
+  "license": "MIT",
+  "author": "Loading Companion",
+  "homepage": "https://xshiroenguyenx.github.io/loading-companion/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xShiroeNguyenx/loading-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xShiroeNguyenx/loading-companion/issues"
+  },
+  "keywords": [
+    "loading", "loader", "loaders", "spinner", "spinners", "css",
+    "animation", "skeleton", "progress", "registry", "mcp", "ai"
   ],
+  "main": "./index.mjs",
+  "module": "./index.mjs",
+  "exports": {
+    ".": "./index.mjs",
+    "./registry.json": "./data/registry.json",
+    "./schema": "./schema/loader.schema.json"
+  },
+  "bin": {
+    "loading-companion-mcp": "./mcp/server.mjs"
+  },
+  "files": [
+    "index.mjs",
+    "data/registry.json",
+    "mcp/server.mjs",
+    "schema/loader.schema.json",
+    "LICENSES",
+    "ATTRIBUTION.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "build:registry": "node scripts/build-registry.mjs",
     "validate": "node scripts/validate.mjs",
@@ -16,10 +47,14 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "mcp": "node mcp/server.mjs"
+    "mcp": "node mcp/server.mjs",
+    "prepublishOnly": "npm run build:registry && npm run validate"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "vite": "^5.4.0"
-  },
-  "license": "MIT"
+  }
 }
