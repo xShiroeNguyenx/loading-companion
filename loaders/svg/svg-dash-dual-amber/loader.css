@@ -1,0 +1,3 @@
+.l-svg-dash-dual-amber{--lc-color:#f59e0b}
+.l-svg-dash-dual-amber{width:var(--lc-size,48px);height:var(--lc-size,48px);color:var(--lc-color,#5b8def);animation:l-svg-dash-dual-amber-r var(--lc-speed,1s) linear infinite}
+@keyframes l-svg-dash-dual-amber-r{to{transform:rotate(1turn)}}

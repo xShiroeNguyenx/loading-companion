@@ -1,0 +1,6 @@
+.l-combo-orbit-spinner-violet{--lc-color:#8b5cf6}
+.l-combo-orbit-spinner-violet{position:relative;width:var(--lc-size,50px);height:var(--lc-size,50px)}
+.l-combo-orbit-spinner-violet::before{content:'';position:absolute;inset:9px;border:3px solid color-mix(in srgb,var(--lc-color,#5b8def) 22%,transparent);border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-combo-orbit-spinner-violet-r var(--lc-speed,1s) linear infinite}
+.l-combo-orbit-spinner-violet span{position:absolute;top:0;left:50%;width:10px;height:10px;margin-left:-5px;border-radius:50%;background:var(--lc-color,#5b8def);transform-origin:50% calc(var(--lc-size,50px)/2);animation:l-combo-orbit-spinner-violet-o calc(var(--lc-speed,1s)*1.6) linear infinite}
+@keyframes l-combo-orbit-spinner-violet-r{to{transform:rotate(1turn)}}
+@keyframes l-combo-orbit-spinner-violet-o{to{transform:rotate(1turn)}}

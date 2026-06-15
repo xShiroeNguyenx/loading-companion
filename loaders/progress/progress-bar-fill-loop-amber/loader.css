@@ -1,0 +1,4 @@
+.l-progress-bar-fill-loop-amber{--lc-color:#f59e0b}
+.l-progress-bar-fill-loop-amber{width:var(--lc-size,220px);height:8px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-progress-bar-fill-loop-amber span{display:block;height:100%;width:0;border-radius:4px;background:var(--lc-color,#5b8def);animation:l-progress-bar-fill-loop-amber-f var(--lc-speed,2s) ease-in-out infinite}
+@keyframes l-progress-bar-fill-loop-amber-f{0%{width:0}70%,100%{width:100%}}

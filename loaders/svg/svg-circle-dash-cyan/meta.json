@@ -1,0 +1,29 @@
+{
+  "id": "svg-circle-dash-cyan",
+  "name": "SVG Dash Circle — Cyan",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "circle",
+    "theme",
+    "cyan"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-circle-dash"
+}

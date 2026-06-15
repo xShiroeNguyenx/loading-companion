@@ -1,0 +1,3 @@
+.l-text-blink-blue{--lc-color:#3b82f6}
+.l-text-blink-blue{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155);animation:l-text-blink-blue-b var(--lc-speed,1s) step-start infinite}
+@keyframes l-text-blink-blue-b{0%,49%{opacity:1}50%,100%{opacity:.25}}

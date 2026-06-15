@@ -1,0 +1,29 @@
+{
+  "id": "whirl-fidget-cyan",
+  "name": "Fidget Spinner — Cyan",
+  "category": "orbit",
+  "tags": [
+    "fidget",
+    "lobes",
+    "rotate",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-fidget"
+}

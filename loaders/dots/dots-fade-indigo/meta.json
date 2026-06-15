@@ -1,0 +1,29 @@
+{
+  "id": "dots-fade-indigo",
+  "name": "Fading Dots — Indigo",
+  "category": "dots",
+  "tags": [
+    "fade",
+    "opacity",
+    "three",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-fade"
+}

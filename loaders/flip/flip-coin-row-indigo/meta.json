@@ -1,0 +1,29 @@
+{
+  "id": "flip-coin-row-indigo",
+  "name": "Flipping Coins — Indigo",
+  "category": "flip",
+  "tags": [
+    "coins",
+    "rotate-y",
+    "three",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-coin-row"
+}

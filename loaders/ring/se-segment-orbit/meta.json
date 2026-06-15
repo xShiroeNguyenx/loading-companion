@@ -1,0 +1,28 @@
+{
+  "id": "se-segment-orbit",
+  "name": "Segment Orbit",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "conic",
+    "mask",
+    "arc"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

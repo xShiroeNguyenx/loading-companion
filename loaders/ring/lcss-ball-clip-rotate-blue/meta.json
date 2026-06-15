@@ -1,0 +1,29 @@
+{
+  "id": "lcss-ball-clip-rotate-blue",
+  "name": "Ball Clip Rotate — Blue",
+  "category": "ring",
+  "tags": [
+    "ring",
+    "clip",
+    "rotate",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": ".75s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-clip-rotate"
+}

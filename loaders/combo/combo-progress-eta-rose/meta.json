@@ -1,0 +1,31 @@
+{
+  "id": "combo-progress-eta-rose",
+  "name": "Bar + ETA — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "eta",
+    "text",
+    "theme",
+    "rose"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "190px",
+    "--lc-color": "#f43f5e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-progress-eta"
+}

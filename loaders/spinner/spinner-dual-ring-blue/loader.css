@@ -1,0 +1,3 @@
+.l-spinner-dual-ring-blue{--lc-color:#3b82f6}
+.l-spinner-dual-ring-blue{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:calc(var(--lc-size,48px)/10) solid transparent;border-top-color:var(--lc-color,#5b8def);border-bottom-color:var(--lc-color,#5b8def);animation:l-spinner-dual-ring-blue-spin var(--lc-speed,1.1s) cubic-bezier(.5,0,.5,1) infinite}
+@keyframes l-spinner-dual-ring-blue-spin{to{transform:rotate(1turn)}}

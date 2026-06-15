@@ -1,0 +1,3 @@
+.l-spinner-half-circle-slate{--lc-color:#64748b}
+.l-spinner-half-circle-slate{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:calc(var(--lc-size,48px)/8) solid transparent;border-top-color:var(--lc-color,#5b8def);border-left-color:var(--lc-color,#5b8def);animation:l-spinner-half-circle-slate-r var(--lc-speed,.9s) linear infinite}
+@keyframes l-spinner-half-circle-slate-r{to{transform:rotate(1turn)}}

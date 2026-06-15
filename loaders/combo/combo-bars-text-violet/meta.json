@@ -1,0 +1,30 @@
+{
+  "id": "combo-bars-text-violet",
+  "name": "Equalizer + Text — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "bars",
+    "text",
+    "audio",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#8b5cf6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bars-text"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "combo-favicon-progress-green",
+  "name": "Favicon + Progress % — Green",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "ring",
+    "logo",
+    "percent",
+    "theme",
+    "green"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "74px",
+    "--lc-color": "#22c55e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-progress"
+}

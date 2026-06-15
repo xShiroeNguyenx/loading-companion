@@ -1,0 +1,30 @@
+{
+  "id": "se-plus-pulse-teal",
+  "name": "Plus Pulse — Teal",
+  "category": "pulse",
+  "tags": [
+    "single-element",
+    "cross",
+    "pseudo",
+    "scale",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-plus-pulse"
+}

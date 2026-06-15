@@ -1,0 +1,29 @@
+{
+  "id": "pulse-rings-static-indigo",
+  "name": "Nested Rings — Indigo",
+  "category": "pulse",
+  "tags": [
+    "rings",
+    "nested",
+    "fade",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-rings-static"
+}

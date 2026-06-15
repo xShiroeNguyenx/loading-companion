@@ -1,0 +1,29 @@
+{
+  "id": "text-ellipsis-emerald",
+  "name": "Loading Ellipsis — Emerald",
+  "category": "text",
+  "tags": [
+    "text",
+    "ellipsis",
+    "dots",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-ellipsis"
+}

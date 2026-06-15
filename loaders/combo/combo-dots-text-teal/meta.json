@@ -1,0 +1,30 @@
+{
+  "id": "combo-dots-text-teal",
+  "name": "Dots + Text — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "text",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "10px",
+    "--lc-color": "#14b8a6",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-text"
+}

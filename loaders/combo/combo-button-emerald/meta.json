@@ -1,0 +1,29 @@
+{
+  "id": "combo-button-emerald",
+  "name": "Button + Spinner — Emerald",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "button",
+    "text",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#10b981",
+    "--lc-speed": ".8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-button"
+}

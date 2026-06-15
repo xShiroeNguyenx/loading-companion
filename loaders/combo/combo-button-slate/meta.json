@@ -1,0 +1,29 @@
+{
+  "id": "combo-button-slate",
+  "name": "Button + Spinner — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "button",
+    "text",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-speed": ".8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-button"
+}

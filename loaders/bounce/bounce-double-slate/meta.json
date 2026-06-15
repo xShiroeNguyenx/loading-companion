@@ -1,0 +1,29 @@
+{
+  "id": "bounce-double-slate",
+  "name": "Double Bounce — Slate",
+  "category": "bounce",
+  "tags": [
+    "bounce",
+    "two",
+    "fade",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-double"
+}

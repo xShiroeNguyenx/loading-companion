@@ -1,0 +1,29 @@
+{
+  "id": "pulse-heart-teal",
+  "name": "Heartbeat — Teal",
+  "category": "pulse",
+  "tags": [
+    "heart",
+    "beat",
+    "scale",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-heart"
+}

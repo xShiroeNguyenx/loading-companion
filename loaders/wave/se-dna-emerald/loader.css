@@ -1,0 +1,6 @@
+.l-se-dna-emerald{--lc-color:#10b981}
+.l-se-dna-emerald{position:relative;width:var(--lc-size,40px);height:12px}
+.l-se-dna-emerald::before,.l-se-dna-emerald::after{content:'';position:absolute;top:1px;width:10px;height:10px;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-dna-emerald-a var(--lc-speed,1.4s) ease-in-out infinite}
+.l-se-dna-emerald::after{animation-name:l-se-dna-emerald-b}
+@keyframes l-se-dna-emerald-a{0%,100%{left:0;transform:scale(1);z-index:2}50%{left:calc(100% - 10px);transform:scale(.5);z-index:0}}
+@keyframes l-se-dna-emerald-b{0%,100%{left:calc(100% - 10px);transform:scale(.5);z-index:0}50%{left:0;transform:scale(1);z-index:2}}

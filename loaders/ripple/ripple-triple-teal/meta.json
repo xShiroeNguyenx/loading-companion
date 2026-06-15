@@ -1,0 +1,29 @@
+{
+  "id": "ripple-triple-teal",
+  "name": "Triple Ripple — Teal",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "rings",
+    "expand",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-triple"
+}

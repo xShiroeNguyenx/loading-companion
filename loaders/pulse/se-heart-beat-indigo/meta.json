@@ -1,0 +1,30 @@
+{
+  "id": "se-heart-beat-indigo",
+  "name": "Heartbeat — Indigo",
+  "category": "pulse",
+  "tags": [
+    "single-element",
+    "heart",
+    "pseudo",
+    "beat",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "34px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-heart-beat"
+}

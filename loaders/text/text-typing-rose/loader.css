@@ -1,0 +1,4 @@
+.l-text-typing-rose{--lc-color:#f43f5e}
+.l-text-typing-rose{font:600 var(--lc-size,18px)/1 ui-monospace,monospace;color:var(--lc-color,#334155);display:inline-flex;align-items:center}
+.l-text-typing-rose-c{display:inline-block;width:2px;height:1.1em;margin-left:2px;background:var(--lc-color,#334155);animation:l-text-typing-rose-b var(--lc-speed,1s) step-end infinite}
+@keyframes l-text-typing-rose-b{0%,100%{opacity:1}50%{opacity:0}}

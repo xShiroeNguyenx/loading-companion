@@ -1,0 +1,30 @@
+{
+  "id": "progress-blocks-emerald",
+  "name": "Block Steps — Emerald",
+  "category": "progress",
+  "tags": [
+    "blocks",
+    "segment",
+    "fill",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#10b981",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-blocks"
+}

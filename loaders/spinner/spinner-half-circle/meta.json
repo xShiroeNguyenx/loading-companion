@@ -1,0 +1,25 @@
+{
+  "id": "spinner-half-circle",
+  "name": "Half Circle",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

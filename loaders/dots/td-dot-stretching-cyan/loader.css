@@ -1,0 +1,3 @@
+.l-td-dot-stretching-cyan{--lc-color:#06b6d4}
+.l-td-dot-stretching-cyan{width:var(--lc-size,14px);height:var(--lc-size,14px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-td-dot-stretching-cyan-s var(--lc-speed,1.2s) ease infinite}
+@keyframes l-td-dot-stretching-cyan-s{0%,100%{transform:scaleX(1)}50%{transform:scaleX(2.6);border-radius:40%}}

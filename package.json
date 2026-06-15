@@ -1,0 +1,25 @@
+{
+  "name": "loading-companion",
+  "version": "0.1.0",
+  "description": "A machine-readable library + demo gallery aiming for 1000 loading animations, designed for AI agents to read, pick, and reuse.",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "mcp"
+  ],
+  "scripts": {
+    "build:registry": "node scripts/build-registry.mjs",
+    "validate": "node scripts/validate.mjs",
+    "generate:variants": "node scripts/generate-variants.mjs",
+    "prebuild": "npm run build:registry",
+    "predev": "npm run build:registry",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "mcp": "node mcp/server.mjs"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "license": "MIT"
+}

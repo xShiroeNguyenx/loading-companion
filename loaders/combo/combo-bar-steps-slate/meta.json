@@ -1,0 +1,31 @@
+{
+  "id": "combo-bar-steps-slate",
+  "name": "Block Steps + Label — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "blocks",
+    "text",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-steps"
+}

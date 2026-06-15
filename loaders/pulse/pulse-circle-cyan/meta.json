@@ -1,0 +1,29 @@
+{
+  "id": "pulse-circle-cyan",
+  "name": "Pulse Circle — Cyan",
+  "category": "pulse",
+  "tags": [
+    "pulse",
+    "scale",
+    "fade",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-circle"
+}

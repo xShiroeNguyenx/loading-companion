@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-dual-text-violet",
+  "name": "Dual Ring + Text — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "dual",
+    "text",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#8b5cf6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-dual-text"
+}

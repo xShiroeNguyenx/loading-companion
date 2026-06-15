@@ -1,0 +1,3 @@
+.l-spinner-dashed-green{--lc-color:#22c55e}
+.l-spinner-dashed-green{width:var(--lc-size,48px);height:var(--lc-size,48px);border:calc(var(--lc-size,48px)/8) dashed var(--lc-color,#5b8def);border-radius:50%;animation:l-spinner-dashed-green-spin var(--lc-speed,4s) linear infinite}
+@keyframes l-spinner-dashed-green-spin{to{transform:rotate(1turn)}}

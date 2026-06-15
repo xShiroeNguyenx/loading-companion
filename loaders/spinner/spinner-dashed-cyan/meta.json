@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dashed-cyan",
+  "name": "Dashed Ring — Cyan",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "dashed",
+    "rotate",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dashed"
+}

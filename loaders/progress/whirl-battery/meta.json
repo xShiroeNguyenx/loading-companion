@@ -1,0 +1,26 @@
+{
+  "id": "whirl-battery",
+  "name": "Battery",
+  "category": "progress",
+  "tags": [
+    "battery",
+    "charge",
+    "fill"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": false,
+  "baseId": null
+}

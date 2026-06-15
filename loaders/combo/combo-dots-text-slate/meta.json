@@ -1,0 +1,30 @@
+{
+  "id": "combo-dots-text-slate",
+  "name": "Dots + Text — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "text",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "10px",
+    "--lc-color": "#64748b",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-text"
+}

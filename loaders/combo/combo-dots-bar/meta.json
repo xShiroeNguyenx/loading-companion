@@ -1,0 +1,28 @@
+{
+  "id": "combo-dots-bar",
+  "name": "Dots + Bar",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "progress",
+    "stacked"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

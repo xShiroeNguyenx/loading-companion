@@ -1,0 +1,26 @@
+{
+  "id": "ripple-radar",
+  "name": "Radar Sweep",
+  "category": "ripple",
+  "tags": [
+    "radar",
+    "sweep",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "52px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

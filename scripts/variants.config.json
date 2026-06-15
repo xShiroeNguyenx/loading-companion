@@ -1,0 +1,36 @@
+{
+  "_comment": "Variant generation config. 'auto.themes' applies a curated color palette to every base loader that exposes --lc-color, producing useful THEMED variants (not new kinds) — that is why the build reports original vs generated separately. 'families' holds hand-tuned variants. Run: npm run generate:variants && npm run build:registry",
+  "auto": {
+    "themes": {
+      "palettes": [
+        { "suffix": "red", "label": "Red", "color": "#ef4444" },
+        { "suffix": "orange", "label": "Orange", "color": "#f97316" },
+        { "suffix": "amber", "label": "Amber", "color": "#f59e0b" },
+        { "suffix": "green", "label": "Green", "color": "#22c55e" },
+        { "suffix": "emerald", "label": "Emerald", "color": "#10b981" },
+        { "suffix": "teal", "label": "Teal", "color": "#14b8a6" },
+        { "suffix": "cyan", "label": "Cyan", "color": "#06b6d4" },
+        { "suffix": "blue", "label": "Blue", "color": "#3b82f6" },
+        { "suffix": "indigo", "label": "Indigo", "color": "#6366f1" },
+        { "suffix": "violet", "label": "Violet", "color": "#8b5cf6" },
+        { "suffix": "rose", "label": "Rose", "color": "#f43f5e" },
+        { "suffix": "slate", "label": "Slate", "color": "#64748b" }
+      ],
+      "applyTo": {}
+    }
+  },
+  "families": [
+    {
+      "baseId": "spinner-classic",
+      "variants": [
+        { "suffix": "reverse", "label": "Reverse", "cssReplace": [["linear infinite", "linear infinite reverse"]], "tagsAdd": ["reverse"] }
+      ]
+    },
+    {
+      "baseId": "spinner-dashed",
+      "variants": [
+        { "suffix": "fast", "label": "Fast", "varsCss": "--lc-speed:1.5s", "variables": { "--lc-speed": "1.5s" }, "tagsAdd": ["fast"] }
+      ]
+    }
+  ]
+}

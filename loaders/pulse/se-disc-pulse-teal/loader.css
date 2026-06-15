@@ -1,0 +1,4 @@
+.l-se-disc-pulse-teal{--lc-color:#14b8a6}
+.l-se-disc-pulse-teal{width:var(--lc-size,46px);aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,var(--lc-color,#5b8def) var(--r,10%),transparent 0);animation:l-se-disc-pulse-teal-p var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-se-disc-pulse-teal-p{0%,100%{--r:10%}50%{--r:70%}}
+@property --r{syntax:'<percentage>';inherits:false;initial-value:10%}

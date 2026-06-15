@@ -1,0 +1,29 @@
+{
+  "id": "dots-collision-indigo",
+  "name": "Collision — Indigo",
+  "category": "dots",
+  "tags": [
+    "collision",
+    "two",
+    "translate",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-collision"
+}

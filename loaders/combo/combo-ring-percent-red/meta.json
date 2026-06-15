@@ -1,0 +1,30 @@
+{
+  "id": "combo-ring-percent-red",
+  "name": "Ring + Percent — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "percent",
+    "counter",
+    "theme",
+    "red"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#ef4444",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-ring-percent"
+}

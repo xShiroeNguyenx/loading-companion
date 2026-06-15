@@ -1,0 +1,3 @@
+.l-3d-rotating-plane-blue{--lc-color:#3b82f6}
+.l-3d-rotating-plane-blue{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-3d-rotating-plane-blue-r var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-3d-rotating-plane-blue-r{0%{transform:perspective(160px) rotateX(0) rotateY(0)}50%{transform:perspective(160px) rotateX(-180deg) rotateY(0)}100%{transform:perspective(160px) rotateX(-180deg) rotateY(-180deg)}}

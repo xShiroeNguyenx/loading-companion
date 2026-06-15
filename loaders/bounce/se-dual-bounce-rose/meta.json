@@ -1,0 +1,30 @@
+{
+  "id": "se-dual-bounce-rose",
+  "name": "Dual Bounce Tube — Rose",
+  "category": "bounce",
+  "tags": [
+    "single-element",
+    "bounce",
+    "pseudo",
+    "two",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "16px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dual-bounce"
+}

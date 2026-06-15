@@ -1,0 +1,6 @@
+.l-dots-fade-emerald{--lc-color:#10b981}
+.l-dots-fade-emerald{display:flex;gap:calc(var(--lc-size,12px)/1.5)}
+.l-dots-fade-emerald span{width:var(--lc-size,12px);height:var(--lc-size,12px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-dots-fade-emerald-f var(--lc-speed,1.2s) linear infinite}
+.l-dots-fade-emerald span:nth-child(2){animation-delay:.4s}
+.l-dots-fade-emerald span:nth-child(3){animation-delay:.8s}
+@keyframes l-dots-fade-emerald-f{0%,100%{opacity:.2}50%{opacity:1}}

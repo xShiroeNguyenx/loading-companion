@@ -1,0 +1,30 @@
+{
+  "id": "se-segment-orbit-amber",
+  "name": "Segment Orbit — Amber",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "conic",
+    "mask",
+    "arc",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-segment-orbit"
+}

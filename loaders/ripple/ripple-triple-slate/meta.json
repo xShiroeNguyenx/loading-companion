@@ -1,0 +1,29 @@
+{
+  "id": "ripple-triple-slate",
+  "name": "Triple Ripple — Slate",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "rings",
+    "expand",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-triple"
+}

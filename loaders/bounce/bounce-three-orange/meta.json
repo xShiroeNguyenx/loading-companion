@@ -1,0 +1,29 @@
+{
+  "id": "bounce-three-orange",
+  "name": "Three Balls — Orange",
+  "category": "bounce",
+  "tags": [
+    "balls",
+    "squash",
+    "three",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "16px",
+    "--lc-color": "#f97316",
+    "--lc-speed": ".7s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-three"
+}

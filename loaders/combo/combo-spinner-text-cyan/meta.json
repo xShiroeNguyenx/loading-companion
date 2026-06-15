@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-text-cyan",
+  "name": "Spinner + Text — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "ellipsis",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#06b6d4",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-text"
+}

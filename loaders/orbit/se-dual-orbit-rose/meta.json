@@ -1,0 +1,30 @@
+{
+  "id": "se-dual-orbit-rose",
+  "name": "Dual Orbit — Rose",
+  "category": "orbit",
+  "tags": [
+    "single-element",
+    "orbit",
+    "pseudo",
+    "rotate",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dual-orbit"
+}

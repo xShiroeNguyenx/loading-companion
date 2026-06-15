@@ -1,0 +1,31 @@
+{
+  "id": "combo-skeleton-spinner-slate",
+  "name": "Skeleton + Spinner — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "skeleton",
+    "spinner",
+    "overlay",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-base": "#e2e8f0",
+    "--lc-highlight": "#f1f5f9",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-skeleton-spinner"
+}

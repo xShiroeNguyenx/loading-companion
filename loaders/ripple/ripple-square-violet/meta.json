@@ -1,0 +1,29 @@
+{
+  "id": "ripple-square-violet",
+  "name": "Square Ripple — Violet",
+  "category": "ripple",
+  "tags": [
+    "square",
+    "expand",
+    "rings",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "56px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-square"
+}

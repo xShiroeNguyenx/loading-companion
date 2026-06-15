@@ -1,0 +1,5 @@
+.l-whirl-battery-slate{--lc-color:#64748b}
+.l-whirl-battery-slate{position:relative;width:44px;height:22px;border:2px solid var(--lc-color,#5b8def);border-radius:4px}
+.l-whirl-battery-slate::after{content:'';position:absolute;right:-6px;top:6px;width:3px;height:8px;background:var(--lc-color,#5b8def);border-radius:0 2px 2px 0}
+.l-whirl-battery-slate span{position:absolute;left:2px;top:2px;bottom:2px;width:4px;background:var(--lc-color,#5b8def);border-radius:1px;animation:l-whirl-battery-slate-c var(--lc-speed,2s) ease-in-out infinite}
+@keyframes l-whirl-battery-slate-c{0%{width:0}90%,100%{width:34px}}

@@ -1,0 +1,29 @@
+{
+  "id": "3d-rotating-plane-blue",
+  "name": "3D Rotating Plane — Blue",
+  "category": "3d",
+  "tags": [
+    "plane",
+    "flip",
+    "perspective",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-rotating-plane"
+}

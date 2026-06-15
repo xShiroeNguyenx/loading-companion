@@ -1,0 +1,31 @@
+{
+  "id": "combo-favicon-loading",
+  "name": "Favicon + Loading",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "spinner",
+    "logo",
+    "text"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "74px",
+    "--lc-color": "#5b8def",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

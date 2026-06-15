@@ -1,0 +1,6 @@
+.l-td-dot-fire-rose{--lc-color:#f43f5e}
+.l-td-dot-fire-rose{display:flex;gap:4px;align-items:flex-end;height:30px}
+.l-td-dot-fire-rose span{width:var(--lc-size,10px);height:var(--lc-size,10px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-td-dot-fire-rose-f var(--lc-speed,1s) ease-in-out infinite}
+.l-td-dot-fire-rose span:nth-child(2){animation-delay:.15s}
+.l-td-dot-fire-rose span:nth-child(3){animation-delay:.3s}
+@keyframes l-td-dot-fire-rose-f{0%{transform:translateY(0) scale(1);opacity:1}100%{transform:translateY(-18px) scale(.3);opacity:0}}

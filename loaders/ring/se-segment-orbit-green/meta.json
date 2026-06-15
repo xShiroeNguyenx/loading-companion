@@ -1,0 +1,30 @@
+{
+  "id": "se-segment-orbit-green",
+  "name": "Segment Orbit — Green",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "conic",
+    "mask",
+    "arc",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-segment-orbit"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "se-comet-amber",
+  "name": "Comet Ring — Amber",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "mask",
+    "rotate",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-comet"
+}

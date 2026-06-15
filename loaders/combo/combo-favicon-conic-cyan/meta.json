@@ -1,0 +1,33 @@
+{
+  "id": "combo-favicon-conic-cyan",
+  "name": "Favicon + Conic Ring — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "conic",
+    "logo",
+    "text",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "74px",
+    "--lc-color": "#06b6d4",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-conic"
+}

@@ -1,0 +1,4 @@
+.l-skeleton-text{width:var(--lc-size,220px);display:flex;flex-direction:column;gap:10px}
+.l-skeleton-text div{height:12px;border-radius:6px;background:linear-gradient(90deg,var(--lc-base,#e2e8f0) 25%,var(--lc-highlight,#f1f5f9) 37%,var(--lc-base,#e2e8f0) 63%);background-size:400% 100%;animation:l-skeleton-text-sh var(--lc-speed,1.4s) ease infinite}
+.l-skeleton-text div:last-child{width:60%}
+@keyframes l-skeleton-text-sh{0%{background-position:100% 0}100%{background-position:-100% 0}}

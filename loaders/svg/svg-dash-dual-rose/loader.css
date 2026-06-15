@@ -1,0 +1,3 @@
+.l-svg-dash-dual-rose{--lc-color:#f43f5e}
+.l-svg-dash-dual-rose{width:var(--lc-size,48px);height:var(--lc-size,48px);color:var(--lc-color,#5b8def);animation:l-svg-dash-dual-rose-r var(--lc-speed,1s) linear infinite}
+@keyframes l-svg-dash-dual-rose-r{to{transform:rotate(1turn)}}

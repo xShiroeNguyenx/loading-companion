@@ -1,0 +1,29 @@
+{
+  "id": "bounce-double-emerald",
+  "name": "Double Bounce — Emerald",
+  "category": "bounce",
+  "tags": [
+    "bounce",
+    "two",
+    "fade",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-double"
+}

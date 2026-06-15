@@ -1,0 +1,26 @@
+{
+  "id": "bars-scale",
+  "name": "Scaling Bars",
+  "category": "bars",
+  "tags": [
+    "scale",
+    "stretch"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "7px",
+    "--lc-height": "36px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

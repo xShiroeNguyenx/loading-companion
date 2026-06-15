@@ -1,0 +1,29 @@
+{
+  "id": "dots-color-cycle-violet",
+  "name": "Color Cycling Dots — Violet",
+  "category": "dots",
+  "tags": [
+    "color",
+    "hue",
+    "three",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-color-cycle"
+}

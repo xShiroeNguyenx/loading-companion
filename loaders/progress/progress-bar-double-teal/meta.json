@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-double-teal",
+  "name": "Material Bar — Teal",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "indeterminate",
+    "material",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#14b8a6",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2.1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-double"
+}

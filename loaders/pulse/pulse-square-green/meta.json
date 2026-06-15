@@ -1,0 +1,29 @@
+{
+  "id": "pulse-square-green",
+  "name": "Pulsing Square — Green",
+  "category": "pulse",
+  "tags": [
+    "square",
+    "scale",
+    "rotate",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-square"
+}

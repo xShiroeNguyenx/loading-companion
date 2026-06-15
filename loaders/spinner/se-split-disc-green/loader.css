@@ -1,0 +1,3 @@
+.l-se-split-disc-green{--lc-color:#22c55e}
+.l-se-split-disc-green{width:var(--lc-size,44px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) 0 50%,color-mix(in srgb,var(--lc-color,#5b8def) 20%,transparent) 0);animation:l-se-split-disc-green-r var(--lc-speed,1s) linear infinite}
+@keyframes l-se-split-disc-green-r{to{transform:rotate(1turn)}}

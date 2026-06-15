@@ -1,0 +1,33 @@
+{
+  "id": "combo-favicon-orbit-teal",
+  "name": "Favicon + Orbit Dots — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "orbit",
+    "logo",
+    "dots",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "74px",
+    "--lc-color": "#14b8a6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-orbit"
+}

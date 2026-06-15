@@ -1,0 +1,3 @@
+.l-whirl-box-spin-rose{--lc-color:#f43f5e}
+.l-whirl-box-spin-rose{width:var(--lc-size,34px);height:var(--lc-size,34px);background:var(--lc-color,#5b8def);animation:l-whirl-box-spin-rose-r var(--lc-speed,2s) cubic-bezier(.6,.01,.4,1) infinite}
+@keyframes l-whirl-box-spin-rose-r{0%{transform:perspective(160px) rotateX(0) rotateY(0)}50%{transform:perspective(160px) rotateX(180deg) rotateY(0)}100%{transform:perspective(160px) rotateX(180deg) rotateY(180deg)}}

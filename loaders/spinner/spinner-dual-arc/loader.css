@@ -1,0 +1,2 @@
+.l-spinner-dual-arc{width:var(--lc-size,44px);height:var(--lc-size,44px);border:calc(var(--lc-size,44px)/8) solid transparent;border-top-color:var(--lc-color,#5b8def);border-bottom-color:color-mix(in srgb,var(--lc-color,#5b8def) 40%,transparent);border-radius:50%;animation:l-spinner-dual-arc-r var(--lc-speed,1s) linear infinite}
+@keyframes l-spinner-dual-arc-r{to{transform:rotate(1turn)}}

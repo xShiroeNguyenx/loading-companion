@@ -1,0 +1,29 @@
+{
+  "id": "svg-pulse-dots-green",
+  "name": "SVG Pulse Dots — Green",
+  "category": "svg",
+  "tags": [
+    "dots",
+    "pulse",
+    "scale",
+    "theme",
+    "green"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-pulse-dots"
+}

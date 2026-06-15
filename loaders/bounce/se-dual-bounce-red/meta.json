@@ -1,0 +1,30 @@
+{
+  "id": "se-dual-bounce-red",
+  "name": "Dual Bounce Tube — Red",
+  "category": "bounce",
+  "tags": [
+    "single-element",
+    "bounce",
+    "pseudo",
+    "two",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "16px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dual-bounce"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bounce-bar-red",
+  "name": "Bouncing Bar — Red",
+  "category": "bounce",
+  "tags": [
+    "bar",
+    "squash",
+    "single",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-bar"
+}

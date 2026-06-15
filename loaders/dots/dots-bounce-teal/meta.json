@@ -1,0 +1,28 @@
+{
+  "id": "dots-bounce-teal",
+  "name": "Bouncing Dots — Teal",
+  "category": "dots",
+  "tags": [
+    "bounce",
+    "three",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-bounce"
+}

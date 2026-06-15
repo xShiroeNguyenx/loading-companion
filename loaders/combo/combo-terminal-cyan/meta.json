@@ -1,0 +1,30 @@
+{
+  "id": "combo-terminal-cyan",
+  "name": "Terminal Boot — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "text",
+    "typing",
+    "spinner",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-terminal"
+}

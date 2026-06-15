@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-wave-slate",
+  "name": "SVG Wave Bars — Slate",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "wave",
+    "translate",
+    "theme",
+    "slate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-wave"
+}

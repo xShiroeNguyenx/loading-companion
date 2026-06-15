@@ -1,0 +1,31 @@
+{
+  "id": "spinner-gradient-arc-emerald",
+  "name": "Gradient Arc — Emerald",
+  "category": "spinner",
+  "tags": [
+    "gradient",
+    "arc",
+    "rotate",
+    "modern",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#10b981",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-gradient-arc"
+}

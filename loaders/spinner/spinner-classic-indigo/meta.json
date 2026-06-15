@@ -1,0 +1,29 @@
+{
+  "id": "spinner-classic-indigo",
+  "name": "Classic Ring — Indigo",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "rotate",
+    "minimal",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-classic"
+}

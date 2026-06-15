@@ -1,0 +1,28 @@
+{
+  "id": "lcss-ball-grid-pulse-amber",
+  "name": "Ball Grid Pulse — Amber",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "balls",
+    "pulse",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#f59e0b"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-grid-pulse"
+}

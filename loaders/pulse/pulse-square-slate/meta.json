@@ -1,0 +1,29 @@
+{
+  "id": "pulse-square-slate",
+  "name": "Pulsing Square — Slate",
+  "category": "pulse",
+  "tags": [
+    "square",
+    "scale",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-square"
+}

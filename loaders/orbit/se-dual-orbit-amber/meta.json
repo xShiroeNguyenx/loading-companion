@@ -1,0 +1,30 @@
+{
+  "id": "se-dual-orbit-amber",
+  "name": "Dual Orbit — Amber",
+  "category": "orbit",
+  "tags": [
+    "single-element",
+    "orbit",
+    "pseudo",
+    "rotate",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dual-orbit"
+}

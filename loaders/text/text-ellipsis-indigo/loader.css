@@ -1,0 +1,6 @@
+.l-text-ellipsis-indigo{--lc-color:#6366f1}
+.l-text-ellipsis-indigo{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155)}
+.l-text-ellipsis-indigo span{opacity:0;animation:l-text-ellipsis-indigo-e var(--lc-speed,1.4s) infinite}
+.l-text-ellipsis-indigo span:nth-child(2){animation-delay:.2s}
+.l-text-ellipsis-indigo span:nth-child(3){animation-delay:.4s}
+@keyframes l-text-ellipsis-indigo-e{0%,100%{opacity:0}40%,60%{opacity:1}}

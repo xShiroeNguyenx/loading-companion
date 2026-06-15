@@ -1,0 +1,30 @@
+{
+  "id": "se-plus-pulse-rose",
+  "name": "Plus Pulse — Rose",
+  "category": "pulse",
+  "tags": [
+    "single-element",
+    "cross",
+    "pseudo",
+    "scale",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-plus-pulse"
+}

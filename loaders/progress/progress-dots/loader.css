@@ -1,0 +1,7 @@
+.l-progress-dots{display:flex;gap:7px}
+.l-progress-dots span{width:var(--lc-size,12px);height:var(--lc-size,12px);border-radius:50%;background:var(--lc-track,#e2e8f0);animation:l-progress-dots-f var(--lc-speed,1.5s) infinite}
+.l-progress-dots span:nth-child(2){animation-delay:.2s}
+.l-progress-dots span:nth-child(3){animation-delay:.4s}
+.l-progress-dots span:nth-child(4){animation-delay:.6s}
+.l-progress-dots span:nth-child(5){animation-delay:.8s}
+@keyframes l-progress-dots-f{0%,100%{background:var(--lc-track,#e2e8f0)}40%{background:var(--lc-color,#5b8def)}}

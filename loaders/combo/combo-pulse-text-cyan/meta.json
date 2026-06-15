@@ -1,0 +1,30 @@
+{
+  "id": "combo-pulse-text-cyan",
+  "name": "Status Dot + Text — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "pulse",
+    "status",
+    "text",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#06b6d4",
+    "--lc-text": "#334155",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-pulse-text"
+}

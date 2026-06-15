@@ -1,0 +1,29 @@
+{
+  "id": "combo-dots-percent-emerald",
+  "name": "Dots + Percent — Emerald",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "percent",
+    "counter",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#10b981",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-percent"
+}

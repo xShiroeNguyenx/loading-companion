@@ -1,0 +1,7 @@
+.l-orbit-triple-blue{--lc-color:#3b82f6}
+.l-orbit-triple-blue{position:relative;width:var(--lc-size,44px);height:var(--lc-size,44px);animation:l-orbit-triple-blue-r var(--lc-speed,1.4s) linear infinite}
+.l-orbit-triple-blue span{position:absolute;top:0;left:50%;width:20%;height:20%;margin-left:-10%;border-radius:50%;background:var(--lc-color,#5b8def);transform-origin:50% calc(var(--lc-size,44px)/2)}
+.l-orbit-triple-blue span:nth-child(1){transform:rotate(0deg)}
+.l-orbit-triple-blue span:nth-child(2){transform:rotate(120deg);opacity:.7}
+.l-orbit-triple-blue span:nth-child(3){transform:rotate(240deg);opacity:.45}
+@keyframes l-orbit-triple-blue-r{to{transform:rotate(1turn)}}

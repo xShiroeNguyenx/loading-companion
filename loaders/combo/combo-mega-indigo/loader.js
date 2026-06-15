@@ -1,0 +1,1 @@
+var ring=root.querySelector('.prog');var pcts=root.querySelectorAll('.pct');var v=0;root._lcTimer=setInterval(function(){v=(v+1)%101;ring.style.setProperty('--p',v+'%');pcts.forEach(function(n){n.textContent=v+'%';});},30);

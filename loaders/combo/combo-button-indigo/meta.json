@@ -1,0 +1,29 @@
+{
+  "id": "combo-button-indigo",
+  "name": "Button + Spinner — Indigo",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "button",
+    "text",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#6366f1",
+    "--lc-speed": ".8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-button"
+}

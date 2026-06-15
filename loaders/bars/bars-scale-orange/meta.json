@@ -1,0 +1,29 @@
+{
+  "id": "bars-scale-orange",
+  "name": "Scaling Bars — Orange",
+  "category": "bars",
+  "tags": [
+    "scale",
+    "stretch",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "7px",
+    "--lc-height": "36px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-scale"
+}

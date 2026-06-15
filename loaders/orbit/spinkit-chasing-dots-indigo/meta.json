@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-chasing-dots-indigo",
+  "name": "SpinKit Chasing Dots — Indigo",
+  "category": "orbit",
+  "tags": [
+    "dots",
+    "rotate",
+    "two",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-chasing-dots"
+}

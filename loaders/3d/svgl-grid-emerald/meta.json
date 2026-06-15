@@ -1,0 +1,28 @@
+{
+  "id": "svgl-grid-emerald",
+  "name": "SVG Grid — Emerald",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "dots",
+    "fade",
+    "theme",
+    "emerald"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#10b981"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-grid"
+}

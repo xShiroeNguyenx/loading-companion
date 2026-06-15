@@ -1,0 +1,28 @@
+{
+  "id": "svgl-grid-indigo",
+  "name": "SVG Grid — Indigo",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "dots",
+    "fade",
+    "theme",
+    "indigo"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#6366f1"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-grid"
+}

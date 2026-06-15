@@ -1,0 +1,30 @@
+{
+  "id": "bars-flip-red",
+  "name": "Flipping Bars — Red",
+  "category": "bars",
+  "tags": [
+    "flip",
+    "scale",
+    "origin",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "8px",
+    "--lc-height": "36px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-flip"
+}

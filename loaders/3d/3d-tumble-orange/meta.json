@@ -1,0 +1,29 @@
+{
+  "id": "3d-tumble-orange",
+  "name": "3D Tumbling Square — Orange",
+  "category": "3d",
+  "tags": [
+    "tumble",
+    "rotate",
+    "perspective",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-tumble"
+}

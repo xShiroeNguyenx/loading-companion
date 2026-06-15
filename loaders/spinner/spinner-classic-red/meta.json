@@ -1,0 +1,29 @@
+{
+  "id": "spinner-classic-red",
+  "name": "Classic Ring — Red",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "rotate",
+    "minimal",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-classic"
+}

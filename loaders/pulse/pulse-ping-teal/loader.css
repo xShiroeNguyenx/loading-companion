@@ -1,0 +1,6 @@
+.l-pulse-ping-teal{--lc-color:#14b8a6}
+.l-pulse-ping-teal{position:relative;width:var(--lc-size,40px);height:var(--lc-size,40px)}
+.l-pulse-ping-teal span{position:absolute;inset:0;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-pulse-ping-teal span:first-child{animation:l-pulse-ping-teal-pg var(--lc-speed,1.2s) cubic-bezier(0,0,.2,1) infinite;opacity:.6}
+.l-pulse-ping-teal span:last-child{transform:scale(.55)}
+@keyframes l-pulse-ping-teal-pg{75%,100%{transform:scale(1.6);opacity:0}}

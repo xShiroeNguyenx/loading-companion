@@ -1,0 +1,30 @@
+{
+  "id": "se-bar-stripes-move-rose",
+  "name": "Moving Stripes — Rose",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "stripes",
+    "loop",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-bar-stripes-move"
+}

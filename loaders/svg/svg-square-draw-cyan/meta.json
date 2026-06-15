@@ -1,0 +1,29 @@
+{
+  "id": "svg-square-draw-cyan",
+  "name": "SVG Square Trace — Cyan",
+  "category": "svg",
+  "tags": [
+    "square",
+    "dash",
+    "trace",
+    "theme",
+    "cyan"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-square-draw"
+}

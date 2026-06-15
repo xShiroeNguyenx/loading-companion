@@ -1,0 +1,29 @@
+{
+  "id": "combo-progress-eta",
+  "name": "Bar + ETA",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "eta",
+    "text"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "190px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

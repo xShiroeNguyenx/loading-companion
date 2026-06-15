@@ -1,0 +1,29 @@
+{
+  "id": "flip-card-indigo",
+  "name": "Flipping Card — Indigo",
+  "category": "flip",
+  "tags": [
+    "card",
+    "rotate-y",
+    "3d",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-card"
+}

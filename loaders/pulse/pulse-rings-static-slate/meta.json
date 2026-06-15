@@ -1,0 +1,29 @@
+{
+  "id": "pulse-rings-static-slate",
+  "name": "Nested Rings — Slate",
+  "category": "pulse",
+  "tags": [
+    "rings",
+    "nested",
+    "fade",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-rings-static"
+}

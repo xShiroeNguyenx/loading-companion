@@ -1,0 +1,3 @@
+.l-progress-bar-gradient-amber{--lc-color:#f59e0b}
+.l-progress-bar-gradient-amber{width:var(--lc-size,220px);height:8px;border-radius:4px;background:linear-gradient(90deg,var(--lc-color,#5b8def),var(--lc-color-2,#a855f7),var(--lc-color,#5b8def));background-size:200% 100%;animation:l-progress-bar-gradient-amber-s var(--lc-speed,2s) linear infinite}
+@keyframes l-progress-bar-gradient-amber-s{to{background-position:-200% 0}}

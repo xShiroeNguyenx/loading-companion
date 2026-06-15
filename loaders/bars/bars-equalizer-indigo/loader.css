@@ -1,0 +1,8 @@
+.l-bars-equalizer-indigo{--lc-color:#6366f1}
+.l-bars-equalizer-indigo{display:flex;gap:calc(var(--lc-size,8px)/1.5);align-items:center;height:var(--lc-height,40px)}
+.l-bars-equalizer-indigo span{width:var(--lc-size,8px);height:100%;background:var(--lc-color,#5b8def);border-radius:calc(var(--lc-size,8px)/2);transform-origin:center;animation:l-bars-equalizer-indigo-eq var(--lc-speed,1s) ease-in-out infinite}
+.l-bars-equalizer-indigo span:nth-child(2){animation-delay:.15s}
+.l-bars-equalizer-indigo span:nth-child(3){animation-delay:.3s}
+.l-bars-equalizer-indigo span:nth-child(4){animation-delay:.45s}
+.l-bars-equalizer-indigo span:nth-child(5){animation-delay:.6s}
+@keyframes l-bars-equalizer-indigo-eq{0%,100%{transform:scaleY(.3)}50%{transform:scaleY(1)}}

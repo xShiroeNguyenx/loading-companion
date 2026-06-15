@@ -1,0 +1,30 @@
+{
+  "id": "progress-circle-red",
+  "name": "Circular Sweep — Red",
+  "category": "progress",
+  "tags": [
+    "circle",
+    "conic",
+    "loop",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#ef4444",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-circle"
+}

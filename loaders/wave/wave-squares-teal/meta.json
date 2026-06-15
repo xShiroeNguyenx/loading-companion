@@ -1,0 +1,29 @@
+{
+  "id": "wave-squares-teal",
+  "name": "Wave Squares — Teal",
+  "category": "wave",
+  "tags": [
+    "wave",
+    "square",
+    "translate",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "wave-squares"
+}

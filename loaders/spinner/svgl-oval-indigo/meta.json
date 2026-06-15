@@ -1,0 +1,28 @@
+{
+  "id": "svgl-oval-indigo",
+  "name": "SVG Oval — Indigo",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "rotate",
+    "oval",
+    "theme",
+    "indigo"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#6366f1"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-oval"
+}

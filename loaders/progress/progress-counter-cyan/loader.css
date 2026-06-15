@@ -1,0 +1,3 @@
+.l-progress-counter-cyan{--lc-color:#06b6d4}
+.l-progress-counter-cyan{font:600 var(--lc-size,20px)/1 ui-monospace,monospace;color:var(--lc-color,#5b8def);display:inline-flex;align-items:baseline;gap:1px}
+.l-progress-counter-cyan-p{font-size:.6em;opacity:.7}

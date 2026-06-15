@@ -1,0 +1,29 @@
+{
+  "id": "progress-counter-red",
+  "name": "Percent Counter — Red",
+  "category": "progress",
+  "tags": [
+    "counter",
+    "percent",
+    "number",
+    "theme",
+    "red"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "30ms"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-counter"
+}

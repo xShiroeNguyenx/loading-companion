@@ -1,0 +1,30 @@
+{
+  "id": "combo-bar-percent-indigo",
+  "name": "Bar + Percent — Indigo",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "percent",
+    "counter",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "180px",
+    "--lc-color": "#6366f1",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-percent"
+}

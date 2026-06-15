@@ -1,0 +1,30 @@
+{
+  "id": "ring-color-wheel-indigo",
+  "name": "Color Wheel — Indigo",
+  "category": "ring",
+  "tags": [
+    "conic",
+    "gradient",
+    "rotate",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#6366f1",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ring-color-wheel"
+}

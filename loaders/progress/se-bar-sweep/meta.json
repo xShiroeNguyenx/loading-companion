@@ -1,0 +1,29 @@
+{
+  "id": "se-bar-sweep",
+  "name": "Bar Sweep",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "sweep",
+    "pseudo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

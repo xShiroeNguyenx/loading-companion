@@ -1,0 +1,29 @@
+{
+  "id": "text-wave-violet",
+  "name": "Waving Letters — Violet",
+  "category": "text",
+  "tags": [
+    "text",
+    "wave",
+    "letters",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-wave"
+}

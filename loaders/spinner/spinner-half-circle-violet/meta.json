@@ -1,0 +1,28 @@
+{
+  "id": "spinner-half-circle-violet",
+  "name": "Half Circle — Violet",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "rotate",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-half-circle"
+}

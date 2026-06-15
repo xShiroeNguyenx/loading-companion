@@ -1,0 +1,29 @@
+{
+  "id": "3d-tumble-violet",
+  "name": "3D Tumbling Square — Violet",
+  "category": "3d",
+  "tags": [
+    "tumble",
+    "rotate",
+    "perspective",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-tumble"
+}

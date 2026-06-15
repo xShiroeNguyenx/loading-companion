@@ -1,0 +1,29 @@
+{
+  "id": "wave-squares-rose",
+  "name": "Wave Squares — Rose",
+  "category": "wave",
+  "tags": [
+    "wave",
+    "square",
+    "translate",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "wave-squares"
+}

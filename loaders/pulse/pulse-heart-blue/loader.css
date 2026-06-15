@@ -1,0 +1,3 @@
+.l-pulse-heart-blue{--lc-color:#3b82f6}
+.l-pulse-heart-blue{width:var(--lc-size,40px);height:var(--lc-size,40px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-pulse-heart-blue-b var(--lc-speed,1.2s) ease-in-out infinite}
+@keyframes l-pulse-heart-blue-b{0%,100%{transform:scale(.85)}15%{transform:scale(1.05)}30%{transform:scale(.9)}45%{transform:scale(1)}}

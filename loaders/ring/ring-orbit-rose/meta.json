@@ -1,0 +1,29 @@
+{
+  "id": "ring-orbit-rose",
+  "name": "Orbit Dot — Rose",
+  "category": "ring",
+  "tags": [
+    "orbit",
+    "rotate",
+    "dot",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ring-orbit"
+}

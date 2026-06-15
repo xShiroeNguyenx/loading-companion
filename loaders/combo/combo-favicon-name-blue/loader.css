@@ -1,0 +1,8 @@
+.l-combo-favicon-name-blue{--lc-color:#3b82f6}
+.l-combo-favicon-name-blue{display:flex;flex-direction:column;align-items:center;gap:12px;font-family:system-ui,sans-serif}
+.l-combo-favicon-name-blue .logo{width:56px;height:56px;border-radius:15px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 4px 12px color-mix(in srgb,var(--lc-color,#5b8def) 35%,transparent);animation:l-combo-favicon-name-blue-p var(--lc-speed,1.6s) ease-in-out infinite}
+.l-combo-favicon-name-blue .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px;border-radius:6px}
+.l-combo-favicon-name-blue strong{font-size:15px;color:var(--lc-text,#334155)}
+.l-combo-favicon-name-blue .sub{width:96px;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--lc-base,#e2e8f0) 25%,var(--lc-highlight,#f1f5f9) 37%,var(--lc-base,#e2e8f0) 63%);background-size:400% 100%;animation:l-combo-favicon-name-blue-sh 1.4s ease infinite}
+@keyframes l-combo-favicon-name-blue-p{0%,100%{transform:scale(.94)}50%{transform:scale(1)}}
+@keyframes l-combo-favicon-name-blue-sh{0%{background-position:100% 0}100%{background-position:-100% 0}}

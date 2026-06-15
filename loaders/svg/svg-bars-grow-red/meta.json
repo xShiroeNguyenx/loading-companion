@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-grow-red",
+  "name": "SVG Growing Bars — Red",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "scale",
+    "rect",
+    "theme",
+    "red"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-grow"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "combo-spinner-percent-teal",
+  "name": "Spinner + Percent — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "percent",
+    "counter",
+    "theme",
+    "teal"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-percent"
+}

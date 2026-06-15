@@ -1,0 +1,29 @@
+{
+  "id": "td-dot-stretching-green",
+  "name": "Dot Stretching — Green",
+  "category": "dots",
+  "tags": [
+    "stretch",
+    "scale-x",
+    "single",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": true,
+  "baseId": "td-dot-stretching"
+}

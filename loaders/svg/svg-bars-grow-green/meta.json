@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-grow-green",
+  "name": "SVG Growing Bars — Green",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "scale",
+    "rect",
+    "theme",
+    "green"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-grow"
+}

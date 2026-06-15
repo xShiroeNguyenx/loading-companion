@@ -1,0 +1,29 @@
+{
+  "id": "td-dot-fire-violet",
+  "name": "Dot Fire — Violet",
+  "category": "dots",
+  "tags": [
+    "fire",
+    "rise",
+    "fade",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "10px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": true,
+  "baseId": "td-dot-fire"
+}

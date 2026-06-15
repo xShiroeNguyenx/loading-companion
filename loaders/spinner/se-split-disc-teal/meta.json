@@ -1,0 +1,30 @@
+{
+  "id": "se-split-disc-teal",
+  "name": "Split Disc — Teal",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "half",
+    "rotate",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-split-disc"
+}

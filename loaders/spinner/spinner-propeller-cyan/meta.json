@@ -1,0 +1,29 @@
+{
+  "id": "spinner-propeller-cyan",
+  "name": "Propeller — Cyan",
+  "category": "spinner",
+  "tags": [
+    "blades",
+    "rotate",
+    "three",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-propeller"
+}

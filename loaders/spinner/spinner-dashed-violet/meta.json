@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dashed-violet",
+  "name": "Dashed Ring — Violet",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "dashed",
+    "rotate",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dashed"
+}

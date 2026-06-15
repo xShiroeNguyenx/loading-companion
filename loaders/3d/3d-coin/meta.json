@@ -1,0 +1,26 @@
+{
+  "id": "3d-coin",
+  "name": "3D Flipping Coin",
+  "category": "3d",
+  "tags": [
+    "coin",
+    "flip",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

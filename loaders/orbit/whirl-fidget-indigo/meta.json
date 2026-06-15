@@ -1,0 +1,29 @@
+{
+  "id": "whirl-fidget-indigo",
+  "name": "Fidget Spinner — Indigo",
+  "category": "orbit",
+  "tags": [
+    "fidget",
+    "lobes",
+    "rotate",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-fidget"
+}

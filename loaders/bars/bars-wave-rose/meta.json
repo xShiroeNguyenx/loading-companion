@@ -1,0 +1,29 @@
+{
+  "id": "bars-wave-rose",
+  "name": "Wave Bars — Rose",
+  "category": "bars",
+  "tags": [
+    "wave",
+    "translate",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "8px",
+    "--lc-height": "36px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-wave"
+}

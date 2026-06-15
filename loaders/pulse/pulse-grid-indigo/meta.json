@@ -1,0 +1,29 @@
+{
+  "id": "pulse-grid-indigo",
+  "name": "Pulse Grid — Indigo",
+  "category": "pulse",
+  "tags": [
+    "grid",
+    "pulse",
+    "nine",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-grid"
+}

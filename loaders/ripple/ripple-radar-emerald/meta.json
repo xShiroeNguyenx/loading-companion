@@ -1,0 +1,29 @@
+{
+  "id": "ripple-radar-emerald",
+  "name": "Radar Sweep — Emerald",
+  "category": "ripple",
+  "tags": [
+    "radar",
+    "sweep",
+    "rotate",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "52px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-radar"
+}

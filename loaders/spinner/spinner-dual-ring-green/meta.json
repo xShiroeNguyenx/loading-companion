@@ -1,0 +1,28 @@
+{
+  "id": "spinner-dual-ring-green",
+  "name": "Dual Ring — Green",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "rotate",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dual-ring"
+}

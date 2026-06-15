@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loading Companion — a library of loading animations</title>
+  <meta name="description" content="A machine-readable library and demo gallery of loading animations, designed for AI agents to read, pick, and reuse." />
+</head>
+<body>
+  <header class="app-header">
+    <h1>⏳ Loading Companion</h1>
+    <p class="sub">A growing library of loading animations — browse, copy, reuse. Built to be read by AI (see <code>data/registry.json</code>).</p>
+    <div class="toolbar">
+      <input id="search" class="search" type="search" placeholder="Search by name, tag, or category…" autocomplete="off" />
+      <select id="tech" class="select" aria-label="Filter by tech"></select>
+      <select id="source" class="select" aria-label="Filter by source">
+        <option value="all">All loaders</option>
+        <option value="original">Originals only</option>
+        <option value="variant">Theme variants</option>
+      </select>
+      <button id="random" class="btn" type="button">🎲 Random</button>
+      <button id="theme" class="btn" type="button">🌙 Dark</button>
+      <span id="count" class="count"></span>
+    </div>
+    <div id="chips" class="chips"></div>
+  </header>
+  <main id="grid" class="grid"></main>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

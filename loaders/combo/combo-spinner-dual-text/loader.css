@@ -1,0 +1,3 @@
+.l-combo-spinner-dual-text{display:flex;flex-direction:column;align-items:center;gap:12px;font:600 13px/1 system-ui,sans-serif;color:var(--lc-text,#64748b)}
+.l-combo-spinner-dual-text-s{width:var(--lc-size,40px);height:var(--lc-size,40px);border-radius:50%;border:4px solid transparent;border-top-color:var(--lc-color,#5b8def);border-bottom-color:var(--lc-color,#5b8def);animation:l-combo-spinner-dual-text-r var(--lc-speed,1.1s) cubic-bezier(.5,0,.5,1) infinite}
+@keyframes l-combo-spinner-dual-text-r{to{transform:rotate(1turn)}}

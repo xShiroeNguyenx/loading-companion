@@ -1,0 +1,3 @@
+.l-spinner-segment-gap-cyan{--lc-color:#06b6d4}
+.l-spinner-segment-gap-cyan{width:var(--lc-size,46px);height:var(--lc-size,46px);border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) 0 280deg,transparent 280deg);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - calc(var(--lc-size,44px)/8)),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - calc(var(--lc-size,44px)/8)),#000 0);animation:l-spinner-segment-gap-cyan-r var(--lc-speed,1s) linear infinite}
+@keyframes l-spinner-segment-gap-cyan-r{to{transform:rotate(1turn)}}

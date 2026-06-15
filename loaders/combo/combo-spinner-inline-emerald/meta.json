@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-inline-emerald",
+  "name": "Spinner + Label (inline) — Emerald",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "inline",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#10b981",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-inline"
+}

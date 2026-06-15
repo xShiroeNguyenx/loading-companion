@@ -1,0 +1,29 @@
+{
+  "id": "lcss-ball-clip-rotate-teal",
+  "name": "Ball Clip Rotate — Teal",
+  "category": "ring",
+  "tags": [
+    "ring",
+    "clip",
+    "rotate",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": ".75s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-clip-rotate"
+}

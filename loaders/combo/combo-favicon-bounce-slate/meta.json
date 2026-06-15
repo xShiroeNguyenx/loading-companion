@@ -1,0 +1,32 @@
+{
+  "id": "combo-favicon-bounce-slate",
+  "name": "Favicon Bounce + Dots — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "bounce",
+    "logo",
+    "dots",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-bounce"
+}

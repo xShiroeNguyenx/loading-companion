@@ -1,0 +1,4 @@
+.l-ring-orbit-emerald{--lc-color:#10b981}
+.l-ring-orbit-emerald{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:2px solid color-mix(in srgb,var(--lc-color,#5b8def) 20%,transparent);animation:l-ring-orbit-emerald-rot var(--lc-speed,1s) linear infinite}
+.l-ring-orbit-emerald span{position:absolute;top:calc(var(--lc-size,48px)/-12);left:50%;width:calc(var(--lc-size,48px)/6);height:calc(var(--lc-size,48px)/6);margin-left:calc(var(--lc-size,48px)/-12);border-radius:50%;background:var(--lc-color,#5b8def)}
+@keyframes l-ring-orbit-emerald-rot{to{transform:rotate(1turn)}}

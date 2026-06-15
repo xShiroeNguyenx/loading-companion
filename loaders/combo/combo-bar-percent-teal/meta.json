@@ -1,0 +1,30 @@
+{
+  "id": "combo-bar-percent-teal",
+  "name": "Bar + Percent — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "percent",
+    "counter",
+    "theme",
+    "teal"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "180px",
+    "--lc-color": "#14b8a6",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-percent"
+}

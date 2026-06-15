@@ -1,0 +1,28 @@
+{
+  "id": "svgl-grid-blue",
+  "name": "SVG Grid — Blue",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "dots",
+    "fade",
+    "theme",
+    "blue"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#3b82f6"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-grid"
+}

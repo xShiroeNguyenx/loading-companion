@@ -1,0 +1,5 @@
+.l-se-triple-pulse{position:relative;width:var(--lc-size,12px);aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-triple-pulse-p var(--lc-speed,1s) ease-in-out .16s infinite}
+.l-se-triple-pulse::before,.l-se-triple-pulse::after{content:'';position:absolute;top:0;width:100%;aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-triple-pulse-p var(--lc-speed,1s) ease-in-out infinite}
+.l-se-triple-pulse::before{left:-160%;animation-delay:0s}
+.l-se-triple-pulse::after{left:160%;animation-delay:.32s}
+@keyframes l-se-triple-pulse-p{0%,80%,100%{transform:scale(.4);opacity:.4}40%{transform:scale(1);opacity:1}}

@@ -1,0 +1,29 @@
+{
+  "id": "text-typewriter-indigo",
+  "name": "Typewriter — Indigo",
+  "category": "text",
+  "tags": [
+    "text",
+    "typewriter",
+    "steps",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-typewriter"
+}

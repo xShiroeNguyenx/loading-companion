@@ -1,0 +1,29 @@
+{
+  "id": "pulse-concentric-indigo",
+  "name": "Concentric Pulse — Indigo",
+  "category": "pulse",
+  "tags": [
+    "discs",
+    "expand",
+    "fade",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-concentric"
+}

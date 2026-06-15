@@ -1,0 +1,29 @@
+{
+  "id": "dots-snake-violet",
+  "name": "Snake Wave — Violet",
+  "category": "dots",
+  "tags": [
+    "wave",
+    "scale",
+    "five",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-snake"
+}

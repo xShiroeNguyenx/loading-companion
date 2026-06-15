@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-grow-slate",
+  "name": "SVG Growing Bars — Slate",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "scale",
+    "rect",
+    "theme",
+    "slate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-grow"
+}

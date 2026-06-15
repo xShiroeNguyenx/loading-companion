@@ -1,0 +1,28 @@
+{
+  "id": "lcss-pacman-red",
+  "name": "Pacman — Red",
+  "category": "spinner",
+  "tags": [
+    "pacman",
+    "chomp",
+    "dots",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#ef4444"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-pacman"
+}

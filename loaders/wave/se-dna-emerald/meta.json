@@ -1,0 +1,30 @@
+{
+  "id": "se-dna-emerald",
+  "name": "Crossing Dots — Emerald",
+  "category": "wave",
+  "tags": [
+    "single-element",
+    "cross",
+    "pseudo",
+    "swap",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dna"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "svgl-three-dots",
+  "name": "SVG Three Dots",
+  "category": "dots",
+  "tags": [
+    "dots",
+    "scale",
+    "three"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#5b8def"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": false,
+  "baseId": null
+}

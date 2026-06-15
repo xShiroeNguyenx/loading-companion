@@ -1,0 +1,30 @@
+{
+  "id": "combo-bars-text-indigo",
+  "name": "Equalizer + Text — Indigo",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "bars",
+    "text",
+    "audio",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#6366f1",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bars-text"
+}

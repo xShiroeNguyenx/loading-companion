@@ -1,0 +1,30 @@
+{
+  "id": "combo-spinner-percent-orange",
+  "name": "Spinner + Percent — Orange",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "percent",
+    "counter",
+    "theme",
+    "orange"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-percent"
+}

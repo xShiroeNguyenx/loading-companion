@@ -1,0 +1,29 @@
+{
+  "id": "svg-circle-dash-emerald",
+  "name": "SVG Dash Circle — Emerald",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "circle",
+    "theme",
+    "emerald"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-circle-dash"
+}

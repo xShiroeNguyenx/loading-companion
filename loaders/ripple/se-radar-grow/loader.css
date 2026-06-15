@@ -1,0 +1,4 @@
+.l-se-radar-grow{width:var(--lc-size,52px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) var(--g,40deg),transparent 0);animation:l-se-radar-grow-r var(--lc-speed,1.4s) linear infinite,l-se-radar-grow-g calc(var(--lc-speed,1.4s)*2) ease-in-out infinite}
+@keyframes l-se-radar-grow-r{to{transform:rotate(1turn)}}
+@keyframes l-se-radar-grow-g{0%,100%{--g:30deg}50%{--g:200deg}}
+@property --g{syntax:'<angle>';inherits:false;initial-value:40deg}

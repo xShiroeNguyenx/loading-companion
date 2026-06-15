@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://loading-companion/schema/loader.schema.json",
+  "title": "Loader meta.json",
+  "description": "Metadata for a single loading animation. The actual code lives in sibling files loader.html / loader.css / loader.js by convention; the build inlines them into registry.json.",
+  "type": "object",
+  "required": ["id", "name", "category", "tags", "tech", "license"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Unique kebab-case id, conventionally prefixed by category, e.g. 'spinner-rotating-plane'."
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "category": {
+      "type": "string",
+      "enum": [
+        "spinner", "dots", "bars", "ring", "pulse", "ripple", "wave",
+        "bounce", "flip", "morph", "orbit", "3d", "skeleton", "progress",
+        "svg", "text", "combo"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+      "uniqueItems": true
+    },
+    "tech": {
+      "type": "string",
+      "enum": ["css", "css+js", "svg", "webcomponent"]
+    },
+    "framework": {
+      "type": "string",
+      "default": "none"
+    },
+    "dependencies": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "variables": {
+      "type": "object",
+      "description": "CSS custom properties the loader exposes for theming (size/color/speed/...). Keys start with '--lc-'.",
+      "additionalProperties": { "type": "string" }
+    },
+    "source": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string" },
+        "author": { "type": "string" }
+      }
+    },
+    "license": { "type": "string", "minLength": 1 },
+    "copyright": {
+      "type": ["string", "null"],
+      "description": "Upstream copyright line to retain for permissive licenses (e.g. 'Copyright (c) 2015 Tobias Ahlin'). null for original work."
+    },
+    "generated": { "type": "boolean", "default": false },
+    "baseId": { "type": ["string", "null"], "default": null }
+  }
+}

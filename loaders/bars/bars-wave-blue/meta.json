@@ -1,0 +1,29 @@
+{
+  "id": "bars-wave-blue",
+  "name": "Wave Bars — Blue",
+  "category": "bars",
+  "tags": [
+    "wave",
+    "translate",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "8px",
+    "--lc-height": "36px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-wave"
+}

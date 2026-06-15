@@ -1,0 +1,28 @@
+{
+  "id": "dots-bounce-rose",
+  "name": "Bouncing Dots — Rose",
+  "category": "dots",
+  "tags": [
+    "bounce",
+    "three",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-bounce"
+}

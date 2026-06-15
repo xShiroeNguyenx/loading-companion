@@ -1,0 +1,30 @@
+{
+  "id": "combo-bar-percent-amber",
+  "name": "Bar + Percent — Amber",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "percent",
+    "counter",
+    "theme",
+    "amber"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "180px",
+    "--lc-color": "#f59e0b",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-percent"
+}

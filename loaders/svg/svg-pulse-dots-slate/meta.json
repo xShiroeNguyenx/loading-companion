@@ -1,0 +1,29 @@
+{
+  "id": "svg-pulse-dots-slate",
+  "name": "SVG Pulse Dots — Slate",
+  "category": "svg",
+  "tags": [
+    "dots",
+    "pulse",
+    "scale",
+    "theme",
+    "slate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-pulse-dots"
+}

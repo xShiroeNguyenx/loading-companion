@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-subtext-teal",
+  "name": "Spinner + Title + Subtitle — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "two-line",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "38px",
+    "--lc-color": "#14b8a6",
+    "--lc-text": "#334155",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-subtext"
+}

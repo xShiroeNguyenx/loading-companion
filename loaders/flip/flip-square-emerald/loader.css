@@ -1,0 +1,3 @@
+.l-flip-square-emerald{--lc-color:#10b981}
+.l-flip-square-emerald{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-flip-square-emerald-f var(--lc-speed,1.2s) ease-in-out infinite}
+@keyframes l-flip-square-emerald-f{0%{transform:perspective(120px) rotateX(0) rotateY(0)}50%{transform:perspective(120px) rotateX(-180deg) rotateY(0)}100%{transform:perspective(120px) rotateX(-180deg) rotateY(-180deg)}}

@@ -1,0 +1,5 @@
+.l-spinner-pie-indigo{--lc-color:#6366f1}
+.l-spinner-pie-indigo{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) var(--a,90deg),transparent 0);animation:l-spinner-pie-indigo-r var(--lc-speed,1s) linear infinite,l-spinner-pie-indigo-g calc(var(--lc-speed,1s)*2) ease-in-out infinite}
+@keyframes l-spinner-pie-indigo-r{to{transform:rotate(1turn)}}
+@keyframes l-spinner-pie-indigo-g{0%,100%{--a:40deg}50%{--a:300deg}}
+@property --a{syntax:'<angle>';inherits:false;initial-value:90deg}

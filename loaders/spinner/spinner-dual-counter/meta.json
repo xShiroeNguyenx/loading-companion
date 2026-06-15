@@ -1,0 +1,27 @@
+{
+  "id": "spinner-dual-counter",
+  "name": "Counter Arcs",
+  "category": "spinner",
+  "tags": [
+    "arcs",
+    "counter",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

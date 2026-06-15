@@ -1,0 +1,32 @@
+{
+  "id": "combo-app-boot-indigo",
+  "name": "App Boot — Indigo",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "spinner",
+    "logo",
+    "dots",
+    "text",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#6366f1",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-app-boot"
+}

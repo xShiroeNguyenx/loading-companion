@@ -1,0 +1,29 @@
+{
+  "id": "ring-orbit-indigo",
+  "name": "Orbit Dot — Indigo",
+  "category": "ring",
+  "tags": [
+    "orbit",
+    "rotate",
+    "dot",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ring-orbit"
+}

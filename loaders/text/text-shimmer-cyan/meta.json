@@ -1,0 +1,30 @@
+{
+  "id": "text-shimmer-cyan",
+  "name": "Shimmer Text — Cyan",
+  "category": "text",
+  "tags": [
+    "text",
+    "shimmer",
+    "gradient",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#06b6d4",
+    "--lc-base": "#94a3b8",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-shimmer"
+}

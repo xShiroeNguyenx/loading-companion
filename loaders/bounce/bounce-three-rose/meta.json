@@ -1,0 +1,29 @@
+{
+  "id": "bounce-three-rose",
+  "name": "Three Balls — Rose",
+  "category": "bounce",
+  "tags": [
+    "balls",
+    "squash",
+    "three",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "16px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": ".7s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-three"
+}

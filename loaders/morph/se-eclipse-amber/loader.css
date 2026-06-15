@@ -1,0 +1,4 @@
+.l-se-eclipse-amber{--lc-color:#f59e0b}
+.l-se-eclipse-amber{position:relative;width:var(--lc-size,44px);aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);overflow:hidden}
+.l-se-eclipse-amber::after{content:'';position:absolute;inset:0;border-radius:50%;background:var(--lc-bg,#f1f5f9);animation:l-se-eclipse-amber-e var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-se-eclipse-amber-e{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}

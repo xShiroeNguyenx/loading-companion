@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dashed-blue",
+  "name": "Dashed Ring — Blue",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "dashed",
+    "rotate",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dashed"
+}

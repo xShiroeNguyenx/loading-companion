@@ -1,0 +1,6 @@
+.l-svg-bars-grow-rose{--lc-color:#f43f5e}
+.l-svg-bars-grow-rose{width:var(--lc-size,48px);height:var(--lc-size,48px);fill:var(--lc-color,#5b8def)}
+.l-svg-bars-grow-rose rect{transform-box:fill-box;transform-origin:center;animation:l-svg-bars-grow-rose-g var(--lc-speed,1s) ease-in-out infinite}
+.l-svg-bars-grow-rose rect:nth-child(2){animation-delay:.15s}
+.l-svg-bars-grow-rose rect:nth-child(3){animation-delay:.3s}
+@keyframes l-svg-bars-grow-rose-g{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}

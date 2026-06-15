@@ -1,0 +1,31 @@
+{
+  "id": "se-bar-sweep-violet",
+  "name": "Bar Sweep — Violet",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "sweep",
+    "pseudo",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#8b5cf6",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-bar-sweep"
+}

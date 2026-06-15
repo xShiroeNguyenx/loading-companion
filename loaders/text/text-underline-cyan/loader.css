@@ -1,0 +1,4 @@
+.l-text-underline-cyan{--lc-color:#06b6d4}
+.l-text-underline-cyan{position:relative;display:inline-block;font:600 var(--lc-size,18px)/1.5 system-ui,sans-serif;color:var(--lc-color,#5b8def)}
+.l-text-underline-cyan::after{content:'';position:absolute;left:0;bottom:0;width:100%;height:2px;background:var(--lc-color,#5b8def);transform:scaleX(0);transform-origin:left;animation:l-text-underline-cyan-u var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-text-underline-cyan-u{0%{transform:scaleX(0);transform-origin:left}50%{transform:scaleX(1);transform-origin:left}50.1%{transform-origin:right}100%{transform:scaleX(0);transform-origin:right}}

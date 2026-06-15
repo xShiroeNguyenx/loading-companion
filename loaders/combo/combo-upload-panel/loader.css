@@ -1,0 +1,7 @@
+.l-combo-upload-panel{display:flex;align-items:center;gap:11px;width:210px;font-family:system-ui,sans-serif;color:var(--lc-text,#334155)}
+.l-combo-upload-panel .ring{flex:0 0 auto;width:30px;height:30px;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) var(--p,0%),var(--lc-track,#e2e8f0) 0);-webkit-mask:radial-gradient(farthest-side,#0000 calc(100% - 4px),#000 0);mask:radial-gradient(farthest-side,#0000 calc(100% - 4px),#000 0)}
+.l-combo-upload-panel .info{flex:1;display:flex;flex-direction:column;gap:6px;min-width:0}
+.l-combo-upload-panel strong{font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.l-combo-upload-panel .bar{height:5px;border-radius:3px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-upload-panel .fill{height:100%;width:0;border-radius:3px;background:var(--lc-color,#5b8def)}
+.l-combo-upload-panel .pct{font:700 11px/1 ui-monospace,monospace;color:var(--lc-color,#5b8def)}

@@ -1,0 +1,33 @@
+{
+  "id": "combo-favicon-loading-orange",
+  "name": "Favicon + Loading — Orange",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "spinner",
+    "logo",
+    "text",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "74px",
+    "--lc-color": "#f97316",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-loading"
+}

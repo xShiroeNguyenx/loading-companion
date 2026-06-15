@@ -1,0 +1,29 @@
+{
+  "id": "svg-dash-dual-indigo",
+  "name": "SVG Dual Dash — Indigo",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "two-arc",
+    "theme",
+    "indigo"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-dash-dual"
+}

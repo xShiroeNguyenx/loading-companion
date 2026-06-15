@@ -1,0 +1,3 @@
+.l-text-shimmer-slate{--lc-color:#64748b}
+.l-text-shimmer-slate{font:700 var(--lc-size,20px)/1 system-ui,sans-serif;background:linear-gradient(90deg,var(--lc-base,#94a3b8) 25%,var(--lc-color,#5b8def) 50%,var(--lc-base,#94a3b8) 75%);background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:l-text-shimmer-slate-s var(--lc-speed,1.6s) linear infinite}
+@keyframes l-text-shimmer-slate-s{to{background-position:-200% 0}}

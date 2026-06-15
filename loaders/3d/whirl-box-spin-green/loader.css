@@ -1,0 +1,3 @@
+.l-whirl-box-spin-green{--lc-color:#22c55e}
+.l-whirl-box-spin-green{width:var(--lc-size,34px);height:var(--lc-size,34px);background:var(--lc-color,#5b8def);animation:l-whirl-box-spin-green-r var(--lc-speed,2s) cubic-bezier(.6,.01,.4,1) infinite}
+@keyframes l-whirl-box-spin-green-r{0%{transform:perspective(160px) rotateX(0) rotateY(0)}50%{transform:perspective(160px) rotateX(180deg) rotateY(0)}100%{transform:perspective(160px) rotateX(180deg) rotateY(180deg)}}

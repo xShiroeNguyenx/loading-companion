@@ -1,0 +1,28 @@
+{
+  "id": "se-ripple-pseudo",
+  "name": "Pseudo Ripple",
+  "category": "ripple",
+  "tags": [
+    "single-element",
+    "ripple",
+    "pseudo",
+    "expand"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "52px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

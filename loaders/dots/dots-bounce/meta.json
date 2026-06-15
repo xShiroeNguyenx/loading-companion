@@ -1,0 +1,25 @@
+{
+  "id": "dots-bounce",
+  "name": "Bouncing Dots",
+  "category": "dots",
+  "tags": [
+    "bounce",
+    "three"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

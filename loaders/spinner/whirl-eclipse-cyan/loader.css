@@ -1,0 +1,4 @@
+.l-whirl-eclipse-cyan{--lc-color:#06b6d4}
+.l-whirl-eclipse-cyan{position:relative;width:40px;height:40px;border-radius:50%;background:var(--lc-color,#5b8def);overflow:hidden}
+.l-whirl-eclipse-cyan span{position:absolute;top:0;left:0;width:40px;height:40px;border-radius:50%;background:var(--lc-bg,#f1f5f9);animation:l-whirl-eclipse-cyan-e var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-whirl-eclipse-cyan-e{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}

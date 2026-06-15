@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-indeterminate-green",
+  "name": "Indeterminate Bar — Green",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "indeterminate",
+    "slide",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#22c55e",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-indeterminate"
+}

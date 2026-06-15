@@ -1,0 +1,26 @@
+{
+  "id": "flip-board",
+  "name": "Folding Board",
+  "category": "flip",
+  "tags": [
+    "fold",
+    "plane",
+    "3d"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

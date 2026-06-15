@@ -1,0 +1,27 @@
+{
+  "id": "whirl-box-spin",
+  "name": "Box Spin",
+  "category": "3d",
+  "tags": [
+    "box",
+    "rotate",
+    "perspective"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "34px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": false,
+  "baseId": null
+}

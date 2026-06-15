@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dashed-slate",
+  "name": "Dashed Ring — Slate",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "dashed",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dashed"
+}

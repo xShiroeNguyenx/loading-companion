@@ -1,0 +1,29 @@
+{
+  "id": "3d-flip-tiles-green",
+  "name": "3D Flip Tiles — Green",
+  "category": "3d",
+  "tags": [
+    "tiles",
+    "flip",
+    "perspective",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-flip-tiles"
+}

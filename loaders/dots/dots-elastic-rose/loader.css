@@ -1,0 +1,6 @@
+.l-dots-elastic-rose{--lc-color:#f43f5e}
+.l-dots-elastic-rose{display:flex;gap:calc(var(--lc-size,14px)/1.4)}
+.l-dots-elastic-rose span{width:var(--lc-size,14px);height:var(--lc-size,14px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-dots-elastic-rose-e var(--lc-speed,1s) cubic-bezier(.68,-.55,.27,1.55) infinite}
+.l-dots-elastic-rose span:nth-child(2){animation-delay:.12s}
+.l-dots-elastic-rose span:nth-child(3){animation-delay:.24s}
+@keyframes l-dots-elastic-rose-e{0%,100%{transform:scaleY(1)}50%{transform:scaleY(1.8)}}

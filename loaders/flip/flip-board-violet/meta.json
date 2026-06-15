@@ -1,0 +1,29 @@
+{
+  "id": "flip-board-violet",
+  "name": "Folding Board — Violet",
+  "category": "flip",
+  "tags": [
+    "fold",
+    "plane",
+    "3d",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-board"
+}

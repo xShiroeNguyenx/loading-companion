@@ -1,0 +1,9 @@
+.l-text-wave{font:700 var(--lc-size,20px)/1 system-ui,sans-serif;color:var(--lc-color,#5b8def);display:inline-flex}
+.l-text-wave span{animation:l-text-wave-w var(--lc-speed,1.2s) ease-in-out infinite}
+.l-text-wave span:nth-child(2){animation-delay:.08s}
+.l-text-wave span:nth-child(3){animation-delay:.16s}
+.l-text-wave span:nth-child(4){animation-delay:.24s}
+.l-text-wave span:nth-child(5){animation-delay:.32s}
+.l-text-wave span:nth-child(6){animation-delay:.4s}
+.l-text-wave span:nth-child(7){animation-delay:.48s}
+@keyframes l-text-wave-w{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-45%)}}

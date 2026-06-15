@@ -1,0 +1,28 @@
+{
+  "id": "spinner-half-circle-rose",
+  "name": "Half Circle — Rose",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "rotate",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-half-circle"
+}

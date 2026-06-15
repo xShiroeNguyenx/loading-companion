@@ -1,0 +1,30 @@
+{
+  "id": "se-clock-orange",
+  "name": "Clock — Orange",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "clock",
+    "pseudo",
+    "hands",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-clock"
+}

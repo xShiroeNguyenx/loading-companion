@@ -1,0 +1,29 @@
+{
+  "id": "combo-spinner-inline",
+  "name": "Spinner + Label (inline)",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "inline"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#5b8def",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "combo-spinner-percent-red",
+  "name": "Spinner + Percent — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "percent",
+    "counter",
+    "theme",
+    "red"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-percent"
+}

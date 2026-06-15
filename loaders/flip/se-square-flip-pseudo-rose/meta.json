@@ -1,0 +1,30 @@
+{
+  "id": "se-square-flip-pseudo-rose",
+  "name": "Twin Flip — Rose",
+  "category": "flip",
+  "tags": [
+    "single-element",
+    "squares",
+    "pseudo",
+    "flip",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-square-flip-pseudo"
+}

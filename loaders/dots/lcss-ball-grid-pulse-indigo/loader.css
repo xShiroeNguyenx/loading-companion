@@ -1,0 +1,13 @@
+.l-lcss-ball-grid-pulse-indigo{--lc-color:#6366f1}
+.l-lcss-ball-grid-pulse-indigo{display:grid;grid-template-columns:repeat(3,var(--lc-size,12px));gap:6px}
+.l-lcss-ball-grid-pulse-indigo span{width:var(--lc-size,12px);height:var(--lc-size,12px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-lcss-ball-grid-pulse-indigo-p 1.4s ease infinite}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(1){animation-delay:.05s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(2){animation-delay:.3s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(3){animation-delay:.6s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(4){animation-delay:.4s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(5){animation-delay:.1s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(6){animation-delay:.5s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(7){animation-delay:.2s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(8){animation-delay:.55s}
+.l-lcss-ball-grid-pulse-indigo span:nth-child(9){animation-delay:.35s}
+@keyframes l-lcss-ball-grid-pulse-indigo-p{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.5);opacity:.6}}

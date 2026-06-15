@@ -1,0 +1,29 @@
+{
+  "id": "bounce-double-blue",
+  "name": "Double Bounce — Blue",
+  "category": "bounce",
+  "tags": [
+    "bounce",
+    "two",
+    "fade",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-double"
+}

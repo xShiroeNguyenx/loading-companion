@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-cube-grid-amber",
+  "name": "SpinKit Cube Grid — Amber",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "cubes",
+    "scale",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-cube-grid"
+}

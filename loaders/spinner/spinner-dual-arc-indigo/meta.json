@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dual-arc-indigo",
+  "name": "Dual Arc — Indigo",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "two",
+    "rotate",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dual-arc"
+}

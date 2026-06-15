@@ -1,0 +1,29 @@
+{
+  "id": "flip-board-teal",
+  "name": "Folding Board — Teal",
+  "category": "flip",
+  "tags": [
+    "fold",
+    "plane",
+    "3d",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-board"
+}

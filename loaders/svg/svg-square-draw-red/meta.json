@@ -1,0 +1,29 @@
+{
+  "id": "svg-square-draw-red",
+  "name": "SVG Square Trace — Red",
+  "category": "svg",
+  "tags": [
+    "square",
+    "dash",
+    "trace",
+    "theme",
+    "red"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-square-draw"
+}

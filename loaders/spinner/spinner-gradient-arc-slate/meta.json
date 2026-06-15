@@ -1,0 +1,31 @@
+{
+  "id": "spinner-gradient-arc-slate",
+  "name": "Gradient Arc — Slate",
+  "category": "spinner",
+  "tags": [
+    "gradient",
+    "arc",
+    "rotate",
+    "modern",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-gradient-arc"
+}

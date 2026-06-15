@@ -1,0 +1,3 @@
+.l-morph-blob-green{--lc-color:#22c55e}
+.l-morph-blob-green{width:var(--lc-size,44px);height:var(--lc-size,44px);background:var(--lc-color,#5b8def);animation:l-morph-blob-green-m var(--lc-speed,3s) ease-in-out infinite}
+@keyframes l-morph-blob-green-m{0%,100%{border-radius:42% 58% 70% 30%/45% 45% 55% 55%;transform:rotate(0)}50%{border-radius:70% 30% 46% 54%/30% 60% 40% 70%;transform:rotate(180deg)}}

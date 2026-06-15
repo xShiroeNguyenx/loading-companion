@@ -1,0 +1,29 @@
+{
+  "id": "dots-grid-4-red",
+  "name": "Four Grid — Red",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "pulse",
+    "four",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-grid-4"
+}

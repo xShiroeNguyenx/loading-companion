@@ -1,0 +1,29 @@
+{
+  "id": "combo-dots-percent-amber",
+  "name": "Dots + Percent — Amber",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "percent",
+    "counter",
+    "theme",
+    "amber"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f59e0b",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-percent"
+}

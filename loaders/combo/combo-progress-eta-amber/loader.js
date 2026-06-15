@@ -1,0 +1,1 @@
+var f=root.querySelector('.l-combo-progress-eta-amber-fill');var n=root.querySelector('.l-combo-progress-eta-amber-n');var v=0;root._lcTimer=setInterval(function(){v=(v+1)%101;f.style.width=v+'%';n.textContent=v+'% · ~'+Math.ceil((100-v)/12)+'s left';},28);

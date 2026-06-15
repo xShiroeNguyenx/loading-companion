@@ -1,0 +1,3 @@
+.l-spinner-dashed-indigo{--lc-color:#6366f1}
+.l-spinner-dashed-indigo{width:var(--lc-size,48px);height:var(--lc-size,48px);border:calc(var(--lc-size,48px)/8) dashed var(--lc-color,#5b8def);border-radius:50%;animation:l-spinner-dashed-indigo-spin var(--lc-speed,4s) linear infinite}
+@keyframes l-spinner-dashed-indigo-spin{to{transform:rotate(1turn)}}

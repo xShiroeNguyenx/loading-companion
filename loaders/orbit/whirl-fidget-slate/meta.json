@@ -1,0 +1,29 @@
+{
+  "id": "whirl-fidget-slate",
+  "name": "Fidget Spinner — Slate",
+  "category": "orbit",
+  "tags": [
+    "fidget",
+    "lobes",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-fidget"
+}

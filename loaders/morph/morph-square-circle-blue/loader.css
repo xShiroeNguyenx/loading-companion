@@ -1,0 +1,3 @@
+.l-morph-square-circle-blue{--lc-color:#3b82f6}
+.l-morph-square-circle-blue{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-morph-square-circle-blue-m var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-morph-square-circle-blue-m{0%,100%{border-radius:6%;transform:rotate(0)}50%{border-radius:50%;transform:rotate(180deg)}}

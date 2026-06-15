@@ -1,0 +1,31 @@
+{
+  "id": "combo-circle-label-rose",
+  "name": "Ring + Label + Percent — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "percent",
+    "label",
+    "theme",
+    "rose"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#f43f5e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-circle-label"
+}

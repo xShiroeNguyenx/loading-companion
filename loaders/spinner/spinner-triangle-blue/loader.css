@@ -1,0 +1,3 @@
+.l-spinner-triangle-blue{--lc-color:#3b82f6}
+.l-spinner-triangle-blue{width:0;height:0;border-left:calc(var(--lc-size,40px)/2) solid transparent;border-right:calc(var(--lc-size,40px)/2) solid transparent;border-bottom:var(--lc-size,40px) solid var(--lc-color,#5b8def);animation:l-spinner-triangle-blue-r var(--lc-speed,1.2s) ease-in-out infinite}
+@keyframes l-spinner-triangle-blue-r{to{transform:rotate(1turn)}}

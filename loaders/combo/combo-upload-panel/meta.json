@@ -1,0 +1,30 @@
+{
+  "id": "combo-upload-panel",
+  "name": "Upload Panel",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "ring",
+    "bar",
+    "text",
+    "percent"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#334155"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

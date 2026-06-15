@@ -1,0 +1,29 @@
+{
+  "id": "text-typing-cyan",
+  "name": "Typing Cursor — Cyan",
+  "category": "text",
+  "tags": [
+    "text",
+    "typing",
+    "cursor",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-typing"
+}

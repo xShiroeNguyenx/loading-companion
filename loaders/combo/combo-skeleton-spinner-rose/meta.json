@@ -1,0 +1,31 @@
+{
+  "id": "combo-skeleton-spinner-rose",
+  "name": "Skeleton + Spinner — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "skeleton",
+    "spinner",
+    "overlay",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f43f5e",
+    "--lc-base": "#e2e8f0",
+    "--lc-highlight": "#f1f5f9",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-skeleton-spinner"
+}

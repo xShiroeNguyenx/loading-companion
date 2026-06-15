@@ -1,0 +1,2 @@
+.l-spinner-quarter{width:var(--lc-size,44px);height:var(--lc-size,44px);border:calc(var(--lc-size,44px)/8) solid transparent;border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-spinner-quarter-r var(--lc-speed,.8s) linear infinite}
+@keyframes l-spinner-quarter-r{to{transform:rotate(1turn)}}

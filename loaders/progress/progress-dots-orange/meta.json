@@ -1,0 +1,30 @@
+{
+  "id": "progress-dots-orange",
+  "name": "Segmented Dots — Orange",
+  "category": "progress",
+  "tags": [
+    "dots",
+    "segment",
+    "fill",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#f97316",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.5s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-dots"
+}

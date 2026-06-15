@@ -1,0 +1,26 @@
+{
+  "id": "spinner-square-outline",
+  "name": "Square Outline",
+  "category": "spinner",
+  "tags": [
+    "square",
+    "rotate",
+    "scale"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

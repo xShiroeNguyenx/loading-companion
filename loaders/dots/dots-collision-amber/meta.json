@@ -1,0 +1,29 @@
+{
+  "id": "dots-collision-amber",
+  "name": "Collision — Amber",
+  "category": "dots",
+  "tags": [
+    "collision",
+    "two",
+    "translate",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-collision"
+}

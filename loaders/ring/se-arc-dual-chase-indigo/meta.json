@@ -1,0 +1,30 @@
+{
+  "id": "se-arc-dual-chase-indigo",
+  "name": "Arc Chase — Indigo",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "arcs",
+    "pseudo",
+    "counter",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-arc-dual-chase"
+}

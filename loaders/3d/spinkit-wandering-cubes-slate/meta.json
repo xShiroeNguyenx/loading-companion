@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-wandering-cubes-slate",
+  "name": "SpinKit Wandering Cubes — Slate",
+  "category": "3d",
+  "tags": [
+    "cubes",
+    "path",
+    "two",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-wandering-cubes"
+}

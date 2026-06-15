@@ -1,0 +1,30 @@
+{
+  "id": "se-dna-rose",
+  "name": "Crossing Dots — Rose",
+  "category": "wave",
+  "tags": [
+    "single-element",
+    "cross",
+    "pseudo",
+    "swap",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-dna"
+}

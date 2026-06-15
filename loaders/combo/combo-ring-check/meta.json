@@ -1,0 +1,29 @@
+{
+  "id": "combo-ring-check",
+  "name": "Ring → Check",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "check",
+    "success"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

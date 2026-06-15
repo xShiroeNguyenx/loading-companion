@@ -1,0 +1,28 @@
+{
+  "id": "svgl-grid-slate",
+  "name": "SVG Grid — Slate",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "dots",
+    "fade",
+    "theme",
+    "slate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#64748b"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-grid"
+}

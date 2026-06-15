@@ -1,0 +1,4 @@
+.l-se-eclipse-orange{--lc-color:#f97316}
+.l-se-eclipse-orange{position:relative;width:var(--lc-size,44px);aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);overflow:hidden}
+.l-se-eclipse-orange::after{content:'';position:absolute;inset:0;border-radius:50%;background:var(--lc-bg,#f1f5f9);animation:l-se-eclipse-orange-e var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-se-eclipse-orange-e{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}

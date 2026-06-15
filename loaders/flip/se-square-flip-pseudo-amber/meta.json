@@ -1,0 +1,30 @@
+{
+  "id": "se-square-flip-pseudo-amber",
+  "name": "Twin Flip — Amber",
+  "category": "flip",
+  "tags": [
+    "single-element",
+    "squares",
+    "pseudo",
+    "flip",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-square-flip-pseudo"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "whirl-box-spin-emerald",
+  "name": "Box Spin — Emerald",
+  "category": "3d",
+  "tags": [
+    "box",
+    "rotate",
+    "perspective",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "34px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-box-spin"
+}

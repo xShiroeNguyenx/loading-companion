@@ -1,0 +1,27 @@
+{
+  "id": "progress-circle",
+  "name": "Circular Sweep",
+  "category": "progress",
+  "tags": [
+    "circle",
+    "conic",
+    "loop"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

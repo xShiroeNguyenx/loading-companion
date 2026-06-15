@@ -1,0 +1,30 @@
+{
+  "id": "spinner-dots-circle-amber",
+  "name": "Circling Dots — Amber",
+  "category": "spinner",
+  "tags": [
+    "dots",
+    "circle",
+    "fade",
+    "ios",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dots-circle"
+}

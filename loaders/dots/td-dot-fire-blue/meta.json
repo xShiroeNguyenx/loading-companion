@@ -1,0 +1,29 @@
+{
+  "id": "td-dot-fire-blue",
+  "name": "Dot Fire — Blue",
+  "category": "dots",
+  "tags": [
+    "fire",
+    "rise",
+    "fade",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "10px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": true,
+  "baseId": "td-dot-fire"
+}

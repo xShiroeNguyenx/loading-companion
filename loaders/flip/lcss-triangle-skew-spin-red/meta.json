@@ -1,0 +1,29 @@
+{
+  "id": "lcss-triangle-skew-spin-red",
+  "name": "Triangle Skew Spin — Red",
+  "category": "flip",
+  "tags": [
+    "triangle",
+    "skew",
+    "3d",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-triangle-skew-spin"
+}

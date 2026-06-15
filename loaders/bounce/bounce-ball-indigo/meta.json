@@ -1,0 +1,29 @@
+{
+  "id": "bounce-ball-indigo",
+  "name": "Bouncing Ball — Indigo",
+  "category": "bounce",
+  "tags": [
+    "ball",
+    "bounce",
+    "shadow",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-ball"
+}

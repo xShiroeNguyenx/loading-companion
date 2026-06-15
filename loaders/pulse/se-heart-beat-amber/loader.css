@@ -1,0 +1,6 @@
+.l-se-heart-beat-amber{--lc-color:#f59e0b}
+.l-se-heart-beat-amber{position:relative;width:var(--lc-size,34px);aspect-ratio:1;background:var(--lc-color,#5b8def);transform:rotate(-45deg);animation:l-se-heart-beat-amber-b var(--lc-speed,1.2s) ease-in-out infinite}
+.l-se-heart-beat-amber::before,.l-se-heart-beat-amber::after{content:'';position:absolute;width:100%;height:100%;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-se-heart-beat-amber::before{top:-50%;left:0}
+.l-se-heart-beat-amber::after{top:0;right:-50%}
+@keyframes l-se-heart-beat-amber-b{0%,100%{transform:rotate(-45deg) scale(.8)}15%{transform:rotate(-45deg) scale(1.05)}30%{transform:rotate(-45deg) scale(.9)}45%{transform:rotate(-45deg) scale(1)}}

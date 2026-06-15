@@ -1,0 +1,28 @@
+{
+  "id": "lcss-ball-grid-pulse-emerald",
+  "name": "Ball Grid Pulse — Emerald",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "balls",
+    "pulse",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#10b981"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-grid-pulse"
+}

@@ -1,0 +1,10 @@
+.l-combo-favicon-bar-orange{--lc-color:#f97316}
+.l-combo-favicon-bar-orange{display:flex;flex-direction:column;align-items:center;gap:12px;font:600 12px/1 system-ui,sans-serif;color:var(--lc-text,#64748b);letter-spacing:.08em;text-transform:lowercase}
+.l-combo-favicon-bar-orange .ring{position:relative;width:var(--lc-size,70px);height:var(--lc-size,70px);display:grid;place-items:center}
+.l-combo-favicon-bar-orange .ring::before{content:'';position:absolute;inset:0;border:4px solid color-mix(in srgb,var(--lc-color,#5b8def) 18%,transparent);border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-combo-favicon-bar-orange-r var(--lc-speed,1s) linear infinite}
+.l-combo-favicon-bar-orange .logo{width:46%;height:46%;border-radius:12px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 3px 8px color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent)}
+.l-combo-favicon-bar-orange .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px}
+.l-combo-favicon-bar-orange .bar{position:relative;width:120px;height:4px;border-radius:3px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-favicon-bar-orange .bar b{position:absolute;top:0;left:-40%;height:100%;width:40%;border-radius:3px;background:var(--lc-color,#5b8def);animation:l-combo-favicon-bar-orange-s 1.4s cubic-bezier(.4,0,.2,1) infinite}
+@keyframes l-combo-favicon-bar-orange-r{to{transform:rotate(1turn)}}
+@keyframes l-combo-favicon-bar-orange-s{0%{left:-40%}100%{left:100%}}

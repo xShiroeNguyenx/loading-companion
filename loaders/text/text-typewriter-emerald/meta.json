@@ -1,0 +1,29 @@
+{
+  "id": "text-typewriter-emerald",
+  "name": "Typewriter — Emerald",
+  "category": "text",
+  "tags": [
+    "text",
+    "typewriter",
+    "steps",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-typewriter"
+}

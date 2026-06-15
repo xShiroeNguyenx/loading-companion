@@ -1,0 +1,30 @@
+{
+  "id": "se-hourglass-orange",
+  "name": "Hourglass — Orange",
+  "category": "flip",
+  "tags": [
+    "single-element",
+    "hourglass",
+    "pseudo",
+    "flip",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "30px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-hourglass"
+}

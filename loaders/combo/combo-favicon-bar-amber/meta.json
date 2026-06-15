@@ -1,0 +1,34 @@
+{
+  "id": "combo-favicon-bar-amber",
+  "name": "Favicon Splash + Bar — Amber",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "spinner",
+    "logo",
+    "bar",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "70px",
+    "--lc-color": "#f59e0b",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-bar"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "spinner-square-outline-violet",
+  "name": "Square Outline — Violet",
+  "category": "spinner",
+  "tags": [
+    "square",
+    "rotate",
+    "scale",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-square-outline"
+}

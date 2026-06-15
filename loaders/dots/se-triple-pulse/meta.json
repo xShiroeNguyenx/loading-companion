@@ -1,0 +1,28 @@
+{
+  "id": "se-triple-pulse",
+  "name": "Triple Pulse",
+  "category": "dots",
+  "tags": [
+    "single-element",
+    "dots",
+    "pseudo",
+    "pulse"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

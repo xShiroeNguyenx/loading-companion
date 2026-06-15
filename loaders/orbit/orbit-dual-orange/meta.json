@@ -1,0 +1,29 @@
+{
+  "id": "orbit-dual-orange",
+  "name": "Dual Orbit — Orange",
+  "category": "orbit",
+  "tags": [
+    "orbit",
+    "dots",
+    "rotate",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "orbit-dual"
+}

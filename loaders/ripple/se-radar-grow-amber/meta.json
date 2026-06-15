@@ -1,0 +1,30 @@
+{
+  "id": "se-radar-grow-amber",
+  "name": "Radar Grow — Amber",
+  "category": "ripple",
+  "tags": [
+    "single-element",
+    "conic",
+    "radar",
+    "property",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "52px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-radar-grow"
+}

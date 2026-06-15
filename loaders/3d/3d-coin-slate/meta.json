@@ -1,0 +1,29 @@
+{
+  "id": "3d-coin-slate",
+  "name": "3D Flipping Coin — Slate",
+  "category": "3d",
+  "tags": [
+    "coin",
+    "flip",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-coin"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "text-ellipsis-red",
+  "name": "Loading Ellipsis — Red",
+  "category": "text",
+  "tags": [
+    "text",
+    "ellipsis",
+    "dots",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-ellipsis"
+}

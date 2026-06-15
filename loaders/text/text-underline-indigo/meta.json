@@ -1,0 +1,29 @@
+{
+  "id": "text-underline-indigo",
+  "name": "Underline Sweep — Indigo",
+  "category": "text",
+  "tags": [
+    "text",
+    "underline",
+    "sweep",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-underline"
+}

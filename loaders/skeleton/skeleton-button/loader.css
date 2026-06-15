@@ -1,0 +1,4 @@
+.l-skeleton-button{width:var(--lc-size,200px)}
+.l-skeleton-button-line{height:10px;width:70%;border-radius:5px;margin-bottom:14px;background:linear-gradient(90deg,var(--lc-base,#e2e8f0) 25%,var(--lc-highlight,#f1f5f9) 37%,var(--lc-base,#e2e8f0) 63%);background-size:400% 100%;animation:l-skeleton-button-sh var(--lc-speed,1.4s) ease infinite}
+.l-skeleton-button-btn{height:34px;width:120px;border-radius:8px;background:linear-gradient(90deg,var(--lc-base,#e2e8f0) 25%,var(--lc-highlight,#f1f5f9) 37%,var(--lc-base,#e2e8f0) 63%);background-size:400% 100%;animation:l-skeleton-button-sh var(--lc-speed,1.4s) ease infinite}
+@keyframes l-skeleton-button-sh{0%{background-position:100% 0}100%{background-position:-100% 0}}

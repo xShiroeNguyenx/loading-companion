@@ -1,0 +1,4 @@
+.l-combo-button-indigo{--lc-color:#6366f1}
+.l-combo-button-indigo{display:inline-flex;align-items:center;gap:9px;padding:11px 20px;border:0;border-radius:9px;background:var(--lc-color,#5b8def);color:#fff;font:600 14px/1 system-ui,sans-serif;cursor:progress}
+.l-combo-button-indigo-s{width:16px;height:16px;border:2px solid rgba(255,255,255,.4);border-top-color:#fff;border-radius:50%;animation:l-combo-button-indigo-r var(--lc-speed,.8s) linear infinite}
+@keyframes l-combo-button-indigo-r{to{transform:rotate(1turn)}}

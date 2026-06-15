@@ -1,0 +1,29 @@
+{
+  "id": "orbit-dual-cyan",
+  "name": "Dual Orbit — Cyan",
+  "category": "orbit",
+  "tags": [
+    "orbit",
+    "dots",
+    "rotate",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "orbit-dual"
+}

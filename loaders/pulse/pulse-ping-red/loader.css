@@ -1,0 +1,6 @@
+.l-pulse-ping-red{--lc-color:#ef4444}
+.l-pulse-ping-red{position:relative;width:var(--lc-size,40px);height:var(--lc-size,40px)}
+.l-pulse-ping-red span{position:absolute;inset:0;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-pulse-ping-red span:first-child{animation:l-pulse-ping-red-pg var(--lc-speed,1.2s) cubic-bezier(0,0,.2,1) infinite;opacity:.6}
+.l-pulse-ping-red span:last-child{transform:scale(.55)}
+@keyframes l-pulse-ping-red-pg{75%,100%{transform:scale(1.6);opacity:0}}

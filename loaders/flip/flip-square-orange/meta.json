@@ -1,0 +1,29 @@
+{
+  "id": "flip-square-orange",
+  "name": "Flipping Square — Orange",
+  "category": "flip",
+  "tags": [
+    "flip",
+    "square",
+    "3d",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-square"
+}

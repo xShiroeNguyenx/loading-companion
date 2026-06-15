@@ -1,0 +1,29 @@
+{
+  "id": "3d-rotating-plane-rose",
+  "name": "3D Rotating Plane — Rose",
+  "category": "3d",
+  "tags": [
+    "plane",
+    "flip",
+    "perspective",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-rotating-plane"
+}

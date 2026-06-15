@@ -1,0 +1,30 @@
+{
+  "id": "bars-build-orange",
+  "name": "Building Bars — Orange",
+  "category": "bars",
+  "tags": [
+    "build",
+    "scale",
+    "sequence",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "7px",
+    "--lc-height": "36px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-build"
+}

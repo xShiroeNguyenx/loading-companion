@@ -1,0 +1,30 @@
+{
+  "id": "bars-flip-green",
+  "name": "Flipping Bars — Green",
+  "category": "bars",
+  "tags": [
+    "flip",
+    "scale",
+    "origin",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "8px",
+    "--lc-height": "36px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-flip"
+}

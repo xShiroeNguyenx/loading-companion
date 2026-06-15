@@ -1,0 +1,32 @@
+{
+  "id": "combo-loading-screen-red",
+  "name": "Loading Screen — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "spinner",
+    "text",
+    "bar",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#ef4444",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#334155",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-loading-screen"
+}

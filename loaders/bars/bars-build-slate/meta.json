@@ -1,0 +1,30 @@
+{
+  "id": "bars-build-slate",
+  "name": "Building Bars — Slate",
+  "category": "bars",
+  "tags": [
+    "build",
+    "scale",
+    "sequence",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "7px",
+    "--lc-height": "36px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-build"
+}

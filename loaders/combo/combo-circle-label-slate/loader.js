@@ -1,0 +1,1 @@
+var r=root.querySelector('.l-combo-circle-label-slate-r');var n=root.querySelector('.l-combo-circle-label-slate-n');var v=0;root._lcTimer=setInterval(function(){v=(v+1)%101;r.style.setProperty('--p',v+'%');n.textContent=v+'%';},28);

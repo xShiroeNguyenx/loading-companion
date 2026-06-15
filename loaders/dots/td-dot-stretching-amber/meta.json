@@ -1,0 +1,29 @@
+{
+  "id": "td-dot-stretching-amber",
+  "name": "Dot Stretching — Amber",
+  "category": "dots",
+  "tags": [
+    "stretch",
+    "scale-x",
+    "single",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": true,
+  "baseId": "td-dot-stretching"
+}

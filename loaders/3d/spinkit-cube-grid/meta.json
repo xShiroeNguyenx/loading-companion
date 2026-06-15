@@ -1,0 +1,27 @@
+{
+  "id": "spinkit-cube-grid",
+  "name": "SpinKit Cube Grid",
+  "category": "3d",
+  "tags": [
+    "grid",
+    "cubes",
+    "scale"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": false,
+  "baseId": null
+}

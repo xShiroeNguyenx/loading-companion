@@ -1,0 +1,29 @@
+{
+  "id": "bounce-ball-cyan",
+  "name": "Bouncing Ball — Cyan",
+  "category": "bounce",
+  "tags": [
+    "ball",
+    "bounce",
+    "shadow",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-ball"
+}

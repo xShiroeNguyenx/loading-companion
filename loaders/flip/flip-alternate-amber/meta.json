@@ -1,0 +1,29 @@
+{
+  "id": "flip-alternate-amber",
+  "name": "Alternating Tiles — Amber",
+  "category": "flip",
+  "tags": [
+    "tiles",
+    "rotate-y",
+    "two",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-alternate"
+}

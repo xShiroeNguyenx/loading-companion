@@ -1,0 +1,3 @@
+.l-spinner-dual-ring-indigo{--lc-color:#6366f1}
+.l-spinner-dual-ring-indigo{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:calc(var(--lc-size,48px)/10) solid transparent;border-top-color:var(--lc-color,#5b8def);border-bottom-color:var(--lc-color,#5b8def);animation:l-spinner-dual-ring-indigo-spin var(--lc-speed,1.1s) cubic-bezier(.5,0,.5,1) infinite}
+@keyframes l-spinner-dual-ring-indigo-spin{to{transform:rotate(1turn)}}

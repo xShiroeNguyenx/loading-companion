@@ -1,0 +1,27 @@
+{
+  "id": "pulse-concentric",
+  "name": "Concentric Pulse",
+  "category": "pulse",
+  "tags": [
+    "discs",
+    "expand",
+    "fade"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

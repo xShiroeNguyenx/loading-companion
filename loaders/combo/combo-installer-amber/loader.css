@@ -1,0 +1,9 @@
+.l-combo-installer-amber{--lc-color:#f59e0b}
+.l-combo-installer-amber{display:flex;flex-direction:column;gap:7px;width:200px;font-family:system-ui,sans-serif;color:var(--lc-text,#334155)}
+.l-combo-installer-amber .hd{display:flex;justify-content:space-between;align-items:baseline;font-size:12px;font-weight:600}
+.l-combo-installer-amber .pct{font:700 11px/1 ui-monospace,monospace;color:var(--lc-color,#5b8def)}
+.l-combo-installer-amber .bar{height:7px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-installer-amber .fill{display:block;height:100%;width:0;border-radius:4px;background:var(--lc-color,#5b8def)}
+.l-combo-installer-amber .sub{position:relative;height:4px;border-radius:3px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-installer-amber .sub b{position:absolute;top:0;left:-35%;height:100%;width:35%;border-radius:3px;background:color-mix(in srgb,var(--lc-color,#5b8def) 55%,transparent);animation:l-combo-installer-amber-s 1.2s cubic-bezier(.4,0,.2,1) infinite}
+@keyframes l-combo-installer-amber-s{0%{left:-35%}100%{left:100%}}

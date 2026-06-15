@@ -1,0 +1,29 @@
+{
+  "id": "flip-square-emerald",
+  "name": "Flipping Square — Emerald",
+  "category": "flip",
+  "tags": [
+    "flip",
+    "square",
+    "3d",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-square"
+}

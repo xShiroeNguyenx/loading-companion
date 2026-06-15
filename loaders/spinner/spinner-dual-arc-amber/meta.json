@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dual-arc-amber",
+  "name": "Dual Arc — Amber",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "two",
+    "rotate",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dual-arc"
+}

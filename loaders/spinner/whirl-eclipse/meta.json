@@ -1,0 +1,27 @@
+{
+  "id": "whirl-eclipse",
+  "name": "Eclipse",
+  "category": "spinner",
+  "tags": [
+    "eclipse",
+    "sweep",
+    "shadow"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-bg": "#f1f5f9",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": false,
+  "baseId": null
+}

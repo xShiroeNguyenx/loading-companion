@@ -1,0 +1,27 @@
+{
+  "id": "progress-bar-striped",
+  "name": "Striped Bar",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "striped",
+    "loop"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "combo-skeleton-page-blue",
+  "name": "Skeleton Page — Blue",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "skeleton",
+    "spinner",
+    "text",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#3b82f6",
+    "--lc-base": "#e2e8f0",
+    "--lc-highlight": "#f1f5f9",
+    "--lc-text": "#94a3b8",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-skeleton-page"
+}

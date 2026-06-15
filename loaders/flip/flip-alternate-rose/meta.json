@@ -1,0 +1,29 @@
+{
+  "id": "flip-alternate-rose",
+  "name": "Alternating Tiles — Rose",
+  "category": "flip",
+  "tags": [
+    "tiles",
+    "rotate-y",
+    "two",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-alternate"
+}

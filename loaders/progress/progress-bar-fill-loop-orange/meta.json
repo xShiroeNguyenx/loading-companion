@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-fill-loop-orange",
+  "name": "Filling Bar — Orange",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "fill",
+    "loop",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#f97316",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-fill-loop"
+}

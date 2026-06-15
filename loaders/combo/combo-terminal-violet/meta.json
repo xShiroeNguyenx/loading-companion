@@ -1,0 +1,30 @@
+{
+  "id": "combo-terminal-violet",
+  "name": "Terminal Boot — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "text",
+    "typing",
+    "spinner",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-terminal"
+}

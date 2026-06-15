@@ -1,0 +1,31 @@
+{
+  "id": "spinner-gradient-arc-cyan",
+  "name": "Gradient Arc — Cyan",
+  "category": "spinner",
+  "tags": [
+    "gradient",
+    "arc",
+    "rotate",
+    "modern",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#06b6d4",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-gradient-arc"
+}

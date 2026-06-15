@@ -1,0 +1,29 @@
+{
+  "id": "pulse-concentric-red",
+  "name": "Concentric Pulse — Red",
+  "category": "pulse",
+  "tags": [
+    "discs",
+    "expand",
+    "fade",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-concentric"
+}

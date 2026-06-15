@@ -1,0 +1,30 @@
+{
+  "id": "se-fan-fade-slate",
+  "name": "Fan Fade — Slate",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "fade",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-fan-fade"
+}

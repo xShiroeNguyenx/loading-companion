@@ -1,0 +1,29 @@
+{
+  "id": "lcss-ball-clip-rotate-slate",
+  "name": "Ball Clip Rotate — Slate",
+  "category": "ring",
+  "tags": [
+    "ring",
+    "clip",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#64748b",
+    "--lc-speed": ".75s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-clip-rotate"
+}

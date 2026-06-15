@@ -1,0 +1,2 @@
+.l-spinner-classic-reverse{width:var(--lc-size,48px);height:var(--lc-size,48px);border:calc(var(--lc-size,48px)/8) solid color-mix(in srgb,var(--lc-color,#5b8def) 22%,transparent);border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-spinner-classic-reverse-spin var(--lc-speed,1s) linear infinite reverse}
+@keyframes l-spinner-classic-reverse-spin{to{transform:rotate(1turn)}}

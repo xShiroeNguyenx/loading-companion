@@ -1,0 +1,34 @@
+{
+  "id": "combo-favicon-name-amber",
+  "name": "App Splash (Favicon + Name) — Amber",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "logo",
+    "text",
+    "skeleton",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f59e0b",
+    "--lc-base": "#e2e8f0",
+    "--lc-highlight": "#f1f5f9",
+    "--lc-text": "#334155",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-name"
+}

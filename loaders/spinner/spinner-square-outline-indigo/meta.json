@@ -1,0 +1,29 @@
+{
+  "id": "spinner-square-outline-indigo",
+  "name": "Square Outline — Indigo",
+  "category": "spinner",
+  "tags": [
+    "square",
+    "rotate",
+    "scale",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-square-outline"
+}

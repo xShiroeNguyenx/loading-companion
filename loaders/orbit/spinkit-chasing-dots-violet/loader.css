@@ -1,0 +1,6 @@
+.l-spinkit-chasing-dots-violet{--lc-color:#8b5cf6}
+.l-spinkit-chasing-dots-violet{position:relative;width:var(--lc-size,40px);height:var(--lc-size,40px);animation:l-spinkit-chasing-dots-violet-r var(--lc-speed,2s) linear infinite}
+.l-spinkit-chasing-dots-violet span{position:absolute;top:0;width:60%;height:60%;border-radius:100%;background:var(--lc-color,#5b8def);animation:l-spinkit-chasing-dots-violet-b var(--lc-speed,2s) ease-in-out infinite}
+.l-spinkit-chasing-dots-violet span:last-child{top:auto;bottom:0;animation-delay:-1s}
+@keyframes l-spinkit-chasing-dots-violet-r{100%{transform:rotate(360deg)}}
+@keyframes l-spinkit-chasing-dots-violet-b{0%,100%{transform:scale(0)}50%{transform:scale(1)}}

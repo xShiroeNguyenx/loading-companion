@@ -1,0 +1,31 @@
+{
+  "id": "se-bar-sweep-amber",
+  "name": "Bar Sweep — Amber",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "sweep",
+    "pseudo",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#f59e0b",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-bar-sweep"
+}

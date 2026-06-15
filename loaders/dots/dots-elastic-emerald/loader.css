@@ -1,0 +1,6 @@
+.l-dots-elastic-emerald{--lc-color:#10b981}
+.l-dots-elastic-emerald{display:flex;gap:calc(var(--lc-size,14px)/1.4)}
+.l-dots-elastic-emerald span{width:var(--lc-size,14px);height:var(--lc-size,14px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-dots-elastic-emerald-e var(--lc-speed,1s) cubic-bezier(.68,-.55,.27,1.55) infinite}
+.l-dots-elastic-emerald span:nth-child(2){animation-delay:.12s}
+.l-dots-elastic-emerald span:nth-child(3){animation-delay:.24s}
+@keyframes l-dots-elastic-emerald-e{0%,100%{transform:scaleY(1)}50%{transform:scaleY(1.8)}}

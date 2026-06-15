@@ -1,0 +1,2 @@
+.l-spinner-triangle{width:0;height:0;border-left:calc(var(--lc-size,40px)/2) solid transparent;border-right:calc(var(--lc-size,40px)/2) solid transparent;border-bottom:var(--lc-size,40px) solid var(--lc-color,#5b8def);animation:l-spinner-triangle-r var(--lc-speed,1.2s) ease-in-out infinite}
+@keyframes l-spinner-triangle-r{to{transform:rotate(1turn)}}

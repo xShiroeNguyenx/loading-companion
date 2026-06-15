@@ -1,0 +1,4 @@
+.l-se-bar-sweep-rose{--lc-color:#f43f5e}
+.l-se-bar-sweep-rose{position:relative;width:var(--lc-size,200px);height:8px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-se-bar-sweep-rose::before{content:'';position:absolute;top:0;left:-40%;height:100%;width:40%;border-radius:4px;background:var(--lc-color,#5b8def);animation:l-se-bar-sweep-rose-s var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-se-bar-sweep-rose-s{0%{left:-40%}100%{left:100%}}

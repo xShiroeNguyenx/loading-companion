@@ -1,0 +1,6 @@
+.l-text-ellipsis-rose{--lc-color:#f43f5e}
+.l-text-ellipsis-rose{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155)}
+.l-text-ellipsis-rose span{opacity:0;animation:l-text-ellipsis-rose-e var(--lc-speed,1.4s) infinite}
+.l-text-ellipsis-rose span:nth-child(2){animation-delay:.2s}
+.l-text-ellipsis-rose span:nth-child(3){animation-delay:.4s}
+@keyframes l-text-ellipsis-rose-e{0%,100%{opacity:0}40%,60%{opacity:1}}

@@ -1,0 +1,29 @@
+{
+  "id": "3d-coin-orange",
+  "name": "3D Flipping Coin — Orange",
+  "category": "3d",
+  "tags": [
+    "coin",
+    "flip",
+    "rotate",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-coin"
+}

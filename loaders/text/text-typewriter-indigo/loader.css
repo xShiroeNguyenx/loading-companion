@@ -1,0 +1,4 @@
+.l-text-typewriter-indigo{--lc-color:#6366f1}
+.l-text-typewriter-indigo{font:600 var(--lc-size,18px)/1.2 ui-monospace,monospace;color:var(--lc-color,#334155);white-space:nowrap;overflow:hidden;border-right:2px solid var(--lc-color,#334155);width:7ch;animation:l-text-typewriter-indigo-t var(--lc-speed,3s) steps(7) infinite,l-text-typewriter-indigo-c .7s step-end infinite}
+@keyframes l-text-typewriter-indigo-t{0%,100%{width:0}45%,90%{width:7ch}}
+@keyframes l-text-typewriter-indigo-c{0%,100%{border-color:transparent}50%{border-color:var(--lc-color,#334155)}}

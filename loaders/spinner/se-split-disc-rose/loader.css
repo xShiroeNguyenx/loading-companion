@@ -1,0 +1,3 @@
+.l-se-split-disc-rose{--lc-color:#f43f5e}
+.l-se-split-disc-rose{width:var(--lc-size,44px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) 0 50%,color-mix(in srgb,var(--lc-color,#5b8def) 20%,transparent) 0);animation:l-se-split-disc-rose-r var(--lc-speed,1s) linear infinite}
+@keyframes l-se-split-disc-rose-r{to{transform:rotate(1turn)}}

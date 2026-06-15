@@ -1,0 +1,30 @@
+{
+  "id": "spinner-dotted-ring-cyan",
+  "name": "Dotted Ring — Cyan",
+  "category": "spinner",
+  "tags": [
+    "dots",
+    "ring",
+    "rotate",
+    "trail",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dotted-ring"
+}

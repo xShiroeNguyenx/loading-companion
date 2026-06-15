@@ -1,0 +1,3 @@
+.l-flip-square-slate{--lc-color:#64748b}
+.l-flip-square-slate{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-flip-square-slate-f var(--lc-speed,1.2s) ease-in-out infinite}
+@keyframes l-flip-square-slate-f{0%{transform:perspective(120px) rotateX(0) rotateY(0)}50%{transform:perspective(120px) rotateX(-180deg) rotateY(0)}100%{transform:perspective(120px) rotateX(-180deg) rotateY(-180deg)}}

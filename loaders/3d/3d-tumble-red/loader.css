@@ -1,0 +1,3 @@
+.l-3d-tumble-red{--lc-color:#ef4444}
+.l-3d-tumble-red{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);border-radius:6px;animation:l-3d-tumble-red-r var(--lc-speed,1.8s) linear infinite}
+@keyframes l-3d-tumble-red-r{0%{transform:perspective(220px) rotateX(0) rotateY(0)}100%{transform:perspective(220px) rotateX(360deg) rotateY(360deg)}}

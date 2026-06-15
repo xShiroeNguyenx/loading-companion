@@ -1,0 +1,30 @@
+{
+  "id": "combo-terminal-emerald",
+  "name": "Terminal Boot — Emerald",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "text",
+    "typing",
+    "spinner",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#10b981",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-terminal"
+}

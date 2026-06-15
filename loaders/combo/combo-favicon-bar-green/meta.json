@@ -1,0 +1,34 @@
+{
+  "id": "combo-favicon-bar-green",
+  "name": "Favicon Splash + Bar — Green",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "spinner",
+    "logo",
+    "bar",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "70px",
+    "--lc-color": "#22c55e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-bar"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "combo-spinner-logo-violet",
+  "name": "Spinner + Logo Slot — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "logo",
+    "slot",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-logo"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "text-underline-teal",
+  "name": "Underline Sweep — Teal",
+  "category": "text",
+  "tags": [
+    "text",
+    "underline",
+    "sweep",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-underline"
+}

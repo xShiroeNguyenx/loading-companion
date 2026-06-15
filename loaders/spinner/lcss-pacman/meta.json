@@ -1,0 +1,26 @@
+{
+  "id": "lcss-pacman",
+  "name": "Pacman",
+  "category": "spinner",
+  "tags": [
+    "pacman",
+    "chomp",
+    "dots"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": false,
+  "baseId": null
+}

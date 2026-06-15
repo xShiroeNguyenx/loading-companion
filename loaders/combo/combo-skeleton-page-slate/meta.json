@@ -1,0 +1,33 @@
+{
+  "id": "combo-skeleton-page-slate",
+  "name": "Skeleton Page — Slate",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "skeleton",
+    "spinner",
+    "text",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-base": "#e2e8f0",
+    "--lc-highlight": "#f1f5f9",
+    "--lc-text": "#94a3b8",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-skeleton-page"
+}

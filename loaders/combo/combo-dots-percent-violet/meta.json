@@ -1,0 +1,29 @@
+{
+  "id": "combo-dots-percent-violet",
+  "name": "Dots + Percent — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "percent",
+    "counter",
+    "theme",
+    "violet"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-percent"
+}

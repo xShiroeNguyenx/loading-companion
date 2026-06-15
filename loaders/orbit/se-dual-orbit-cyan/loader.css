@@ -1,0 +1,6 @@
+.l-se-dual-orbit-cyan{--lc-color:#06b6d4}
+.l-se-dual-orbit-cyan{position:relative;width:var(--lc-size,44px);aspect-ratio:1;animation:l-se-dual-orbit-cyan-r var(--lc-speed,1.2s) linear infinite}
+.l-se-dual-orbit-cyan::before,.l-se-dual-orbit-cyan::after{content:'';position:absolute;left:calc(50% - 15%);width:30%;aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-se-dual-orbit-cyan::before{top:0}
+.l-se-dual-orbit-cyan::after{bottom:0;opacity:.5}
+@keyframes l-se-dual-orbit-cyan-r{to{transform:rotate(1turn)}}

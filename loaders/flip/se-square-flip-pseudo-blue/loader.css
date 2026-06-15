@@ -1,0 +1,6 @@
+.l-se-square-flip-pseudo-blue{--lc-color:#3b82f6}
+.l-se-square-flip-pseudo-blue{position:relative;width:var(--lc-size,40px);aspect-ratio:1}
+.l-se-square-flip-pseudo-blue::before,.l-se-square-flip-pseudo-blue::after{content:'';position:absolute;width:44%;aspect-ratio:1;border-radius:4px;background:var(--lc-color,#5b8def);animation:l-se-square-flip-pseudo-blue-f var(--lc-speed,1.4s) ease-in-out infinite}
+.l-se-square-flip-pseudo-blue::before{top:0;left:0}
+.l-se-square-flip-pseudo-blue::after{bottom:0;right:0;animation-delay:calc(var(--lc-speed,1.4s)/-2)}
+@keyframes l-se-square-flip-pseudo-blue-f{0%,100%{transform:rotate(0)}50%{transform:rotate(180deg)}}

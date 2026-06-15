@@ -1,0 +1,29 @@
+{
+  "id": "svg-spinner-stroke-red",
+  "name": "SVG Stroke Spinner — Red",
+  "category": "svg",
+  "tags": [
+    "stroke",
+    "rotate",
+    "circle",
+    "theme",
+    "red"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-spinner-stroke"
+}

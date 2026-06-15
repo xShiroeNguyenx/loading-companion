@@ -1,0 +1,7 @@
+.l-spinner-spiral-slate{--lc-color:#64748b}
+.l-spinner-spiral-slate{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px)}
+.l-spinner-spiral-slate span{position:absolute;border-radius:50%;border:3px solid transparent;border-top-color:var(--lc-color,#5b8def)}
+.l-spinner-spiral-slate span:nth-child(1){inset:0;animation:l-spinner-spiral-slate-r var(--lc-speed,1.2s) linear infinite}
+.l-spinner-spiral-slate span:nth-child(2){inset:7px;animation:l-spinner-spiral-slate-r calc(var(--lc-speed,1.2s)*1.5) linear infinite reverse}
+.l-spinner-spiral-slate span:nth-child(3){inset:14px;animation:l-spinner-spiral-slate-r calc(var(--lc-speed,1.2s)*.8) linear infinite}
+@keyframes l-spinner-spiral-slate-r{to{transform:rotate(1turn)}}

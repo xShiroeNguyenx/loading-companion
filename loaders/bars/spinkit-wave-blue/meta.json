@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-wave-blue",
+  "name": "SpinKit Wave — Blue",
+  "category": "bars",
+  "tags": [
+    "wave",
+    "bars",
+    "five",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-wave"
+}

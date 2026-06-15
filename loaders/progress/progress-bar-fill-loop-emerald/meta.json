@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-fill-loop-emerald",
+  "name": "Filling Bar — Emerald",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "fill",
+    "loop",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#10b981",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-fill-loop"
+}

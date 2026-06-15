@@ -1,0 +1,29 @@
+{
+  "id": "bounce-bar-emerald",
+  "name": "Bouncing Bar — Emerald",
+  "category": "bounce",
+  "tags": [
+    "bar",
+    "squash",
+    "single",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#10b981",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-bar"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dots-elastic-slate",
+  "name": "Elastic Dots — Slate",
+  "category": "dots",
+  "tags": [
+    "elastic",
+    "scale",
+    "three",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-elastic"
+}

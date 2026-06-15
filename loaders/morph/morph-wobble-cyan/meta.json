@@ -1,0 +1,29 @@
+{
+  "id": "morph-wobble-cyan",
+  "name": "Wobbling Blob — Cyan",
+  "category": "morph",
+  "tags": [
+    "wobble",
+    "border-radius",
+    "organic",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "morph-wobble"
+}

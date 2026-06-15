@@ -1,0 +1,7 @@
+.l-progress-bar-double-emerald{--lc-color:#10b981}
+.l-progress-bar-double-emerald{position:relative;width:var(--lc-size,220px);height:5px;border-radius:3px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-progress-bar-double-emerald span{position:absolute;height:100%;border-radius:3px;background:var(--lc-color,#5b8def)}
+.l-progress-bar-double-emerald span:nth-child(1){animation:l-progress-bar-double-emerald-a var(--lc-speed,2.1s) cubic-bezier(.65,.81,.74,.41) infinite}
+.l-progress-bar-double-emerald span:nth-child(2){animation:l-progress-bar-double-emerald-b var(--lc-speed,2.1s) cubic-bezier(.16,.84,.44,1) infinite}
+@keyframes l-progress-bar-double-emerald-a{0%{left:-35%;width:35%}60%,100%{left:100%;width:90%}}
+@keyframes l-progress-bar-double-emerald-b{0%{left:-90%;width:90%}60%,100%{left:107%;width:10%}}

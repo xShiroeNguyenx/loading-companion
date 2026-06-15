@@ -1,0 +1,29 @@
+{
+  "id": "flip-board-indigo",
+  "name": "Folding Board — Indigo",
+  "category": "flip",
+  "tags": [
+    "fold",
+    "plane",
+    "3d",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-board"
+}

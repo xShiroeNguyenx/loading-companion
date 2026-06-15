@@ -1,0 +1,29 @@
+{
+  "id": "ripple-triple-green",
+  "name": "Triple Ripple — Green",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "rings",
+    "expand",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-triple"
+}

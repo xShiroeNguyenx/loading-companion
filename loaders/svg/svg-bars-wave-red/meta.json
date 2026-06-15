@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-wave-red",
+  "name": "SVG Wave Bars — Red",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "wave",
+    "translate",
+    "theme",
+    "red"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-wave"
+}

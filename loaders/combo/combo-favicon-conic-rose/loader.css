@@ -1,0 +1,7 @@
+.l-combo-favicon-conic-rose{--lc-color:#f43f5e}
+.l-combo-favicon-conic-rose{display:flex;flex-direction:column;align-items:center;gap:14px;font:600 13px/1 system-ui,sans-serif;color:var(--lc-text,#64748b);letter-spacing:.08em;text-transform:lowercase}
+.l-combo-favicon-conic-rose .ring{position:relative;width:var(--lc-size,74px);height:var(--lc-size,74px);display:grid;place-items:center}
+.l-combo-favicon-conic-rose .arc{position:absolute;inset:0;border-radius:50%;background:conic-gradient(from 90deg,transparent,var(--lc-color,#5b8def));-webkit-mask:radial-gradient(farthest-side,#0000 calc(100% - 4px),#000 0);mask:radial-gradient(farthest-side,#0000 calc(100% - 4px),#000 0);animation:l-combo-favicon-conic-rose-r var(--lc-speed,1s) linear infinite}
+.l-combo-favicon-conic-rose .logo{position:relative;width:46%;height:46%;border-radius:12px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 3px 8px color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent)}
+.l-combo-favicon-conic-rose .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px}
+@keyframes l-combo-favicon-conic-rose-r{to{transform:rotate(1turn)}}

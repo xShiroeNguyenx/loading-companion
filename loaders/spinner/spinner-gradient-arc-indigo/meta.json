@@ -1,0 +1,31 @@
+{
+  "id": "spinner-gradient-arc-indigo",
+  "name": "Gradient Arc — Indigo",
+  "category": "spinner",
+  "tags": [
+    "gradient",
+    "arc",
+    "rotate",
+    "modern",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#6366f1",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-gradient-arc"
+}

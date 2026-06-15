@@ -1,0 +1,27 @@
+{
+  "id": "whirl-fidget",
+  "name": "Fidget Spinner",
+  "category": "orbit",
+  "tags": [
+    "fidget",
+    "lobes",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": false,
+  "baseId": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dots-grid-4-emerald",
+  "name": "Four Grid — Emerald",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "pulse",
+    "four",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-grid-4"
+}

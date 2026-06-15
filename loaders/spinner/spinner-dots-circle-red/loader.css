@@ -1,0 +1,12 @@
+.l-spinner-dots-circle-red{--lc-color:#ef4444}
+.l-spinner-dots-circle-red{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px)}
+.l-spinner-dots-circle-red span{position:absolute;top:0;left:50%;width:calc(var(--lc-size,48px)/8);height:calc(var(--lc-size,48px)/8);margin-left:calc(var(--lc-size,48px)/-16);border-radius:50%;background:var(--lc-color,#5b8def);transform-origin:50% calc(var(--lc-size,48px)/2);animation:l-spinner-dots-circle-red-f var(--lc-speed,1s) linear infinite}
+.l-spinner-dots-circle-red span:nth-child(1){transform:rotate(0deg);animation-delay:calc(var(--lc-speed,1s)*0)}
+.l-spinner-dots-circle-red span:nth-child(2){transform:rotate(45deg);animation-delay:calc(var(--lc-speed,1s)*-0.125)}
+.l-spinner-dots-circle-red span:nth-child(3){transform:rotate(90deg);animation-delay:calc(var(--lc-speed,1s)*-0.25)}
+.l-spinner-dots-circle-red span:nth-child(4){transform:rotate(135deg);animation-delay:calc(var(--lc-speed,1s)*-0.375)}
+.l-spinner-dots-circle-red span:nth-child(5){transform:rotate(180deg);animation-delay:calc(var(--lc-speed,1s)*-0.5)}
+.l-spinner-dots-circle-red span:nth-child(6){transform:rotate(225deg);animation-delay:calc(var(--lc-speed,1s)*-0.625)}
+.l-spinner-dots-circle-red span:nth-child(7){transform:rotate(270deg);animation-delay:calc(var(--lc-speed,1s)*-0.75)}
+.l-spinner-dots-circle-red span:nth-child(8){transform:rotate(315deg);animation-delay:calc(var(--lc-speed,1s)*-0.875)}
+@keyframes l-spinner-dots-circle-red-f{0%,100%{opacity:.15}10%{opacity:1}}

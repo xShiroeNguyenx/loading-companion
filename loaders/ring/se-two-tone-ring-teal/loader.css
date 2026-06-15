@@ -1,0 +1,3 @@
+.l-se-two-tone-ring-teal{--lc-color:#14b8a6}
+.l-se-two-tone-ring-teal{width:var(--lc-size,46px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent),var(--lc-color,#5b8def));-webkit-mask:radial-gradient(farthest-side,#0000 calc(100% - 6px),#000 0);mask:radial-gradient(farthest-side,#0000 calc(100% - 6px),#000 0);animation:l-se-two-tone-ring-teal-r var(--lc-speed,1.1s) linear infinite}
+@keyframes l-se-two-tone-ring-teal-r{to{transform:rotate(1turn)}}

@@ -1,0 +1,29 @@
+{
+  "id": "whirl-eclipse-emerald",
+  "name": "Eclipse — Emerald",
+  "category": "spinner",
+  "tags": [
+    "eclipse",
+    "sweep",
+    "shadow",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#10b981",
+    "--lc-bg": "#f1f5f9",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-eclipse"
+}

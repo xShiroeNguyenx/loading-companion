@@ -1,0 +1,30 @@
+{
+  "id": "se-ripple-pseudo-green",
+  "name": "Pseudo Ripple — Green",
+  "category": "ripple",
+  "tags": [
+    "single-element",
+    "ripple",
+    "pseudo",
+    "expand",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "52px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-ripple-pseudo"
+}

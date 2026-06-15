@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-fill-loop-green",
+  "name": "Filling Bar — Green",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "fill",
+    "loop",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#22c55e",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-fill-loop"
+}

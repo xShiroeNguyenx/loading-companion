@@ -1,0 +1,28 @@
+{
+  "id": "whirl-battery-orange",
+  "name": "Battery — Orange",
+  "category": "progress",
+  "tags": [
+    "battery",
+    "charge",
+    "fill",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f97316",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-battery"
+}

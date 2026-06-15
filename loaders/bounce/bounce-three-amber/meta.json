@@ -1,0 +1,29 @@
+{
+  "id": "bounce-three-amber",
+  "name": "Three Balls — Amber",
+  "category": "bounce",
+  "tags": [
+    "balls",
+    "squash",
+    "three",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "16px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": ".7s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-three"
+}

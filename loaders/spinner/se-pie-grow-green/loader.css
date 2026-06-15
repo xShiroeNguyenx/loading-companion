@@ -1,0 +1,4 @@
+.l-se-pie-grow-green{--lc-color:#22c55e}
+.l-se-pie-grow-green{width:var(--lc-size,46px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) var(--g,0deg),color-mix(in srgb,var(--lc-color,#5b8def) 16%,transparent) 0);animation:l-se-pie-grow-green-g var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-se-pie-grow-green-g{0%{--g:0deg}50%{--g:360deg}100%{--g:0deg}}
+@property --g{syntax:'<angle>';inherits:false;initial-value:0deg}

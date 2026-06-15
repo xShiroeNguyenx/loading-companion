@@ -1,0 +1,29 @@
+{
+  "id": "dots-typing-bubble-orange",
+  "name": "Typing Bubble — Orange",
+  "category": "dots",
+  "tags": [
+    "typing",
+    "chat",
+    "bubble",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "9px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-typing-bubble"
+}

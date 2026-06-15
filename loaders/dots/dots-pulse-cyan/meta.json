@@ -1,0 +1,29 @@
+{
+  "id": "dots-pulse-cyan",
+  "name": "Pulsing Dots — Cyan",
+  "category": "dots",
+  "tags": [
+    "pulse",
+    "scale",
+    "three",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-pulse"
+}

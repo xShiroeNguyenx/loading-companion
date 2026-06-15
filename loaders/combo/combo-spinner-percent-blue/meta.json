@@ -1,0 +1,30 @@
+{
+  "id": "combo-spinner-percent-blue",
+  "name": "Spinner + Percent — Blue",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "percent",
+    "counter",
+    "theme",
+    "blue"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-percent"
+}

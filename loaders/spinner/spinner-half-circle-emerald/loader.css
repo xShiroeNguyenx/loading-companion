@@ -1,0 +1,3 @@
+.l-spinner-half-circle-emerald{--lc-color:#10b981}
+.l-spinner-half-circle-emerald{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:calc(var(--lc-size,48px)/8) solid transparent;border-top-color:var(--lc-color,#5b8def);border-left-color:var(--lc-color,#5b8def);animation:l-spinner-half-circle-emerald-r var(--lc-speed,.9s) linear infinite}
+@keyframes l-spinner-half-circle-emerald-r{to{transform:rotate(1turn)}}

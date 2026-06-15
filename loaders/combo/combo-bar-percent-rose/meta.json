@@ -1,0 +1,30 @@
+{
+  "id": "combo-bar-percent-rose",
+  "name": "Bar + Percent — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "percent",
+    "counter",
+    "theme",
+    "rose"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "180px",
+    "--lc-color": "#f43f5e",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-percent"
+}

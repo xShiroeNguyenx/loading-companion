@@ -1,0 +1,6 @@
+.l-dots-flow-slate{--lc-color:#64748b}
+.l-dots-flow-slate{display:flex;gap:calc(var(--lc-size,12px)/1.5)}
+.l-dots-flow-slate span{width:var(--lc-size,12px);height:var(--lc-size,12px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-dots-flow-slate-fl var(--lc-speed,1.4s) ease-in-out infinite}
+.l-dots-flow-slate span:nth-child(1){animation-delay:-.3s}
+.l-dots-flow-slate span:nth-child(2){animation-delay:-.15s}
+@keyframes l-dots-flow-slate-fl{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(calc(var(--lc-size,12px)*-1))}}

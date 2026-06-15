@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-inline-indigo",
+  "name": "Spinner + Label (inline) — Indigo",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "inline",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#6366f1",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-inline"
+}

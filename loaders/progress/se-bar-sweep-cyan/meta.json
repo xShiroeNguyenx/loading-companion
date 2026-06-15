@@ -1,0 +1,31 @@
+{
+  "id": "se-bar-sweep-cyan",
+  "name": "Bar Sweep — Cyan",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "sweep",
+    "pseudo",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#06b6d4",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-bar-sweep"
+}

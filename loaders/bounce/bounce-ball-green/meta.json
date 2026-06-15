@@ -1,0 +1,29 @@
+{
+  "id": "bounce-ball-green",
+  "name": "Bouncing Ball — Green",
+  "category": "bounce",
+  "tags": [
+    "ball",
+    "bounce",
+    "shadow",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-ball"
+}

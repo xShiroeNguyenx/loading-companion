@@ -1,0 +1,2 @@
+.l-svg-dash-dual{width:var(--lc-size,48px);height:var(--lc-size,48px);color:var(--lc-color,#5b8def);animation:l-svg-dash-dual-r var(--lc-speed,1s) linear infinite}
+@keyframes l-svg-dash-dual-r{to{transform:rotate(1turn)}}

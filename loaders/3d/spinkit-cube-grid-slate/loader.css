@@ -1,0 +1,13 @@
+.l-spinkit-cube-grid-slate{--lc-color:#64748b}
+.l-spinkit-cube-grid-slate{width:var(--lc-size,40px);height:var(--lc-size,40px)}
+.l-spinkit-cube-grid-slate span{width:33.33%;height:33.33%;float:left;background:var(--lc-color,#5b8def);animation:l-spinkit-cube-grid-slate-s var(--lc-speed,1.3s) ease-in-out infinite}
+.l-spinkit-cube-grid-slate span:nth-child(1){animation-delay:.2s}
+.l-spinkit-cube-grid-slate span:nth-child(2){animation-delay:.3s}
+.l-spinkit-cube-grid-slate span:nth-child(3){animation-delay:.4s}
+.l-spinkit-cube-grid-slate span:nth-child(4){animation-delay:.1s}
+.l-spinkit-cube-grid-slate span:nth-child(5){animation-delay:.2s}
+.l-spinkit-cube-grid-slate span:nth-child(6){animation-delay:.3s}
+.l-spinkit-cube-grid-slate span:nth-child(7){animation-delay:0s}
+.l-spinkit-cube-grid-slate span:nth-child(8){animation-delay:.1s}
+.l-spinkit-cube-grid-slate span:nth-child(9){animation-delay:.2s}
+@keyframes l-spinkit-cube-grid-slate-s{0%,70%,100%{transform:scale3D(1,1,1)}35%{transform:scale3D(0,0,1)}}

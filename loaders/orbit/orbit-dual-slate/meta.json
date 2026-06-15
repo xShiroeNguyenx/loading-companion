@@ -1,0 +1,29 @@
+{
+  "id": "orbit-dual-slate",
+  "name": "Dual Orbit — Slate",
+  "category": "orbit",
+  "tags": [
+    "orbit",
+    "dots",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "orbit-dual"
+}

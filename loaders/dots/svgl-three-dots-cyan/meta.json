@@ -1,0 +1,28 @@
+{
+  "id": "svgl-three-dots-cyan",
+  "name": "SVG Three Dots — Cyan",
+  "category": "dots",
+  "tags": [
+    "dots",
+    "scale",
+    "three",
+    "theme",
+    "cyan"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#06b6d4"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-three-dots"
+}

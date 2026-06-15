@@ -1,0 +1,6 @@
+.l-se-hourglass-emerald{--lc-color:#10b981}
+.l-se-hourglass-emerald{position:relative;width:var(--lc-size,30px);height:calc(var(--lc-size,30px)*1.5);animation:l-se-hourglass-emerald-f var(--lc-speed,1.6s) ease-in-out infinite}
+.l-se-hourglass-emerald::before,.l-se-hourglass-emerald::after{content:'';position:absolute;left:0;width:0;height:0;border-left:calc(var(--lc-size,30px)/2) solid transparent;border-right:calc(var(--lc-size,30px)/2) solid transparent}
+.l-se-hourglass-emerald::before{top:0;border-top:calc(var(--lc-size,30px)*.72) solid var(--lc-color,#5b8def)}
+.l-se-hourglass-emerald::after{bottom:0;border-bottom:calc(var(--lc-size,30px)*.72) solid var(--lc-color,#5b8def)}
+@keyframes l-se-hourglass-emerald-f{0%,100%{transform:rotate(0)}50%{transform:rotate(180deg)}}

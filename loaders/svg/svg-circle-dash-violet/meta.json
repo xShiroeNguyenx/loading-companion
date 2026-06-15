@@ -1,0 +1,29 @@
+{
+  "id": "svg-circle-dash-violet",
+  "name": "SVG Dash Circle — Violet",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "circle",
+    "theme",
+    "violet"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-circle-dash"
+}

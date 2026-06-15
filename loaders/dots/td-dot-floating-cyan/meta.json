@@ -1,0 +1,29 @@
+{
+  "id": "td-dot-floating-cyan",
+  "name": "Dot Floating — Cyan",
+  "category": "dots",
+  "tags": [
+    "float",
+    "drift",
+    "fade",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "9px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": true,
+  "baseId": "td-dot-floating"
+}

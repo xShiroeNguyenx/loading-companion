@@ -1,0 +1,29 @@
+{
+  "id": "dots-collision-rose",
+  "name": "Collision — Rose",
+  "category": "dots",
+  "tags": [
+    "collision",
+    "two",
+    "translate",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-collision"
+}

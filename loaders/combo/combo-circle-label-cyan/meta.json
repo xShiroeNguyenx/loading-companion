@@ -1,0 +1,31 @@
+{
+  "id": "combo-circle-label-cyan",
+  "name": "Ring + Label + Percent — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "percent",
+    "label",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#06b6d4",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-circle-label"
+}

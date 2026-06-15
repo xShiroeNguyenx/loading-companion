@@ -1,0 +1,29 @@
+{
+  "id": "flip-square-slate",
+  "name": "Flipping Square — Slate",
+  "category": "flip",
+  "tags": [
+    "flip",
+    "square",
+    "3d",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-square"
+}

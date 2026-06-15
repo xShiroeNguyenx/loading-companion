@@ -1,0 +1,31 @@
+{
+  "id": "combo-bar-steps-rose",
+  "name": "Block Steps + Label — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "blocks",
+    "text",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f43f5e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-steps"
+}

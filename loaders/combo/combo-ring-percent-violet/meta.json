@@ -1,0 +1,30 @@
+{
+  "id": "combo-ring-percent-violet",
+  "name": "Ring + Percent — Violet",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "percent",
+    "counter",
+    "theme",
+    "violet"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "58px",
+    "--lc-color": "#8b5cf6",
+    "--lc-track": "#e2e8f0"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-ring-percent"
+}

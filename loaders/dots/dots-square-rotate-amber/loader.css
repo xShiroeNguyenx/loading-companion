@@ -1,0 +1,8 @@
+.l-dots-square-rotate-amber{--lc-color:#f59e0b}
+.l-dots-square-rotate-amber{position:relative;width:var(--lc-size,40px);height:var(--lc-size,40px);animation:l-dots-square-rotate-amber-r var(--lc-speed,1.4s) cubic-bezier(.5,0,.5,1) infinite}
+.l-dots-square-rotate-amber span{position:absolute;width:28%;height:28%;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-dots-square-rotate-amber span:nth-child(1){top:0;left:0}
+.l-dots-square-rotate-amber span:nth-child(2){top:0;right:0}
+.l-dots-square-rotate-amber span:nth-child(3){bottom:0;right:0}
+.l-dots-square-rotate-amber span:nth-child(4){bottom:0;left:0}
+@keyframes l-dots-square-rotate-amber-r{to{transform:rotate(1turn)}}

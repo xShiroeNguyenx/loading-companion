@@ -1,0 +1,3 @@
+.l-text-blink-amber{--lc-color:#f59e0b}
+.l-text-blink-amber{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155);animation:l-text-blink-amber-b var(--lc-speed,1s) step-start infinite}
+@keyframes l-text-blink-amber-b{0%,49%{opacity:1}50%,100%{opacity:.25}}

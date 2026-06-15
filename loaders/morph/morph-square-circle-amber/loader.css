@@ -1,0 +1,3 @@
+.l-morph-square-circle-amber{--lc-color:#f59e0b}
+.l-morph-square-circle-amber{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-morph-square-circle-amber-m var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-morph-square-circle-amber-m{0%,100%{border-radius:6%;transform:rotate(0)}50%{border-radius:50%;transform:rotate(180deg)}}

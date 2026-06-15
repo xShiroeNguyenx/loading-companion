@@ -1,0 +1,30 @@
+{
+  "id": "lcss-line-scale-pulse-out-orange",
+  "name": "Line Scale Pulse Out — Orange",
+  "category": "bars",
+  "tags": [
+    "lines",
+    "scale",
+    "pulse-out",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "4px",
+    "--lc-height": "40px",
+    "--lc-color": "#f97316",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-line-scale-pulse-out"
+}

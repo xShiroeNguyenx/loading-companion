@@ -1,0 +1,29 @@
+{
+  "id": "svg-dash-dual-slate",
+  "name": "SVG Dual Dash — Slate",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "two-arc",
+    "theme",
+    "slate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-dash-dual"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ripple-triple-emerald",
+  "name": "Triple Ripple — Emerald",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "rings",
+    "expand",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-triple"
+}

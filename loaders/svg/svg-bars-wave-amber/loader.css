@@ -1,0 +1,8 @@
+.l-svg-bars-wave-amber{--lc-color:#f59e0b}
+.l-svg-bars-wave-amber{width:var(--lc-size,60px);height:calc(var(--lc-size,60px)/2);fill:var(--lc-color,#5b8def)}
+.l-svg-bars-wave-amber rect{animation:l-svg-bars-wave-amber-w var(--lc-speed,1s) ease-in-out infinite}
+.l-svg-bars-wave-amber rect:nth-child(2){animation-delay:.1s}
+.l-svg-bars-wave-amber rect:nth-child(3){animation-delay:.2s}
+.l-svg-bars-wave-amber rect:nth-child(4){animation-delay:.3s}
+.l-svg-bars-wave-amber rect:nth-child(5){animation-delay:.4s}
+@keyframes l-svg-bars-wave-amber-w{0%,100%{transform:translateY(-4px)}50%{transform:translateY(4px)}}

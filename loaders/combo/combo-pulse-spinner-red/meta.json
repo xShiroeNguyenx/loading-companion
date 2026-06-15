@@ -1,0 +1,30 @@
+{
+  "id": "combo-pulse-spinner-red",
+  "name": "Pulse Halo + Spinner — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "pulse",
+    "spinner",
+    "layered",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-pulse-spinner"
+}

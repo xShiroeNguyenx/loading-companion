@@ -1,0 +1,30 @@
+{
+  "id": "bars-equalizer-emerald",
+  "name": "Equalizer — Emerald",
+  "category": "bars",
+  "tags": [
+    "equalizer",
+    "audio",
+    "scale",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "8px",
+    "--lc-height": "40px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bars-equalizer"
+}

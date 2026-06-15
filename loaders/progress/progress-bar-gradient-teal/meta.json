@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-gradient-teal",
+  "name": "Gradient Bar — Teal",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "gradient",
+    "flow",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#14b8a6",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-gradient"
+}

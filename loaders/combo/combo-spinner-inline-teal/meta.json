@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-inline-teal",
+  "name": "Spinner + Label (inline) — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "inline",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#14b8a6",
+    "--lc-text": "#64748b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-inline"
+}

@@ -1,0 +1,3 @@
+.l-lcss-ball-clip-rotate-violet{--lc-color:#8b5cf6}
+.l-lcss-ball-clip-rotate-violet{width:var(--lc-size,40px);height:var(--lc-size,40px);border-radius:50%;border:2px solid var(--lc-color,#5b8def);border-bottom-color:transparent;animation:l-lcss-ball-clip-rotate-violet-r var(--lc-speed,.75s) linear infinite}
+@keyframes l-lcss-ball-clip-rotate-violet-r{to{transform:rotate(1turn)}}

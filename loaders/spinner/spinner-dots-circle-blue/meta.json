@@ -1,0 +1,30 @@
+{
+  "id": "spinner-dots-circle-blue",
+  "name": "Circling Dots — Blue",
+  "category": "spinner",
+  "tags": [
+    "dots",
+    "circle",
+    "fade",
+    "ios",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dots-circle"
+}

@@ -1,0 +1,3 @@
+.l-text-shimmer-teal{--lc-color:#14b8a6}
+.l-text-shimmer-teal{font:700 var(--lc-size,20px)/1 system-ui,sans-serif;background:linear-gradient(90deg,var(--lc-base,#94a3b8) 25%,var(--lc-color,#5b8def) 50%,var(--lc-base,#94a3b8) 75%);background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:l-text-shimmer-teal-s var(--lc-speed,1.6s) linear infinite}
+@keyframes l-text-shimmer-teal-s{to{background-position:-200% 0}}

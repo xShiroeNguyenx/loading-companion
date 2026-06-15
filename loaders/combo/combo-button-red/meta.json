@@ -1,0 +1,29 @@
+{
+  "id": "combo-button-red",
+  "name": "Button + Spinner — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "button",
+    "text",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#ef4444",
+    "--lc-speed": ".8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-button"
+}

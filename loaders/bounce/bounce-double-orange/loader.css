@@ -1,0 +1,5 @@
+.l-bounce-double-orange{--lc-color:#f97316}
+.l-bounce-double-orange{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px)}
+.l-bounce-double-orange span{position:absolute;inset:0;border-radius:50%;background:var(--lc-color,#5b8def);opacity:.6;animation:l-bounce-double-orange-b var(--lc-speed,2s) ease-in-out infinite}
+.l-bounce-double-orange span:last-child{animation-delay:calc(var(--lc-speed,2s)/-2)}
+@keyframes l-bounce-double-orange-b{0%,100%{transform:scale(0)}50%{transform:scale(1)}}

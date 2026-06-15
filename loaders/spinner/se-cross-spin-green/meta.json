@@ -1,0 +1,30 @@
+{
+  "id": "se-cross-spin-green",
+  "name": "Cross Spin — Green",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "cross",
+    "pseudo",
+    "rotate",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-cross-spin"
+}

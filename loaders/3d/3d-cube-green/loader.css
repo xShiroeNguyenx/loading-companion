@@ -1,0 +1,11 @@
+.l-3d-cube-green{--lc-color:#22c55e}
+.l-3d-cube-green{width:var(--lc-size,44px);height:var(--lc-size,44px);perspective:240px}
+.l-3d-cube-green>div{position:relative;width:100%;height:100%;transform-style:preserve-3d;animation:l-3d-cube-green-rot var(--lc-speed,3s) linear infinite}
+.l-3d-cube-green span{position:absolute;inset:0;background:color-mix(in srgb,var(--lc-color,#5b8def) 80%,transparent);border:1px solid var(--lc-color,#5b8def)}
+.l-3d-cube-green span:nth-child(1){transform:rotateY(0) translateZ(calc(var(--lc-size,44px)/2))}
+.l-3d-cube-green span:nth-child(2){transform:rotateY(90deg) translateZ(calc(var(--lc-size,44px)/2))}
+.l-3d-cube-green span:nth-child(3){transform:rotateY(180deg) translateZ(calc(var(--lc-size,44px)/2))}
+.l-3d-cube-green span:nth-child(4){transform:rotateY(270deg) translateZ(calc(var(--lc-size,44px)/2))}
+.l-3d-cube-green span:nth-child(5){transform:rotateX(90deg) translateZ(calc(var(--lc-size,44px)/2))}
+.l-3d-cube-green span:nth-child(6){transform:rotateX(-90deg) translateZ(calc(var(--lc-size,44px)/2))}
+@keyframes l-3d-cube-green-rot{from{transform:rotateX(-22deg) rotateY(0)}to{transform:rotateX(-22deg) rotateY(360deg)}}

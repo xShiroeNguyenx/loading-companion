@@ -1,0 +1,13 @@
+.l-combo-app-boot-teal{--lc-color:#14b8a6}
+.l-combo-app-boot-teal{display:flex;flex-direction:column;align-items:center;gap:9px;font-family:system-ui,sans-serif;color:var(--lc-text,#64748b)}
+.l-combo-app-boot-teal .ring{position:relative;width:50px;height:50px;display:grid;place-items:center}
+.l-combo-app-boot-teal .ring::before{content:'';position:absolute;inset:0;border:3px solid color-mix(in srgb,var(--lc-color,#5b8def) 22%,transparent);border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-combo-app-boot-teal-r var(--lc-speed,1s) linear infinite}
+.l-combo-app-boot-teal .logo{width:40%;height:40%;border-radius:7px;background:var(--lc-color,#5b8def);animation:l-combo-app-boot-teal-p 1.4s ease-in-out infinite}
+.l-combo-app-boot-teal .dots{display:flex;gap:5px}
+.l-combo-app-boot-teal .dots i{width:6px;height:6px;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-combo-app-boot-teal-d 1s ease-in-out infinite}
+.l-combo-app-boot-teal .dots i:nth-child(2){animation-delay:.16s}
+.l-combo-app-boot-teal .dots i:nth-child(3){animation-delay:.32s}
+.l-combo-app-boot-teal small{font-size:11px}
+@keyframes l-combo-app-boot-teal-r{to{transform:rotate(1turn)}}
+@keyframes l-combo-app-boot-teal-p{0%,100%{transform:scale(.85);opacity:.8}50%{transform:scale(1);opacity:1}}
+@keyframes l-combo-app-boot-teal-d{0%,80%,100%{transform:scale(.5);opacity:.5}40%{transform:scale(1);opacity:1}}

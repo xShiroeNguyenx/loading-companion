@@ -1,0 +1,30 @@
+{
+  "id": "ring-color-wheel-orange",
+  "name": "Color Wheel — Orange",
+  "category": "ring",
+  "tags": [
+    "conic",
+    "gradient",
+    "rotate",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#f97316",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ring-color-wheel"
+}

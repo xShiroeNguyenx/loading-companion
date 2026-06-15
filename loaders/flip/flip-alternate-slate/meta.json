@@ -1,0 +1,29 @@
+{
+  "id": "flip-alternate-slate",
+  "name": "Alternating Tiles — Slate",
+  "category": "flip",
+  "tags": [
+    "tiles",
+    "rotate-y",
+    "two",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-alternate"
+}

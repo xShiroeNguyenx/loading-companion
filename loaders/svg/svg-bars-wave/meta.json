@@ -1,0 +1,26 @@
+{
+  "id": "svg-bars-wave",
+  "name": "SVG Wave Bars",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "wave",
+    "translate"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "se-triple-wave",
+  "name": "Triple Wave",
+  "category": "dots",
+  "tags": [
+    "single-element",
+    "dots",
+    "pseudo",
+    "wave"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

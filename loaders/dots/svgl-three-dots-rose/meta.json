@@ -1,0 +1,28 @@
+{
+  "id": "svgl-three-dots-rose",
+  "name": "SVG Three Dots — Rose",
+  "category": "dots",
+  "tags": [
+    "dots",
+    "scale",
+    "three",
+    "theme",
+    "rose"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#f43f5e"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-three-dots"
+}

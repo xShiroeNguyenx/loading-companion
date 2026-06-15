@@ -1,0 +1,31 @@
+{
+  "id": "combo-bar-steps-green",
+  "name": "Block Steps + Label — Green",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "progress",
+    "blocks",
+    "text",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#22c55e",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-bar-steps"
+}

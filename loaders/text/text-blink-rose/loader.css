@@ -1,0 +1,3 @@
+.l-text-blink-rose{--lc-color:#f43f5e}
+.l-text-blink-rose{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155);animation:l-text-blink-rose-b var(--lc-speed,1s) step-start infinite}
+@keyframes l-text-blink-rose-b{0%,49%{opacity:1}50%,100%{opacity:.25}}

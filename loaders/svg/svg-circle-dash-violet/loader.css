@@ -1,0 +1,3 @@
+.l-svg-circle-dash-violet{--lc-color:#8b5cf6}
+.l-svg-circle-dash-violet{width:var(--lc-size,48px);height:var(--lc-size,48px);color:var(--lc-color,#5b8def);animation:l-svg-circle-dash-violet-r var(--lc-speed,1s) linear infinite}
+@keyframes l-svg-circle-dash-violet-r{to{transform:rotate(1turn)}}

@@ -1,0 +1,29 @@
+{
+  "id": "pulse-circle-red",
+  "name": "Pulse Circle — Red",
+  "category": "pulse",
+  "tags": [
+    "pulse",
+    "scale",
+    "fade",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-circle"
+}

@@ -1,0 +1,4 @@
+.l-progress-bar-indeterminate-red{--lc-color:#ef4444}
+.l-progress-bar-indeterminate-red{position:relative;width:var(--lc-size,220px);height:6px;border-radius:3px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-progress-bar-indeterminate-red span{position:absolute;left:0;top:0;height:100%;width:40%;border-radius:3px;background:var(--lc-color,#5b8def);animation:l-progress-bar-indeterminate-red-s var(--lc-speed,1.4s) cubic-bezier(.4,0,.2,1) infinite}
+@keyframes l-progress-bar-indeterminate-red-s{0%{left:-40%}100%{left:100%}}

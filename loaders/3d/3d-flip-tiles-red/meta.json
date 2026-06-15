@@ -1,0 +1,29 @@
+{
+  "id": "3d-flip-tiles-red",
+  "name": "3D Flip Tiles — Red",
+  "category": "3d",
+  "tags": [
+    "tiles",
+    "flip",
+    "perspective",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-flip-tiles"
+}

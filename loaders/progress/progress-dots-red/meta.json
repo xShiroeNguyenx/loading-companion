@@ -1,0 +1,30 @@
+{
+  "id": "progress-dots-red",
+  "name": "Segmented Dots — Red",
+  "category": "progress",
+  "tags": [
+    "dots",
+    "segment",
+    "fill",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#ef4444",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.5s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-dots"
+}

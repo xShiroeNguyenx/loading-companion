@@ -1,0 +1,3 @@
+.l-lcss-triangle-skew-spin-indigo{--lc-color:#6366f1}
+.l-lcss-triangle-skew-spin-indigo{width:0;height:0;border-left:calc(var(--lc-size,24px)/2) solid transparent;border-right:calc(var(--lc-size,24px)/2) solid transparent;border-bottom:var(--lc-size,24px) solid var(--lc-color,#5b8def);animation:l-lcss-triangle-skew-spin-indigo-s var(--lc-speed,3s) cubic-bezier(.09,.57,.49,.9) infinite}
+@keyframes l-lcss-triangle-skew-spin-indigo-s{25%{transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{transform:perspective(100px) rotateX(0) rotateY(0)}}

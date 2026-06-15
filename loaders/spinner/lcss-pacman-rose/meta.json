@@ -1,0 +1,28 @@
+{
+  "id": "lcss-pacman-rose",
+  "name": "Pacman — Rose",
+  "category": "spinner",
+  "tags": [
+    "pacman",
+    "chomp",
+    "dots",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f43f5e"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-pacman"
+}

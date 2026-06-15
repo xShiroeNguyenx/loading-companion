@@ -1,0 +1,6 @@
+.l-se-dna-green{--lc-color:#22c55e}
+.l-se-dna-green{position:relative;width:var(--lc-size,40px);height:12px}
+.l-se-dna-green::before,.l-se-dna-green::after{content:'';position:absolute;top:1px;width:10px;height:10px;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-dna-green-a var(--lc-speed,1.4s) ease-in-out infinite}
+.l-se-dna-green::after{animation-name:l-se-dna-green-b}
+@keyframes l-se-dna-green-a{0%,100%{left:0;transform:scale(1);z-index:2}50%{left:calc(100% - 10px);transform:scale(.5);z-index:0}}
+@keyframes l-se-dna-green-b{0%,100%{left:calc(100% - 10px);transform:scale(.5);z-index:0}50%{left:0;transform:scale(1);z-index:2}}

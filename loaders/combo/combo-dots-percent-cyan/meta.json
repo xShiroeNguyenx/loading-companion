@@ -1,0 +1,29 @@
+{
+  "id": "combo-dots-percent-cyan",
+  "name": "Dots + Percent — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "dots",
+    "percent",
+    "counter",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#06b6d4",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-dots-percent"
+}

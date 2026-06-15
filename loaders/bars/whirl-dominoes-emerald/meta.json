@@ -1,0 +1,28 @@
+{
+  "id": "whirl-dominoes-emerald",
+  "name": "Dominoes — Emerald",
+  "category": "bars",
+  "tags": [
+    "dominoes",
+    "fall",
+    "rotate",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-dominoes"
+}

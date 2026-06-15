@@ -1,0 +1,28 @@
+{
+  "id": "svgl-oval-violet",
+  "name": "SVG Oval — Violet",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "rotate",
+    "oval",
+    "theme",
+    "violet"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#8b5cf6"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-oval"
+}

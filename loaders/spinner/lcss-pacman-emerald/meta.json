@@ -1,0 +1,28 @@
+{
+  "id": "lcss-pacman-emerald",
+  "name": "Pacman — Emerald",
+  "category": "spinner",
+  "tags": [
+    "pacman",
+    "chomp",
+    "dots",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#10b981"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-pacman"
+}

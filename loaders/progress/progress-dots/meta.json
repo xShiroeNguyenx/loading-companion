@@ -1,0 +1,27 @@
+{
+  "id": "progress-dots",
+  "name": "Segmented Dots",
+  "category": "progress",
+  "tags": [
+    "dots",
+    "segment",
+    "fill"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.5s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

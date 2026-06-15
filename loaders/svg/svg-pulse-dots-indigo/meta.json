@@ -1,0 +1,29 @@
+{
+  "id": "svg-pulse-dots-indigo",
+  "name": "SVG Pulse Dots — Indigo",
+  "category": "svg",
+  "tags": [
+    "dots",
+    "pulse",
+    "scale",
+    "theme",
+    "indigo"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-pulse-dots"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dots-flow-red",
+  "name": "Flowing Dots — Red",
+  "category": "dots",
+  "tags": [
+    "flow",
+    "wave",
+    "three",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-flow"
+}

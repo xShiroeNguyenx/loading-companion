@@ -1,0 +1,2 @@
+.l-ring-quad-segment{width:var(--lc-size,46px);height:var(--lc-size,46px);border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) 0 25%,transparent 0 50%,var(--lc-color,#5b8def) 0 75%,transparent 0);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - calc(var(--lc-size,46px)/8)),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - calc(var(--lc-size,46px)/8)),#000 0);animation:l-ring-quad-segment-r var(--lc-speed,1s) linear infinite}
+@keyframes l-ring-quad-segment-r{to{transform:rotate(1turn)}}

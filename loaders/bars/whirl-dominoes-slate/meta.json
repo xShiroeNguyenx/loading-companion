@@ -1,0 +1,28 @@
+{
+  "id": "whirl-dominoes-slate",
+  "name": "Dominoes — Slate",
+  "category": "bars",
+  "tags": [
+    "dominoes",
+    "fall",
+    "rotate",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-dominoes"
+}

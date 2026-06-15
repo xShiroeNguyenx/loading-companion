@@ -1,0 +1,5 @@
+.l-combo-progress-eta-blue{--lc-color:#3b82f6}
+.l-combo-progress-eta-blue{display:flex;flex-direction:column;gap:7px}
+.l-combo-progress-eta-blue-t{width:var(--lc-size,190px);height:8px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-progress-eta-blue-fill{height:100%;width:0;border-radius:4px;background:var(--lc-color,#5b8def)}
+.l-combo-progress-eta-blue-n{font:600 11px/1 ui-monospace,monospace;color:var(--lc-text,#64748b)}

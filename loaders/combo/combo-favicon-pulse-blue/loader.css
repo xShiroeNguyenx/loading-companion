@@ -1,0 +1,8 @@
+.l-combo-favicon-pulse-blue{--lc-color:#3b82f6}
+.l-combo-favicon-pulse-blue{display:flex;flex-direction:column;align-items:center;gap:16px;font:600 13px/1 system-ui,sans-serif;color:var(--lc-text,#64748b)}
+.l-combo-favicon-pulse-blue .ring{position:relative;width:var(--lc-size,64px);height:var(--lc-size,64px);display:grid;place-items:center}
+.l-combo-favicon-pulse-blue .ring::before,.l-combo-favicon-pulse-blue .ring::after{content:'';position:absolute;inset:0;border:2px solid var(--lc-color,#5b8def);border-radius:50%;animation:l-combo-favicon-pulse-blue-p var(--lc-speed,1.8s) ease-out infinite}
+.l-combo-favicon-pulse-blue .ring::after{animation-delay:calc(var(--lc-speed,1.8s)/-2)}
+.l-combo-favicon-pulse-blue .logo{position:relative;z-index:1;width:46%;height:46%;border-radius:12px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 3px 8px color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent)}
+.l-combo-favicon-pulse-blue .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px}
+@keyframes l-combo-favicon-pulse-blue-p{0%{transform:scale(.7);opacity:.8}100%{transform:scale(1.5);opacity:0}}

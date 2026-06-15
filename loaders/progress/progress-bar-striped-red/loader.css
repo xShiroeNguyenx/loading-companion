@@ -1,0 +1,4 @@
+.l-progress-bar-striped-red{--lc-color:#ef4444}
+.l-progress-bar-striped-red{width:var(--lc-size,220px);height:12px;border-radius:6px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-progress-bar-striped-red span{display:block;height:100%;width:65%;background-image:linear-gradient(45deg,rgba(255,255,255,.35) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.35) 50%,rgba(255,255,255,.35) 75%,transparent 75%);background-color:var(--lc-color,#5b8def);background-size:18px 18px;animation:l-progress-bar-striped-red-s var(--lc-speed,1s) linear infinite}
+@keyframes l-progress-bar-striped-red-s{from{background-position:0 0}to{background-position:18px 0}}

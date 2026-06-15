@@ -1,0 +1,29 @@
+{
+  "id": "bounce-ball-emerald",
+  "name": "Bouncing Ball — Emerald",
+  "category": "bounce",
+  "tags": [
+    "ball",
+    "bounce",
+    "shadow",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#10b981",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-ball"
+}

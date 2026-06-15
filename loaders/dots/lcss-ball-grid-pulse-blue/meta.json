@@ -1,0 +1,28 @@
+{
+  "id": "lcss-ball-grid-pulse-blue",
+  "name": "Ball Grid Pulse — Blue",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "balls",
+    "pulse",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#3b82f6"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-grid-pulse"
+}

@@ -1,0 +1,1 @@
+var f=root.querySelector('.l-combo-bar-percent-green-fill');var n=root.querySelector('.l-combo-bar-percent-green-n');var v=0;root._lcTimer=setInterval(function(){v=(v+1)%101;f.style.width=v+'%';n.textContent=v+'%';},28);

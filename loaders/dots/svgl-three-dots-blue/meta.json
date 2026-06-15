@@ -1,0 +1,28 @@
+{
+  "id": "svgl-three-dots-blue",
+  "name": "SVG Three Dots — Blue",
+  "category": "dots",
+  "tags": [
+    "dots",
+    "scale",
+    "three",
+    "theme",
+    "blue"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#3b82f6"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-three-dots"
+}

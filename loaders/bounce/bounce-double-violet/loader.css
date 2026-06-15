@@ -1,0 +1,5 @@
+.l-bounce-double-violet{--lc-color:#8b5cf6}
+.l-bounce-double-violet{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px)}
+.l-bounce-double-violet span{position:absolute;inset:0;border-radius:50%;background:var(--lc-color,#5b8def);opacity:.6;animation:l-bounce-double-violet-b var(--lc-speed,2s) ease-in-out infinite}
+.l-bounce-double-violet span:last-child{animation-delay:calc(var(--lc-speed,2s)/-2)}
+@keyframes l-bounce-double-violet-b{0%,100%{transform:scale(0)}50%{transform:scale(1)}}

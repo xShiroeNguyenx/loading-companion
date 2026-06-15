@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-wave-cyan",
+  "name": "SpinKit Wave — Cyan",
+  "category": "bars",
+  "tags": [
+    "wave",
+    "bars",
+    "five",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-wave"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "spinner-dashed-fast",
+  "name": "Dashed Ring — Fast",
+  "category": "spinner",
+  "tags": [
+    "ring",
+    "dashed",
+    "rotate",
+    "fast"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.5s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dashed"
+}

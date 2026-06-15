@@ -1,0 +1,30 @@
+{
+  "id": "combo-stepper-teal",
+  "name": "Stepper — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "steps",
+    "progress",
+    "sequence",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#14b8a6",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-stepper"
+}

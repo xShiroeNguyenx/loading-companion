@@ -1,0 +1,29 @@
+{
+  "id": "lcss-triangle-skew-spin-slate",
+  "name": "Triangle Skew Spin — Slate",
+  "category": "flip",
+  "tags": [
+    "triangle",
+    "skew",
+    "3d",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-triangle-skew-spin"
+}

@@ -1,0 +1,6 @@
+.l-se-triple-wave-indigo{--lc-color:#6366f1}
+.l-se-triple-wave-indigo{position:relative;width:var(--lc-size,12px);aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-triple-wave-indigo-w var(--lc-speed,1.2s) ease-in-out .15s infinite}
+.l-se-triple-wave-indigo::before,.l-se-triple-wave-indigo::after{content:'';position:absolute;top:0;width:100%;aspect-ratio:1;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-se-triple-wave-indigo-w var(--lc-speed,1.2s) ease-in-out infinite}
+.l-se-triple-wave-indigo::before{left:-160%;animation-delay:0s}
+.l-se-triple-wave-indigo::after{left:160%;animation-delay:.3s}
+@keyframes l-se-triple-wave-indigo-w{0%,100%{transform:translateY(70%)}50%{transform:translateY(-70%)}}

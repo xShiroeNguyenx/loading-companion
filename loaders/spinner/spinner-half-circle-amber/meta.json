@@ -1,0 +1,28 @@
+{
+  "id": "spinner-half-circle-amber",
+  "name": "Half Circle — Amber",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "rotate",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-half-circle"
+}

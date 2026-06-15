@@ -1,0 +1,10 @@
+.l-combo-favicon-bounce-green{--lc-color:#22c55e}
+.l-combo-favicon-bounce-green{display:flex;flex-direction:column;align-items:center;gap:11px;font:600 12px/1 system-ui,sans-serif;color:var(--lc-text,#64748b);letter-spacing:.06em;text-transform:lowercase}
+.l-combo-favicon-bounce-green .logo{width:48px;height:48px;border-radius:13px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 6px 10px -4px color-mix(in srgb,var(--lc-color,#5b8def) 45%,transparent);animation:l-combo-favicon-bounce-green-b var(--lc-speed,.9s) cubic-bezier(.5,.05,.5,.95) infinite alternate}
+.l-combo-favicon-bounce-green .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px;border-radius:5px}
+.l-combo-favicon-bounce-green .dots{display:flex;gap:5px}
+.l-combo-favicon-bounce-green .dots i{width:6px;height:6px;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-combo-favicon-bounce-green-d 1s ease-in-out infinite}
+.l-combo-favicon-bounce-green .dots i:nth-child(2){animation-delay:.16s}
+.l-combo-favicon-bounce-green .dots i:nth-child(3){animation-delay:.32s}
+@keyframes l-combo-favicon-bounce-green-b{0%{transform:translateY(-5px)}100%{transform:translateY(5px)}}
+@keyframes l-combo-favicon-bounce-green-d{0%,80%,100%{transform:scale(.5);opacity:.5}40%{transform:scale(1);opacity:1}}

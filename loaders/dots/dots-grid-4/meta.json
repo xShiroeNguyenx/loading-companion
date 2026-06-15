@@ -1,0 +1,26 @@
+{
+  "id": "dots-grid-4",
+  "name": "Four Grid",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "pulse",
+    "four"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

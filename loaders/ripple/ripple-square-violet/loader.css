@@ -1,0 +1,5 @@
+.l-ripple-square-violet{--lc-color:#8b5cf6}
+.l-ripple-square-violet{position:relative;width:var(--lc-size,56px);height:var(--lc-size,56px)}
+.l-ripple-square-violet span{position:absolute;top:50%;left:50%;border:2px solid var(--lc-color,#5b8def);border-radius:6px;transform:translate(-50%,-50%);animation:l-ripple-square-violet-r var(--lc-speed,1.4s) cubic-bezier(0,.2,.8,1) infinite}
+.l-ripple-square-violet span:last-child{animation-delay:calc(var(--lc-speed,1.4s)/-2)}
+@keyframes l-ripple-square-violet-r{0%{width:0;height:0;opacity:1}100%{width:var(--lc-size,56px);height:var(--lc-size,56px);opacity:0}}

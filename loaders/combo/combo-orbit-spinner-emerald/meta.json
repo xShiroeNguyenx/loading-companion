@@ -1,0 +1,30 @@
+{
+  "id": "combo-orbit-spinner-emerald",
+  "name": "Spinner + Orbit Dot — Emerald",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "orbit",
+    "layered",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-orbit-spinner"
+}

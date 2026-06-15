@@ -1,0 +1,29 @@
+{
+  "id": "bounce-double-indigo",
+  "name": "Double Bounce — Indigo",
+  "category": "bounce",
+  "tags": [
+    "bounce",
+    "two",
+    "fade",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-double"
+}

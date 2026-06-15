@@ -1,0 +1,26 @@
+{
+  "id": "text-typewriter",
+  "name": "Typewriter",
+  "category": "text",
+  "tags": [
+    "text",
+    "typewriter",
+    "steps"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#334155",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

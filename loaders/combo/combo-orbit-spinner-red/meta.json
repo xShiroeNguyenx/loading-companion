@@ -1,0 +1,30 @@
+{
+  "id": "combo-orbit-spinner-red",
+  "name": "Spinner + Orbit Dot — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "orbit",
+    "layered",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-orbit-spinner"
+}

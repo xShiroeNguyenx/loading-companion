@@ -1,0 +1,5 @@
+.l-svg-spinner-stroke-green{--lc-color:#22c55e}
+.l-svg-spinner-stroke-green{width:var(--lc-size,48px);height:var(--lc-size,48px);color:var(--lc-color,#5b8def);animation:l-svg-spinner-stroke-green-rot var(--lc-speed,1.4s) linear infinite}
+.l-svg-spinner-stroke-green circle{animation:l-svg-spinner-stroke-green-dash var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-svg-spinner-stroke-green-rot{to{transform:rotate(1turn)}}
+@keyframes l-svg-spinner-stroke-green-dash{0%{stroke-dasharray:1 150;stroke-dashoffset:0}50%{stroke-dasharray:90 150;stroke-dashoffset:-35}100%{stroke-dasharray:90 150;stroke-dashoffset:-124}}

@@ -1,0 +1,30 @@
+{
+  "id": "spinner-conic-amber",
+  "name": "Conic Sweep — Amber",
+  "category": "spinner",
+  "tags": [
+    "conic",
+    "gradient",
+    "rotate",
+    "modern",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-conic"
+}

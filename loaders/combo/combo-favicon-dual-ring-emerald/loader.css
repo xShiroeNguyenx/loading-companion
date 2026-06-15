@@ -1,0 +1,9 @@
+.l-combo-favicon-dual-ring-emerald{--lc-color:#10b981}
+.l-combo-favicon-dual-ring-emerald{display:flex;flex-direction:column;align-items:center;gap:14px;font:600 13px/1 system-ui,sans-serif;color:var(--lc-text,#64748b);letter-spacing:.08em;text-transform:lowercase}
+.l-combo-favicon-dual-ring-emerald .ring{position:relative;width:var(--lc-size,76px);height:var(--lc-size,76px);display:grid;place-items:center}
+.l-combo-favicon-dual-ring-emerald .ring::before,.l-combo-favicon-dual-ring-emerald .ring::after{content:'';position:absolute;border-radius:50%;border:3px solid transparent}
+.l-combo-favicon-dual-ring-emerald .ring::before{inset:0;border-top-color:var(--lc-color,#5b8def);animation:l-combo-favicon-dual-ring-emerald-r var(--lc-speed,1.1s) linear infinite}
+.l-combo-favicon-dual-ring-emerald .ring::after{inset:7px;border-bottom-color:var(--lc-color,#5b8def);animation:l-combo-favicon-dual-ring-emerald-r var(--lc-speed,1.1s) linear infinite reverse}
+.l-combo-favicon-dual-ring-emerald .logo{position:relative;width:46%;height:46%;border-radius:12px;background:linear-gradient(135deg,var(--lc-color,#5b8def),color-mix(in srgb,var(--lc-color,#5b8def) 60%,#1e293b));display:grid;place-items:center;object-fit:cover;box-shadow:0 3px 8px color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent)}
+.l-combo-favicon-dual-ring-emerald .logo::after{content:'';width:42%;height:42%;background:#fff;border-radius:5px}
+@keyframes l-combo-favicon-dual-ring-emerald-r{to{transform:rotate(1turn)}}

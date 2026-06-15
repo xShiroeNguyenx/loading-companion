@@ -1,0 +1,30 @@
+{
+  "id": "se-arc-dual-chase-emerald",
+  "name": "Arc Chase — Emerald",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "arcs",
+    "pseudo",
+    "counter",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-arc-dual-chase"
+}

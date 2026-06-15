@@ -1,0 +1,29 @@
+{
+  "id": "whirl-box-spin-blue",
+  "name": "Box Spin — Blue",
+  "category": "3d",
+  "tags": [
+    "box",
+    "rotate",
+    "perspective",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "34px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-box-spin"
+}

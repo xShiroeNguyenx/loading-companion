@@ -1,0 +1,26 @@
+{
+  "id": "3d-rotating-plane",
+  "name": "3D Rotating Plane",
+  "category": "3d",
+  "tags": [
+    "plane",
+    "flip",
+    "perspective"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

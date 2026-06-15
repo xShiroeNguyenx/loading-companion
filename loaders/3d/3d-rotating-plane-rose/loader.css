@@ -1,0 +1,3 @@
+.l-3d-rotating-plane-rose{--lc-color:#f43f5e}
+.l-3d-rotating-plane-rose{width:var(--lc-size,40px);height:var(--lc-size,40px);background:var(--lc-color,#5b8def);animation:l-3d-rotating-plane-rose-r var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-3d-rotating-plane-rose-r{0%{transform:perspective(160px) rotateX(0) rotateY(0)}50%{transform:perspective(160px) rotateX(-180deg) rotateY(0)}100%{transform:perspective(160px) rotateX(-180deg) rotateY(-180deg)}}

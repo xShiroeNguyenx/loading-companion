@@ -1,0 +1,3 @@
+.l-text-blink-indigo{--lc-color:#6366f1}
+.l-text-blink-indigo{font:600 var(--lc-size,18px)/1 system-ui,sans-serif;color:var(--lc-color,#334155);animation:l-text-blink-indigo-b var(--lc-speed,1s) step-start infinite}
+@keyframes l-text-blink-indigo-b{0%,49%{opacity:1}50%,100%{opacity:.25}}

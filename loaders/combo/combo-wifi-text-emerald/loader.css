@@ -1,0 +1,13 @@
+.l-combo-wifi-text-emerald{--lc-color:#10b981}
+.l-combo-wifi-text-emerald{display:flex;flex-direction:column;align-items:center;gap:10px;font:600 12px/1 system-ui,sans-serif;color:var(--lc-text,#64748b)}
+.l-combo-wifi-text-emerald .sig{display:flex;gap:4px;align-items:flex-end;height:24px}
+.l-combo-wifi-text-emerald .sig i{width:5px;border-radius:2px;background:var(--lc-color,#5b8def);animation:l-combo-wifi-text-emerald-w var(--lc-speed,1.6s) ease-in-out infinite}
+.l-combo-wifi-text-emerald .sig i:nth-child(1){height:9px;animation-delay:0s}
+.l-combo-wifi-text-emerald .sig i:nth-child(2){height:15px;animation-delay:.2s}
+.l-combo-wifi-text-emerald .sig i:nth-child(3){height:20px;animation-delay:.4s}
+.l-combo-wifi-text-emerald .sig i:nth-child(4){height:24px;animation-delay:.6s}
+.l-combo-wifi-text-emerald small i{opacity:0;animation:l-combo-wifi-text-emerald-d 1.4s infinite}
+.l-combo-wifi-text-emerald small i:nth-child(2){animation-delay:.2s}
+.l-combo-wifi-text-emerald small i:nth-child(3){animation-delay:.4s}
+@keyframes l-combo-wifi-text-emerald-w{0%,100%{opacity:.2}50%{opacity:1}}
+@keyframes l-combo-wifi-text-emerald-d{0%,100%{opacity:0}40%,60%{opacity:1}}

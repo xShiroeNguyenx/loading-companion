@@ -1,0 +1,5 @@
+.l-spinkit-wandering-cubes-violet{--lc-color:#8b5cf6}
+.l-spinkit-wandering-cubes-violet{position:relative;width:var(--lc-size,40px);height:var(--lc-size,40px)}
+.l-spinkit-wandering-cubes-violet span{position:absolute;top:0;left:0;width:25%;height:25%;background:var(--lc-color,#5b8def);animation:l-spinkit-wandering-cubes-violet-m var(--lc-speed,1.8s) ease-in-out infinite}
+.l-spinkit-wandering-cubes-violet span:last-child{animation-delay:-.9s}
+@keyframes l-spinkit-wandering-cubes-violet-m{25%{transform:translateX(300%) rotate(-90deg) scale(.5)}50%{transform:translateX(300%) translateY(300%) rotate(-180deg)}75%{transform:translateX(0) translateY(300%) rotate(-270deg) scale(.5)}100%{transform:none}}

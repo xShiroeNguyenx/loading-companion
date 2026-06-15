@@ -1,0 +1,28 @@
+{
+  "id": "whirl-battery-violet",
+  "name": "Battery — Violet",
+  "category": "progress",
+  "tags": [
+    "battery",
+    "charge",
+    "fill",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-battery"
+}

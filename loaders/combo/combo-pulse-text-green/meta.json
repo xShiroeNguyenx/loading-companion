@@ -1,0 +1,30 @@
+{
+  "id": "combo-pulse-text-green",
+  "name": "Status Dot + Text — Green",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "pulse",
+    "status",
+    "text",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#22c55e",
+    "--lc-text": "#334155",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-pulse-text"
+}

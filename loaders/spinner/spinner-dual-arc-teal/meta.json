@@ -1,0 +1,29 @@
+{
+  "id": "spinner-dual-arc-teal",
+  "name": "Dual Arc — Teal",
+  "category": "spinner",
+  "tags": [
+    "arc",
+    "two",
+    "rotate",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dual-arc"
+}

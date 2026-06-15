@@ -1,0 +1,2 @@
+.l-skeleton-image{width:var(--lc-size,200px);height:130px;border-radius:10px;background:linear-gradient(90deg,var(--lc-base,#e2e8f0) 25%,var(--lc-highlight,#f1f5f9) 37%,var(--lc-base,#e2e8f0) 63%);background-size:400% 100%;animation:l-skeleton-image-sh var(--lc-speed,1.4s) ease infinite}
+@keyframes l-skeleton-image-sh{0%{background-position:100% 0}100%{background-position:-100% 0}}

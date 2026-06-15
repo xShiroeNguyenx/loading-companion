@@ -1,0 +1,27 @@
+{
+  "id": "td-dot-floating",
+  "name": "Dot Floating",
+  "category": "dots",
+  "tags": [
+    "float",
+    "drift",
+    "fade"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "9px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Three Dots",
+    "url": "https://github.com/nzbin/three-dots",
+    "author": "nzbin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2018 nzbin",
+  "generated": false,
+  "baseId": null
+}

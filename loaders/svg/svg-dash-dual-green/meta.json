@@ -1,0 +1,29 @@
+{
+  "id": "svg-dash-dual-green",
+  "name": "SVG Dual Dash — Green",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "two-arc",
+    "theme",
+    "green"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-dash-dual"
+}

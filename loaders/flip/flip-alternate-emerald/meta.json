@@ -1,0 +1,29 @@
+{
+  "id": "flip-alternate-emerald",
+  "name": "Alternating Tiles — Emerald",
+  "category": "flip",
+  "tags": [
+    "tiles",
+    "rotate-y",
+    "two",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-alternate"
+}

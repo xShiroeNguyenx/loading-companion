@@ -1,0 +1,26 @@
+{
+  "id": "pulse-ping",
+  "name": "Ping",
+  "category": "pulse",
+  "tags": [
+    "ping",
+    "ring",
+    "fade"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

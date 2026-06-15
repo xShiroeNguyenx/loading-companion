@@ -1,0 +1,28 @@
+{
+  "id": "lcss-ball-grid-pulse-slate",
+  "name": "Ball Grid Pulse — Slate",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "balls",
+    "pulse",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#64748b"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-ball-grid-pulse"
+}

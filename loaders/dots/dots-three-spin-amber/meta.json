@@ -1,0 +1,29 @@
+{
+  "id": "dots-three-spin-amber",
+  "name": "Spinning Triangle — Amber",
+  "category": "dots",
+  "tags": [
+    "triangle",
+    "rotate",
+    "three",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-three-spin"
+}

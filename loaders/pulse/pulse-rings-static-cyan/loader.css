@@ -1,0 +1,7 @@
+.l-pulse-rings-static-cyan{--lc-color:#06b6d4}
+.l-pulse-rings-static-cyan{position:relative;width:var(--lc-size,46px);height:var(--lc-size,46px)}
+.l-pulse-rings-static-cyan span{position:absolute;border:2px solid var(--lc-color,#5b8def);border-radius:50%;animation:l-pulse-rings-static-cyan-p var(--lc-speed,1.4s) ease-in-out infinite}
+.l-pulse-rings-static-cyan span:nth-child(1){inset:0}
+.l-pulse-rings-static-cyan span:nth-child(2){inset:7px;animation-delay:.2s}
+.l-pulse-rings-static-cyan span:nth-child(3){inset:14px;animation-delay:.4s}
+@keyframes l-pulse-rings-static-cyan-p{0%,100%{opacity:.2}50%{opacity:1}}

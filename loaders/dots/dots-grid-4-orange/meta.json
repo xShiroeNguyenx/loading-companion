@@ -1,0 +1,29 @@
+{
+  "id": "dots-grid-4-orange",
+  "name": "Four Grid — Orange",
+  "category": "dots",
+  "tags": [
+    "grid",
+    "pulse",
+    "four",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "14px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-grid-4"
+}

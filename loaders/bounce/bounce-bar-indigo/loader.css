@@ -1,0 +1,3 @@
+.l-bounce-bar-indigo{--lc-color:#6366f1}
+.l-bounce-bar-indigo{width:var(--lc-size,12px);height:36px;border-radius:6px;background:var(--lc-color,#5b8def);animation:l-bounce-bar-indigo-b var(--lc-speed,.6s) cubic-bezier(.5,.05,.5,.95) infinite alternate}
+@keyframes l-bounce-bar-indigo-b{0%{transform:translateY(-40%) scaleY(1.1)}100%{transform:translateY(40%) scaleY(.85)}}

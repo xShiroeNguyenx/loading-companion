@@ -1,0 +1,26 @@
+{
+  "id": "text-ellipsis",
+  "name": "Loading Ellipsis",
+  "category": "text",
+  "tags": [
+    "text",
+    "ellipsis",
+    "dots"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#334155",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

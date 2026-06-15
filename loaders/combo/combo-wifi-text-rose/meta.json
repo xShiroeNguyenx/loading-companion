@@ -1,0 +1,31 @@
+{
+  "id": "combo-wifi-text-rose",
+  "name": "Signal + Text + Dots — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "signal",
+    "text",
+    "dots",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f43f5e",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-wifi-text"
+}

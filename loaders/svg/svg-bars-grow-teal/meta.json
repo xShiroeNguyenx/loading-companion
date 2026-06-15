@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-grow-teal",
+  "name": "SVG Growing Bars — Teal",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "scale",
+    "rect",
+    "theme",
+    "teal"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-grow"
+}

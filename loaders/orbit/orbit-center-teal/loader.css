@@ -1,0 +1,5 @@
+.l-orbit-center-teal{--lc-color:#14b8a6}
+.l-orbit-center-teal{position:relative;width:var(--lc-size,44px);height:var(--lc-size,44px)}
+.l-orbit-center-teal b{position:absolute;top:50%;left:50%;width:22%;height:22%;margin:-11% 0 0 -11%;border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-orbit-center-teal i{position:absolute;top:0;left:50%;width:16%;height:16%;margin-left:-8%;border-radius:50%;background:var(--lc-color,#5b8def);transform-origin:50% calc(var(--lc-size,44px)/2);animation:l-orbit-center-teal-r var(--lc-speed,1.2s) linear infinite}
+@keyframes l-orbit-center-teal-r{to{transform:rotate(1turn)}}

@@ -1,0 +1,4 @@
+.l-progress-circle-orange{--lc-color:#f97316}
+.l-progress-circle-orange{width:var(--lc-size,54px);height:var(--lc-size,54px);border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def) var(--p,25%),var(--lc-track,#e2e8f0) 0);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - var(--lc-size,54px)/6),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - var(--lc-size,54px)/6),#000 0);animation:l-progress-circle-orange-s var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-progress-circle-orange-s{0%{--p:5%}50%{--p:90%}100%{--p:5%}}
+@property --p{syntax:'<percentage>';inherits:false;initial-value:0%}

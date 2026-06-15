@@ -1,0 +1,30 @@
+{
+  "id": "spinner-dots-circle-emerald",
+  "name": "Circling Dots — Emerald",
+  "category": "spinner",
+  "tags": [
+    "dots",
+    "circle",
+    "fade",
+    "ios",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-dots-circle"
+}

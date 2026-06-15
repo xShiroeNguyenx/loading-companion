@@ -1,0 +1,29 @@
+{
+  "id": "svg-circle-dash-orange",
+  "name": "SVG Dash Circle — Orange",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "circle",
+    "theme",
+    "orange"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f97316",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-circle-dash"
+}

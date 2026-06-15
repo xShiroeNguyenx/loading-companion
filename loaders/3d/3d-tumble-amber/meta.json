@@ -1,0 +1,29 @@
+{
+  "id": "3d-tumble-amber",
+  "name": "3D Tumbling Square — Amber",
+  "category": "3d",
+  "tags": [
+    "tumble",
+    "rotate",
+    "perspective",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-tumble"
+}

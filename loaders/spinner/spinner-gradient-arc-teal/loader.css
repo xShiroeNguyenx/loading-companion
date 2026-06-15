@@ -1,0 +1,3 @@
+.l-spinner-gradient-arc-teal{--lc-color:#14b8a6}
+.l-spinner-gradient-arc-teal{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;background:conic-gradient(var(--lc-color,#5b8def),var(--lc-color-2,#a855f7),transparent 70%);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - var(--lc-size,48px)/7),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - var(--lc-size,48px)/7),#000 0);animation:l-spinner-gradient-arc-teal-spin var(--lc-speed,1s) linear infinite}
+@keyframes l-spinner-gradient-arc-teal-spin{to{transform:rotate(1turn)}}

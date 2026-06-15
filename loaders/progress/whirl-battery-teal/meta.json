@@ -1,0 +1,28 @@
+{
+  "id": "whirl-battery-teal",
+  "name": "Battery — Teal",
+  "category": "progress",
+  "tags": [
+    "battery",
+    "charge",
+    "fill",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Whirl",
+    "url": "https://github.com/jh3y/whirl",
+    "author": "Jhey Tompkins"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2019 Jhey Tompkins",
+  "generated": true,
+  "baseId": "whirl-battery"
+}

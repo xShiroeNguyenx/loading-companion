@@ -1,0 +1,29 @@
+{
+  "id": "pulse-rings-static-teal",
+  "name": "Nested Rings — Teal",
+  "category": "pulse",
+  "tags": [
+    "rings",
+    "nested",
+    "fade",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-rings-static"
+}

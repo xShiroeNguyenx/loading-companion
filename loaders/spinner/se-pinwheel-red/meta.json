@@ -1,0 +1,29 @@
+{
+  "id": "se-pinwheel-red",
+  "name": "Pinwheel — Red",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "rotate",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-pinwheel"
+}

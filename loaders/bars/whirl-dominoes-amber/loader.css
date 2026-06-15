@@ -1,0 +1,8 @@
+.l-whirl-dominoes-amber{--lc-color:#f59e0b}
+.l-whirl-dominoes-amber{display:flex;gap:5px;align-items:flex-end;height:30px}
+.l-whirl-dominoes-amber span{width:5px;height:24px;border-radius:1px;background:var(--lc-color,#5b8def);transform-origin:bottom left;animation:l-whirl-dominoes-amber-d var(--lc-speed,1.6s) ease-in-out infinite}
+.l-whirl-dominoes-amber span:nth-child(2){animation-delay:.1s}
+.l-whirl-dominoes-amber span:nth-child(3){animation-delay:.2s}
+.l-whirl-dominoes-amber span:nth-child(4){animation-delay:.3s}
+.l-whirl-dominoes-amber span:nth-child(5){animation-delay:.4s}
+@keyframes l-whirl-dominoes-amber-d{0%,40%{transform:rotate(0)}60%,90%{transform:rotate(-55deg)}100%{transform:rotate(0)}}

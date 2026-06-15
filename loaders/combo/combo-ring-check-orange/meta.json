@@ -1,0 +1,31 @@
+{
+  "id": "combo-ring-check-orange",
+  "name": "Ring → Check — Orange",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "ring",
+    "check",
+    "success",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#f97316",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "2.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-ring-check"
+}

@@ -1,0 +1,5 @@
+.l-combo-spinner-percent-red{--lc-color:#ef4444}
+.l-combo-spinner-percent-red{position:relative;width:var(--lc-size,58px);height:var(--lc-size,58px);display:grid;place-items:center}
+.l-combo-spinner-percent-red-s{position:absolute;inset:0;border:4px solid color-mix(in srgb,var(--lc-color,#5b8def) 20%,transparent);border-top-color:var(--lc-color,#5b8def);border-radius:50%;animation:l-combo-spinner-percent-red-r var(--lc-speed,1s) linear infinite}
+.l-combo-spinner-percent-red-n{font:700 12px/1 ui-monospace,monospace;color:var(--lc-color,#5b8def)}
+@keyframes l-combo-spinner-percent-red-r{to{transform:rotate(1turn)}}

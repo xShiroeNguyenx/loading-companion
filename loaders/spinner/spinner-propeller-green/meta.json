@@ -1,0 +1,29 @@
+{
+  "id": "spinner-propeller-green",
+  "name": "Propeller — Green",
+  "category": "spinner",
+  "tags": [
+    "blades",
+    "rotate",
+    "three",
+    "theme",
+    "green"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "spinner-propeller"
+}

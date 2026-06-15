@@ -1,0 +1,4 @@
+.l-text-underline-red{--lc-color:#ef4444}
+.l-text-underline-red{position:relative;display:inline-block;font:600 var(--lc-size,18px)/1.5 system-ui,sans-serif;color:var(--lc-color,#5b8def)}
+.l-text-underline-red::after{content:'';position:absolute;left:0;bottom:0;width:100%;height:2px;background:var(--lc-color,#5b8def);transform:scaleX(0);transform-origin:left;animation:l-text-underline-red-u var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-text-underline-red-u{0%{transform:scaleX(0);transform-origin:left}50%{transform:scaleX(1);transform-origin:left}50.1%{transform-origin:right}100%{transform:scaleX(0);transform-origin:right}}

@@ -1,0 +1,29 @@
+{
+  "id": "wave-line-emerald",
+  "name": "Sine Dots — Emerald",
+  "category": "wave",
+  "tags": [
+    "sine",
+    "dots",
+    "translate",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "10px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "1.2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "wave-line"
+}

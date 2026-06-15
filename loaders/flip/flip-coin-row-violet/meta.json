@@ -1,0 +1,29 @@
+{
+  "id": "flip-coin-row-violet",
+  "name": "Flipping Coins — Violet",
+  "category": "flip",
+  "tags": [
+    "coins",
+    "rotate-y",
+    "three",
+    "theme",
+    "violet"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-coin-row"
+}

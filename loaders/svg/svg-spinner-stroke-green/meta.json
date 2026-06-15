@@ -1,0 +1,29 @@
+{
+  "id": "svg-spinner-stroke-green",
+  "name": "SVG Stroke Spinner — Green",
+  "category": "svg",
+  "tags": [
+    "stroke",
+    "rotate",
+    "circle",
+    "theme",
+    "green"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-spinner-stroke"
+}

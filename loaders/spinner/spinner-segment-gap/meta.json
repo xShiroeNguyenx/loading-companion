@@ -1,0 +1,26 @@
+{
+  "id": "spinner-segment-gap",
+  "name": "Segment Gap",
+  "category": "spinner",
+  "tags": [
+    "conic",
+    "gap",
+    "rotate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

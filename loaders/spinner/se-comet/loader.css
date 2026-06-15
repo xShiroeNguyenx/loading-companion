@@ -1,0 +1,2 @@
+.l-se-comet{width:var(--lc-size,46px);aspect-ratio:1;border-radius:50%;background:conic-gradient(from 90deg,transparent,var(--lc-color,#5b8def));-webkit-mask:radial-gradient(farthest-side,#0000 calc(100% - 6px),#000 0);mask:radial-gradient(farthest-side,#0000 calc(100% - 6px),#000 0);animation:l-se-comet-r var(--lc-speed,1s) linear infinite}
+@keyframes l-se-comet-r{to{transform:rotate(1turn)}}

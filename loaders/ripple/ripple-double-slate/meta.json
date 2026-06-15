@@ -1,0 +1,29 @@
+{
+  "id": "ripple-double-slate",
+  "name": "Double Ripple — Slate",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "ring",
+    "expand",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "56px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "ripple-double"
+}

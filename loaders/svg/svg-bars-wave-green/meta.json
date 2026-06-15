@@ -1,0 +1,29 @@
+{
+  "id": "svg-bars-wave-green",
+  "name": "SVG Wave Bars — Green",
+  "category": "svg",
+  "tags": [
+    "bars",
+    "wave",
+    "translate",
+    "theme",
+    "green"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#22c55e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-bars-wave"
+}

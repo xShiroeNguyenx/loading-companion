@@ -1,0 +1,28 @@
+{
+  "id": "svgl-puff-violet",
+  "name": "SVG Puff — Violet",
+  "category": "ripple",
+  "tags": [
+    "rings",
+    "expand",
+    "fade",
+    "theme",
+    "violet"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#8b5cf6"
+  },
+  "source": {
+    "name": "SVG Loaders",
+    "url": "https://github.com/SamHerbert/SVG-Loaders",
+    "author": "Sam Herbert"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Sam Herbert",
+  "generated": true,
+  "baseId": "svgl-puff"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "combo-favicon-pulse-blue",
+  "name": "Favicon + Pulse — Blue",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "brand",
+    "favicon",
+    "pulse",
+    "logo",
+    "text",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "64px",
+    "--lc-color": "#3b82f6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-favicon-pulse"
+}

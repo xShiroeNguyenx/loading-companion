@@ -1,0 +1,6 @@
+.l-orbit-dual-teal{--lc-color:#14b8a6}
+.l-orbit-dual-teal{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px);animation:l-orbit-dual-teal-rot var(--lc-speed,1.3s) linear infinite}
+.l-orbit-dual-teal span{position:absolute;width:calc(var(--lc-size,48px)/4);height:calc(var(--lc-size,48px)/4);border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-orbit-dual-teal span:first-child{top:0;left:calc(50% - var(--lc-size,48px)/8)}
+.l-orbit-dual-teal span:last-child{bottom:0;left:calc(50% - var(--lc-size,48px)/8);opacity:.5}
+@keyframes l-orbit-dual-teal-rot{to{transform:rotate(1turn)}}

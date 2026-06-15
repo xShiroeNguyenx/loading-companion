@@ -1,0 +1,30 @@
+{
+  "id": "se-triple-pulse-indigo",
+  "name": "Triple Pulse — Indigo",
+  "category": "dots",
+  "tags": [
+    "single-element",
+    "dots",
+    "pseudo",
+    "pulse",
+    "theme",
+    "indigo"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-triple-pulse"
+}

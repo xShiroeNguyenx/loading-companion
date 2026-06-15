@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-text-blue",
+  "name": "Spinner + Text — Blue",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "text",
+    "ellipsis",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#3b82f6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-text"
+}

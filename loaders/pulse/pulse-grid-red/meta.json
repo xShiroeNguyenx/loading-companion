@@ -1,0 +1,29 @@
+{
+  "id": "pulse-grid-red",
+  "name": "Pulse Grid — Red",
+  "category": "pulse",
+  "tags": [
+    "grid",
+    "pulse",
+    "nine",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "pulse-grid"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "combo-app-boot-teal",
+  "name": "App Boot — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "spinner",
+    "logo",
+    "dots",
+    "text",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#14b8a6",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-app-boot"
+}

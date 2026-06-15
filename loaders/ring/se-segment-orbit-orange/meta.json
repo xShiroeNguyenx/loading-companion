@@ -1,0 +1,30 @@
+{
+  "id": "se-segment-orbit-orange",
+  "name": "Segment Orbit — Orange",
+  "category": "ring",
+  "tags": [
+    "single-element",
+    "conic",
+    "mask",
+    "arc",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#f97316",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-segment-orbit"
+}

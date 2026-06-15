@@ -1,0 +1,32 @@
+{
+  "id": "combo-media-player-red",
+  "name": "Media Player — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "bars",
+    "text",
+    "bar",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#ef4444",
+    "--lc-track": "#e2e8f0",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-media-player"
+}

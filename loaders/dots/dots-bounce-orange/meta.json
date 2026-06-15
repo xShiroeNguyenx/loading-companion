@@ -1,0 +1,28 @@
+{
+  "id": "dots-bounce-orange",
+  "name": "Bouncing Dots — Orange",
+  "category": "dots",
+  "tags": [
+    "bounce",
+    "three",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "12px",
+    "--lc-color": "#f97316",
+    "--lc-speed": ".6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "dots-bounce"
+}

@@ -1,0 +1,3 @@
+.l-progress-counter-blue{--lc-color:#3b82f6}
+.l-progress-counter-blue{font:600 var(--lc-size,20px)/1 ui-monospace,monospace;color:var(--lc-color,#5b8def);display:inline-flex;align-items:baseline;gap:1px}
+.l-progress-counter-blue-p{font-size:.6em;opacity:.7}

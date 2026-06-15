@@ -1,0 +1,4 @@
+.l-ring-orbit-indigo{--lc-color:#6366f1}
+.l-ring-orbit-indigo{position:relative;width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:2px solid color-mix(in srgb,var(--lc-color,#5b8def) 20%,transparent);animation:l-ring-orbit-indigo-rot var(--lc-speed,1s) linear infinite}
+.l-ring-orbit-indigo span{position:absolute;top:calc(var(--lc-size,48px)/-12);left:50%;width:calc(var(--lc-size,48px)/6);height:calc(var(--lc-size,48px)/6);margin-left:calc(var(--lc-size,48px)/-12);border-radius:50%;background:var(--lc-color,#5b8def)}
+@keyframes l-ring-orbit-indigo-rot{to{transform:rotate(1turn)}}

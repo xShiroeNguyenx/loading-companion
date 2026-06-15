@@ -1,0 +1,6 @@
+.l-se-clock-green{--lc-color:#22c55e}
+.l-se-clock-green{position:relative;width:var(--lc-size,44px);aspect-ratio:1;border-radius:50%;border:2px solid color-mix(in srgb,var(--lc-color,#5b8def) 30%,transparent)}
+.l-se-clock-green::before,.l-se-clock-green::after{content:'';position:absolute;left:50%;bottom:50%;margin-left:-1.5px;width:3px;background:var(--lc-color,#5b8def);border-radius:2px;transform-origin:bottom}
+.l-se-clock-green::before{height:34%;animation:l-se-clock-green-r var(--lc-speed,2s) linear infinite}
+.l-se-clock-green::after{height:24%;animation:l-se-clock-green-r calc(var(--lc-speed,2s)*4) linear infinite}
+@keyframes l-se-clock-green-r{to{transform:rotate(1turn)}}

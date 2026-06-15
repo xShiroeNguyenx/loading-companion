@@ -1,0 +1,5 @@
+.l-combo-bar-percent-blue{--lc-color:#3b82f6}
+.l-combo-bar-percent-blue{display:flex;align-items:center;gap:10px;font:600 12px/1 ui-monospace,monospace;color:var(--lc-color,#5b8def)}
+.l-combo-bar-percent-blue-t{width:var(--lc-size,180px);height:8px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-combo-bar-percent-blue-fill{height:100%;width:0;border-radius:4px;background:var(--lc-color,#5b8def)}
+.l-combo-bar-percent-blue-n{min-width:34px;text-align:right}

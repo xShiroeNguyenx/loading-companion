@@ -1,0 +1,27 @@
+{
+  "id": "flip-coin-row",
+  "name": "Flipping Coins",
+  "category": "flip",
+  "tags": [
+    "coins",
+    "rotate-y",
+    "three"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

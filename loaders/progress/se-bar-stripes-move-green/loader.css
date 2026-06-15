@@ -1,0 +1,3 @@
+.l-se-bar-stripes-move-green{--lc-color:#22c55e}
+.l-se-bar-stripes-move-green{width:var(--lc-size,200px);height:12px;border-radius:6px;background:repeating-linear-gradient(45deg,var(--lc-color,#5b8def) 0 14px,color-mix(in srgb,var(--lc-color,#5b8def) 70%,#fff) 14px 28px);background-size:40px 100%;animation:l-se-bar-stripes-move-green-s var(--lc-speed,1s) linear infinite}
+@keyframes l-se-bar-stripes-move-green-s{to{background-position:40px 0}}

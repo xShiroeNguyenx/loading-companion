@@ -1,0 +1,32 @@
+{
+  "id": "combo-app-boot-red",
+  "name": "App Boot — Red",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "spinner",
+    "logo",
+    "dots",
+    "text",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#ef4444",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-app-boot"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "progress-bar-gradient-orange",
+  "name": "Gradient Bar — Orange",
+  "category": "progress",
+  "tags": [
+    "bar",
+    "gradient",
+    "flow",
+    "theme",
+    "orange"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "220px",
+    "--lc-color": "#f97316",
+    "--lc-color-2": "#a855f7",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-bar-gradient"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "combo-wifi-text",
+  "name": "Signal + Text + Dots",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "signal",
+    "text",
+    "dots"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

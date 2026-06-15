@@ -1,0 +1,29 @@
+{
+  "id": "svg-square-draw-indigo",
+  "name": "SVG Square Trace — Indigo",
+  "category": "svg",
+  "tags": [
+    "square",
+    "dash",
+    "trace",
+    "theme",
+    "indigo"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#6366f1",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-square-draw"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "se-bar-sweep-emerald",
+  "name": "Bar Sweep — Emerald",
+  "category": "progress",
+  "tags": [
+    "single-element",
+    "bar",
+    "sweep",
+    "pseudo",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "200px",
+    "--lc-color": "#10b981",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-bar-sweep"
+}

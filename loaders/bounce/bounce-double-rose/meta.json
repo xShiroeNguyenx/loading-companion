@@ -1,0 +1,29 @@
+{
+  "id": "bounce-double-rose",
+  "name": "Double Bounce — Rose",
+  "category": "bounce",
+  "tags": [
+    "bounce",
+    "two",
+    "fade",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "bounce-double"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "svg-circle-dash-rose",
+  "name": "SVG Dash Circle — Rose",
+  "category": "svg",
+  "tags": [
+    "dash",
+    "rotate",
+    "circle",
+    "theme",
+    "rose"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-circle-dash"
+}

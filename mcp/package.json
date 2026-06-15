@@ -1,0 +1,13 @@
+{
+  "name": "@loading-companion/mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server exposing the Loading Companion registry to AI agents.",
+  "bin": { "loading-companion-mcp": "server.mjs" },
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.0",
+    "zod": "^3.23.8"
+  }
+}

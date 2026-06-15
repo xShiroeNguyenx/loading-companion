@@ -1,0 +1,7 @@
+.l-dots-collision-green{--lc-color:#22c55e}
+.l-dots-collision-green{position:relative;width:48px;height:var(--lc-size,14px)}
+.l-dots-collision-green span{position:absolute;top:0;width:var(--lc-size,14px);height:var(--lc-size,14px);border-radius:50%;background:var(--lc-color,#5b8def)}
+.l-dots-collision-green span:first-child{left:0;animation:l-dots-collision-green-l var(--lc-speed,1s) ease-in-out infinite}
+.l-dots-collision-green span:last-child{right:0;animation:l-dots-collision-green-r var(--lc-speed,1s) ease-in-out infinite}
+@keyframes l-dots-collision-green-l{0%,100%{transform:translateX(0)}50%{transform:translateX(17px)}}
+@keyframes l-dots-collision-green-r{0%,100%{transform:translateX(0)}50%{transform:translateX(-17px)}}

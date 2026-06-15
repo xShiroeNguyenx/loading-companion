@@ -1,0 +1,27 @@
+{
+  "id": "text-underline",
+  "name": "Underline Sweep",
+  "category": "text",
+  "tags": [
+    "text",
+    "underline",
+    "sweep"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

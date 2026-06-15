@@ -1,0 +1,30 @@
+{
+  "id": "se-pie-grow-red",
+  "name": "Growing Pie — Red",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "pie",
+    "property",
+    "theme",
+    "red"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#ef4444",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-pie-grow"
+}

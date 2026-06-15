@@ -1,0 +1,29 @@
+{
+  "id": "flip-coin-row-cyan",
+  "name": "Flipping Coins — Cyan",
+  "category": "flip",
+  "tags": [
+    "coins",
+    "rotate-y",
+    "three",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#06b6d4",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "flip-coin-row"
+}

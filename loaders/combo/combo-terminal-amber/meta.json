@@ -1,0 +1,30 @@
+{
+  "id": "combo-terminal-amber",
+  "name": "Terminal Boot — Amber",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "text",
+    "typing",
+    "spinner",
+    "theme",
+    "amber"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-terminal"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3d-cube-emerald",
+  "name": "3D Spinning Cube — Emerald",
+  "category": "3d",
+  "tags": [
+    "cube",
+    "rotate",
+    "perspective",
+    "theme",
+    "emerald"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "44px",
+    "--lc-color": "#10b981",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "3d-cube"
+}

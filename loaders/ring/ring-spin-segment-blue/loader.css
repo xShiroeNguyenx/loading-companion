@@ -1,0 +1,3 @@
+.l-ring-spin-segment-blue{--lc-color:#3b82f6}
+.l-ring-spin-segment-blue{width:var(--lc-size,48px);height:var(--lc-size,48px);border-radius:50%;border:calc(var(--lc-size,48px)/9) solid color-mix(in srgb,var(--lc-color,#5b8def) 18%,transparent);border-right-color:var(--lc-color,#5b8def);animation:l-ring-spin-segment-blue-r var(--lc-speed,1s) linear infinite}
+@keyframes l-ring-spin-segment-blue-r{to{transform:rotate(1turn)}}

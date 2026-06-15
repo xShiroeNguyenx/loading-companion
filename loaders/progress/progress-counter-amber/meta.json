@@ -1,0 +1,29 @@
+{
+  "id": "progress-counter-amber",
+  "name": "Percent Counter — Amber",
+  "category": "progress",
+  "tags": [
+    "counter",
+    "percent",
+    "number",
+    "theme",
+    "amber"
+  ],
+  "tech": "css+js",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "20px",
+    "--lc-color": "#f59e0b",
+    "--lc-speed": "30ms"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-counter"
+}

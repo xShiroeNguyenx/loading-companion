@@ -1,0 +1,6 @@
+.l-dots-bounce-indigo{--lc-color:#6366f1}
+.l-dots-bounce-indigo{display:flex;gap:calc(var(--lc-size,12px)/1.5);align-items:flex-end;height:calc(var(--lc-size,12px)*2.2)}
+.l-dots-bounce-indigo span{width:var(--lc-size,12px);height:var(--lc-size,12px);border-radius:50%;background:var(--lc-color,#5b8def);animation:l-dots-bounce-indigo-b var(--lc-speed,.6s) ease-in-out infinite alternate}
+.l-dots-bounce-indigo span:nth-child(2){animation-delay:.2s}
+.l-dots-bounce-indigo span:nth-child(3){animation-delay:.4s}
+@keyframes l-dots-bounce-indigo-b{from{transform:translateY(0)}to{transform:translateY(calc(var(--lc-size,12px)*-1.1))}}

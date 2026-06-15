@@ -1,0 +1,30 @@
+{
+  "id": "se-pie-grow-blue",
+  "name": "Growing Pie — Blue",
+  "category": "spinner",
+  "tags": [
+    "single-element",
+    "conic",
+    "pie",
+    "property",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "46px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "se-pie-grow"
+}

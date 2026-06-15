@@ -1,0 +1,5 @@
+.l-se-arc-dual-chase{position:relative;width:var(--lc-size,46px);aspect-ratio:1}
+.l-se-arc-dual-chase::before,.l-se-arc-dual-chase::after{content:'';position:absolute;inset:0;border-radius:50%;border:3px solid transparent}
+.l-se-arc-dual-chase::before{border-top-color:var(--lc-color,#5b8def);animation:l-se-arc-dual-chase-r var(--lc-speed,1s) linear infinite}
+.l-se-arc-dual-chase::after{inset:7px;border-bottom-color:var(--lc-color,#5b8def);animation:l-se-arc-dual-chase-r var(--lc-speed,1s) linear infinite reverse}
+@keyframes l-se-arc-dual-chase-r{to{transform:rotate(1turn)}}

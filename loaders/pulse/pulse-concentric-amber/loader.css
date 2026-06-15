@@ -1,0 +1,6 @@
+.l-pulse-concentric-amber{--lc-color:#f59e0b}
+.l-pulse-concentric-amber{position:relative;width:var(--lc-size,46px);height:var(--lc-size,46px)}
+.l-pulse-concentric-amber span{position:absolute;inset:0;border-radius:50%;background:var(--lc-color,#5b8def);animation:l-pulse-concentric-amber-p var(--lc-speed,1.8s) ease-out infinite}
+.l-pulse-concentric-amber span:nth-child(2){animation-delay:calc(var(--lc-speed,1.8s)/-3)}
+.l-pulse-concentric-amber span:nth-child(3){animation-delay:calc(var(--lc-speed,1.8s)/-1.5)}
+@keyframes l-pulse-concentric-amber-p{0%{transform:scale(0);opacity:.6}100%{transform:scale(1);opacity:0}}

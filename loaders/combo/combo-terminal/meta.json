@@ -1,0 +1,28 @@
+{
+  "id": "combo-terminal",
+  "name": "Terminal Boot",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "text",
+    "typing",
+    "spinner"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-speed": "4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

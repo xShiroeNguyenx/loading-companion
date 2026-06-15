@@ -1,0 +1,31 @@
+{
+  "id": "combo-spinner-dual-text-cyan",
+  "name": "Dual Ring + Text — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "dual",
+    "text",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#06b6d4",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-spinner-dual-text"
+}

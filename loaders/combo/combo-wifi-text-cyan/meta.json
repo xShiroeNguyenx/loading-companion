@@ -1,0 +1,31 @@
+{
+  "id": "combo-wifi-text-cyan",
+  "name": "Signal + Text + Dots — Cyan",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "multi",
+    "signal",
+    "text",
+    "dots",
+    "theme",
+    "cyan"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#06b6d4",
+    "--lc-text": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-wifi-text"
+}

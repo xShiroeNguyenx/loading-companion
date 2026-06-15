@@ -1,0 +1,28 @@
+{
+  "id": "combo-stepper",
+  "name": "Stepper",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "steps",
+    "progress",
+    "sequence"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#5b8def",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": false,
+  "baseId": null
+}

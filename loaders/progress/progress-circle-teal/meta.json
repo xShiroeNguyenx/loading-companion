@@ -1,0 +1,30 @@
+{
+  "id": "progress-circle-teal",
+  "name": "Circular Sweep — Teal",
+  "category": "progress",
+  "tags": [
+    "circle",
+    "conic",
+    "loop",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "54px",
+    "--lc-color": "#14b8a6",
+    "--lc-track": "#e2e8f0",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "progress-circle"
+}

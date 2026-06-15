@@ -1,0 +1,29 @@
+{
+  "id": "text-underline-slate",
+  "name": "Underline Sweep — Slate",
+  "category": "text",
+  "tags": [
+    "text",
+    "underline",
+    "sweep",
+    "theme",
+    "slate"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "18px",
+    "--lc-color": "#64748b",
+    "--lc-speed": "1.6s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "text-underline"
+}

@@ -1,0 +1,6 @@
+.l-se-cross-spin-rose{--lc-color:#f43f5e}
+.l-se-cross-spin-rose{position:relative;width:var(--lc-size,40px);aspect-ratio:1;animation:l-se-cross-spin-rose-r var(--lc-speed,1.2s) ease-in-out infinite}
+.l-se-cross-spin-rose::before,.l-se-cross-spin-rose::after{content:'';position:absolute;inset:0;margin:auto;background:var(--lc-color,#5b8def);border-radius:3px}
+.l-se-cross-spin-rose::before{width:100%;height:20%}
+.l-se-cross-spin-rose::after{width:20%;height:100%}
+@keyframes l-se-cross-spin-rose-r{to{transform:rotate(1turn)}}

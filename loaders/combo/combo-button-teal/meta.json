@@ -1,0 +1,29 @@
+{
+  "id": "combo-button-teal",
+  "name": "Button + Spinner — Teal",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "button",
+    "text",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-color": "#14b8a6",
+    "--lc-speed": ".8s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-button"
+}

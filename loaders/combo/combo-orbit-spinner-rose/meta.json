@@ -1,0 +1,30 @@
+{
+  "id": "combo-orbit-spinner-rose",
+  "name": "Spinner + Orbit Dot — Rose",
+  "category": "combo",
+  "tags": [
+    "combo",
+    "spinner",
+    "orbit",
+    "layered",
+    "theme",
+    "rose"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "50px",
+    "--lc-color": "#f43f5e",
+    "--lc-speed": "1s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "combo-orbit-spinner"
+}

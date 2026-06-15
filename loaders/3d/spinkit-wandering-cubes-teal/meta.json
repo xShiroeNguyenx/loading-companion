@@ -1,0 +1,29 @@
+{
+  "id": "spinkit-wandering-cubes-teal",
+  "name": "SpinKit Wandering Cubes — Teal",
+  "category": "3d",
+  "tags": [
+    "cubes",
+    "path",
+    "two",
+    "theme",
+    "teal"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#14b8a6",
+    "--lc-speed": "1.8s"
+  },
+  "source": {
+    "name": "SpinKit",
+    "url": "https://github.com/tobiasahlin/SpinKit",
+    "author": "Tobias Ahlin"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2015 Tobias Ahlin",
+  "generated": true,
+  "baseId": "spinkit-wandering-cubes"
+}

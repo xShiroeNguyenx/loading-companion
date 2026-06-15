@@ -1,0 +1,29 @@
+{
+  "id": "svg-spinner-stroke-violet",
+  "name": "SVG Stroke Spinner — Violet",
+  "category": "svg",
+  "tags": [
+    "stroke",
+    "rotate",
+    "circle",
+    "theme",
+    "violet"
+  ],
+  "tech": "svg",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "48px",
+    "--lc-color": "#8b5cf6",
+    "--lc-speed": "1.4s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "copyright": null,
+  "generated": true,
+  "baseId": "svg-spinner-stroke"
+}

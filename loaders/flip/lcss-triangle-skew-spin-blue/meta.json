@@ -1,0 +1,29 @@
+{
+  "id": "lcss-triangle-skew-spin-blue",
+  "name": "Triangle Skew Spin — Blue",
+  "category": "flip",
+  "tags": [
+    "triangle",
+    "skew",
+    "3d",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "24px",
+    "--lc-color": "#3b82f6",
+    "--lc-speed": "3s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-triangle-skew-spin"
+}

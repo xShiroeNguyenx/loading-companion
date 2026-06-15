@@ -1,0 +1,4 @@
+.l-se-bar-sweep-orange{--lc-color:#f97316}
+.l-se-bar-sweep-orange{position:relative;width:var(--lc-size,200px);height:8px;border-radius:4px;background:var(--lc-track,#e2e8f0);overflow:hidden}
+.l-se-bar-sweep-orange::before{content:'';position:absolute;top:0;left:-40%;height:100%;width:40%;border-radius:4px;background:var(--lc-color,#5b8def);animation:l-se-bar-sweep-orange-s var(--lc-speed,1.4s) ease-in-out infinite}
+@keyframes l-se-bar-sweep-orange-s{0%{left:-40%}100%{left:100%}}

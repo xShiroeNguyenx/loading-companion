@@ -1,0 +1,5 @@
+.l-se-ripple-pseudo-emerald{--lc-color:#10b981}
+.l-se-ripple-pseudo-emerald{position:relative;width:var(--lc-size,52px);aspect-ratio:1}
+.l-se-ripple-pseudo-emerald::before,.l-se-ripple-pseudo-emerald::after{content:'';position:absolute;inset:0;border-radius:50%;border:3px solid var(--lc-color,#5b8def);animation:l-se-ripple-pseudo-emerald-r var(--lc-speed,1.6s) cubic-bezier(0,.2,.8,1) infinite}
+.l-se-ripple-pseudo-emerald::after{animation-delay:calc(var(--lc-speed,1.6s)/-2)}
+@keyframes l-se-ripple-pseudo-emerald-r{0%{transform:scale(.1);opacity:1}100%{transform:scale(1);opacity:0}}

@@ -1,0 +1,28 @@
+{
+  "id": "lcss-pacman-blue",
+  "name": "Pacman — Blue",
+  "category": "spinner",
+  "tags": [
+    "pacman",
+    "chomp",
+    "dots",
+    "theme",
+    "blue"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "40px",
+    "--lc-color": "#3b82f6"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": true,
+  "baseId": "lcss-pacman"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ripple-triple",
+  "name": "Triple Ripple",
+  "category": "ripple",
+  "tags": [
+    "ripple",
+    "rings",
+    "expand"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "60px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": "2s"
+  },
+  "source": {
+    "name": "Loading Companion",
+    "url": "https://github.com/loading-companion",
+    "author": "Loading Companion"
+  },
+  "license": "MIT",
+  "generated": false,
+  "baseId": null
+}

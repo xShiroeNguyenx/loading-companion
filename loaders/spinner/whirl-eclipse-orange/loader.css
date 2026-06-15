@@ -1,0 +1,4 @@
+.l-whirl-eclipse-orange{--lc-color:#f97316}
+.l-whirl-eclipse-orange{position:relative;width:40px;height:40px;border-radius:50%;background:var(--lc-color,#5b8def);overflow:hidden}
+.l-whirl-eclipse-orange span{position:absolute;top:0;left:0;width:40px;height:40px;border-radius:50%;background:var(--lc-bg,#f1f5f9);animation:l-whirl-eclipse-orange-e var(--lc-speed,1.6s) ease-in-out infinite}
+@keyframes l-whirl-eclipse-orange-e{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}

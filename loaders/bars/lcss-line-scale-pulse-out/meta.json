@@ -1,0 +1,28 @@
+{
+  "id": "lcss-line-scale-pulse-out",
+  "name": "Line Scale Pulse Out",
+  "category": "bars",
+  "tags": [
+    "lines",
+    "scale",
+    "pulse-out"
+  ],
+  "tech": "css",
+  "framework": "none",
+  "dependencies": [],
+  "variables": {
+    "--lc-size": "4px",
+    "--lc-height": "40px",
+    "--lc-color": "#5b8def",
+    "--lc-speed": ".9s"
+  },
+  "source": {
+    "name": "Loaders.css",
+    "url": "https://github.com/ConnorAtherton/loaders.css",
+    "author": "Connor Atherton"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) 2014 Connor Atherton",
+  "generated": false,
+  "baseId": null
+}
