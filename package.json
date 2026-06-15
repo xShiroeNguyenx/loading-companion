@@ -1,6 +1,6 @@
 {
   "name": "loading-companion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library of 2400+ loading animations as a machine-readable registry, plus an MCP server for AI agents. Import the catalog, or run the MCP.",
   "type": "module",
   "license": "MIT",
@@ -14,8 +14,18 @@
     "url": "https://github.com/xShiroeNguyenx/loading-companion/issues"
   },
   "keywords": [
-    "loading", "loader", "loaders", "spinner", "spinners", "css",
-    "animation", "skeleton", "progress", "registry", "mcp", "ai"
+    "loading",
+    "loader",
+    "loaders",
+    "spinner",
+    "spinners",
+    "css",
+    "animation",
+    "skeleton",
+    "progress",
+    "registry",
+    "mcp",
+    "ai"
   ],
   "main": "./index.mjs",
   "module": "./index.mjs",
